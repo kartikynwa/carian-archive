@@ -6,7 +6,7 @@ Created on Sun Mar 13 01:33:31 2022
 """
 import xml.etree.ElementTree as ET
 import json
-
+import os
 from pathlib import Path
 
 npc_overloads = {}
@@ -99,14 +99,15 @@ def singleTextFiles(path):
 
 
 root = Path(r"./GameText/GR/data/INTERROOT_win64/msg/engUS")
-
+dump_folder = Path(__file__).resolve().parent / "json"
+dump_folder.mkdir(exist_ok=True)
 
 def dump_json(entity_type, *args):
     files = {
         att: root / (entity_type.title() + att.title() + ".fmg.xml") for att in args
     }
     dump = prepare_json(**files)
-    with open(f"json/{entity_type}.json", "w") as f:
+    with open(dump_folder / f"{entity_type}.json", "w") as f:
         json.dump(dump, f)
 
 
@@ -119,5 +120,5 @@ for key in dialogues:
     if key in npc_map:
         dialogues[key]["name"] = npc_map[key]
 
-with open("./json/npc_dialogues.json", "w") as f:
+with open(dump_folder / "npc_dialogues.json", "w") as f:
     json.dump(dialogues, f)
