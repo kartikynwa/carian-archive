@@ -5,120 +5,126 @@ Created on Sun Mar 13 01:33:31 2022
 @author: Asterisk
 """
 import xml.etree.ElementTree as ET
-import json
-import os
+import markdown
+
 from pathlib import Path
 
-npc_overloads = {}
+npcOverloads = {}
 
-
-def load_npc_names(path):
-    npcNames = load_text_file(path)
+def loadNPCNames(root,lang="engUS"):
+    path = str(root/(r"GR\data\INTERROOT_win64\msg\%s\NpcName.fmg.xml"%(lang)))
+    npcNames = loadTextFile(path)
     remapping = {}
     for ids in npcNames:
         if str(ids)[0] == "1":
             remapping[int(str(ids)[1:-1])] = npcNames[ids]
-    for key in npc_overloads:
-        remapping[key] = npc_overloads[key]
+    for key in npcOverloads:
+        remapping[key] = npcOverloads[key]
     return remapping
 
+def parseNPCDialogue(path, npcNames = {},output = print):
+    l_npc = 0
+    l_section = 0
+    data = loadTextFile(path)
+    for identifier in data:
+        step = identifier%1000
+        section = (identifier//1000)%100
+        npc = (identifier//100000)
+        if npc != l_npc:
+            if npc in npcNames:
+                output("### %s [%04d]"%(npcNames[npc],npc))
+            else:
+                output("### %04d"%(npc))
+            l_npc = npc
+            l_section = -1
+        if section != l_section:
+            output("#### Section %02d"%section)
+            l_section = section
+        if data[identifier]:
+            output("[%d] "%(identifier) + data[identifier]+"  ")
+    return
 
-def parse_npc_dialogue(path):
-    dialogues = {}
-
-    def get_dialogue(npc_id, section_id):
-        if not npc_id in dialogues:
-            dialogues[npc_id] = {}
-        sections = dialogues[npc_id]
-        if section_id not in sections:
-            sections[section_id] = []
-        return sections[section_id]
-
-    data = load_text_file(path)
-    for identifier, line in data.items():
-        line = line.strip()
-        if not line:
-            continue
-        # step = identifier % 1000
-        section = (identifier // 1000) % 100
-        npc = identifier // 100000
-        get_dialogue(npc, section).append(line)
-    return dialogues
-
-
-def load_text_file(path):
+def loadTextFile(path):
     tree = ET.parse(path)
     root = tree.getroot()
-    text_elements = list(list(root)[3])
+    textElements = root.getchildren()[3].getchildren()
     elements = {}
-    for element in text_elements:
+    for element in textElements:
         identifier = int(element.items()[0][1])
         text = element.text
         if "%null%" not in text:
             elements[identifier] = text
     return elements
 
-
-def pairedTextFiles(path0, path1):
+def pairedTextFiles(path0,path1):
     merged = {}
-    l, r = map(load_text_file, [path0, path1])
+    l,r = map(loadTextFile,[path0,path1])
     for key in l:
         if key in r:
-            merged[key] = (l[key], r[key])
+            merged[key] = (l[key],r[key])
         else:
-            merged[key] = (l[key], "")
+            merged[key] = (l[key],"")
     for key in r:
         if key not in merged:
-            merged[key] = ("", r[key])
+            merged[key] = ("",r[key])
     return merged
-
-
-def prepare_json(**kwargs):
-    texts = {key: load_text_file(path) for key, path in kwargs.items()}
-    merged = {}
-
-    def get_dict(id):
-        if id not in merged:
-            merged[id] = {}
-        return merged[id]
-
-    for key, loaded in texts.items():
-        for id, text in loaded.items():
-            info = get_dict(id)
-            info[key] = text
-
-    return merged
-
 
 def singleTextFiles(path):
-    l = load_text_file(path)
+    l = loadTextFile(path)
     m = {}
     for key in l:
-        m[key] = ("", l[key])
+        m[key] = ("",l[key])
     return m
 
+def loadFromChunk(chunk,lang = "engUS"):
+    knownPairs = {"TutorialTitle":"TutorialBody",
+                  "LoadingTitle":"LoadingText",
+                  "AccessoryName":"AccessoryCaption",
+                  "ArtsName":"ArtsCaption",
+                  "GemName":"GemCaption",
+                  "GoodsName":"GoodsCaption",
+                  "MagicName":"MagicCaption",
+                  "ProtectorName":"ProtectorCaption",
+                  "WeaponName":"WeaponCaption",
+                  }
+    knownPairs = {k+".fmg":t+".fmg" for k,t in knownPairs.items()}
+    pairTargets = {knownPairs[p]:p for p in knownPairs}
+    master = []
+    npcIds = loadNPCNames(chunk,lang)
+    duplicates = set()
+    for file in chunk.rglob("*.xml"):
+        if "ToS" in file.stem:
+            continue
+        if file.stem in knownPairs:
+            text = pairedTextFiles(str(file),
+                                   str(file).replace(file.stem,
+                                                     knownPairs[file.stem]))
+        elif file.stem in pairTargets:
+            continue
+        else:
+            text = singleTextFiles(str(file))
+        master.append("\n\n## %s\n"%file.stem)
+        if file.stem == "TalkMsg.fmg":
+            parseNPCDialogue(file,npcIds,master.append)
+        else:
+            for key,(title,description) in text.items():
+                if description in duplicates:
+                    continue
+                duplicates.add(description)
+                if title:
+                    master.append("\n### %s [%d]"%(title,key))
+                    master.append(description)
+                else:
+                    master.append("[%d] %s\n"%(key,description))
+    text = "\n".join(master)
+    return text
 
-root = Path(r"./GameText/GR/data/INTERROOT_win64/msg/engUS")
-dump_folder = Path(__file__).resolve().parent / "json"
-dump_folder.mkdir(exist_ok=True)
-
-def dump_json(entity_type, *args):
-    files = {
-        att: root / (entity_type.title() + att.title() + ".fmg.xml") for att in args
-    }
-    dump = prepare_json(**files)
-    with open(dump_folder / f"{entity_type}.json", "w") as f:
-        json.dump(dump, f)
-
-
-for entity_type in ("accessory", "arts", "gem", "goods", "protector", "weapon"):
-    dump_json(entity_type, "name", "caption")
-
-npc_map = load_npc_names(root / "NpcName.fmg.xml")
-dialogues = parse_npc_dialogue(root / "TalkMsg.fmg.xml")
-for key in dialogues:
-    if key in npc_map:
-        dialogues[key]["name"] = npc_map[key]
-
-with open(dump_folder / "npc_dialogues.json", "w") as f:
-    json.dump(dialogues, f)
+chunk = Path(r".\GameText")
+text = loadFromChunk(chunk)
+with open("Master.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
+    
+chunk = Path(r".\GameTextJP")
+text = loadFromChunk(chunk,"jpnJP")
+with open("MasterJP.html","w",encoding = "utf8") as outf:
+    outf.write(markdown.markdown(text))
