@@ -6,7 +6,6 @@ Created on Sun Mar 13 01:33:31 2022
 """
 import xml.etree.ElementTree as ET
 import json
-import os
 from pathlib import Path
 
 npc_overloads = {}
