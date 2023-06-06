@@ -155,3 +155,6 @@ cython_debug/
 
 # Sqlite databases
 *.db
+
+# Don't commit 3GB of sprites YET
+sprites
