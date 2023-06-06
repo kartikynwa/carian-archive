@@ -1,0 +1,31 @@
+{% macro post(entry, entry_type) %}
+<div class="post highlighted">
+  <p class="post_header">
+  <a class="post_subreddit" href="/">{{ entry_type }}</a>
+  </p>
+  <h1 class="post_title">
+    {%- match entry.title -%}
+      {%- when None -%}
+        MISSING TITLE
+      {%- when Some(t) -%}
+        {{ t }}
+    {%- endmatch -%}
+  </h1>
+
+  <!-- POST BODY -->
+  <div class="post_body">
+    {%- match entry.info -%}
+      {%- when None -%}
+        MISSING INFO
+      {%- when Some(i) -%}
+        {{ i }}
+    {%- endmatch -%}
+  </div>
+
+  <div class="post_footer">
+    <ul id="post_links">
+      <li class="desktop_item"><a href="/">permalink</a></li>
+    </ul>
+  </div>
+</div>
+{% endmacro %}

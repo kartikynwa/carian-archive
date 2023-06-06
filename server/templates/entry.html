@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% import "utils.html" as utils%}
+
+{% block content %}
+{% call utils::post(entry, entry_type) %}
+{% endblock %}

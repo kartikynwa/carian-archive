@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% block head %}
+    <title>{% block title %}Carian Archive{% endblock %}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Frontend for Elden Ring text dump.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- General PWA -->
+    <meta name="theme-color" content="#1F1F1F">
+    <!-- iOS Application -->
+    <meta name="apple-mobile-web-app-title" content="Carian Archive">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <!-- Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <!-- iOS Logo -->
+    <!-- <link href="/touch-icon-iphone.png" rel="apple-touch-icon"> -->
+    <!-- PWA Manifest -->
+    <!-- <link rel="manifest" type="application/json" href="/manifest.json"> -->
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">  -->
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    {% endblock %}
+  </head>
+
+  <body>
+    <!-- Navbar -->
+    <nav>
+      <div id="logo">
+        <a id="libreddit" href="/"><span id="lib">carian</span><span id="reddit">archive.</span></a>
+      </div>
+      <!-- {% block search %}{% endblock %} -->
+      <div id="links">
+        <a id="settings_link" href="/">
+          <span>settings</span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <title>settings</title>
+            <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+          </svg>
+        </a>
+      </div>
+    </nav>
+
+    <main>
+      {% block content %}
+      {% endblock %}
+    </main>
+  </body>
+
+  <!-- FOOTER -->
+  {% block footer %}
+  <footer>
+    <div class="footer-button">
+      <a href="/info" title="View instance information">ⓘ View info</a>
+    </div>
+    <div class="footer-button">
+      <a href="https://github.com/libreddit/libreddit" title="UI based on Libreddit">&lt;&gt; Code</a>
+    </div>
+  </footer>
+  {% endblock %}
+</html>
