@@ -30,7 +30,7 @@ def parse_npc_dialogue(path):
             dialogues[npc_id] = {}
         sections = dialogues[npc_id]
         if section_id not in sections:
-            sections[section_id] = []
+            sections[section_id] = {}
         return sections[section_id]
 
     data = load_text_file(path)
@@ -41,7 +41,12 @@ def parse_npc_dialogue(path):
         # step = identifier % 1000
         section = (identifier // 1000) % 100
         npc = identifier // 100000
-        get_dialogue(npc, section).append(line)
+        dialogue = get_dialogue(npc, section)
+        dialogue["id"] = identifier
+        if "dialogue" in dialogue:
+            dialogue["dialogue"].append(line)
+        else:
+            dialogue["dialogue"] = [line]
     return dialogues
 
 
@@ -103,22 +108,45 @@ dump_folder.mkdir(exist_ok=True)
 
 
 def dump_json(entity_type, *args):
+    plural_map = {
+        "accessory": "accessories",
+        "gem": "gems",
+        "protector": "protectors",
+        "weapon": "weapons",
+    }
     files = {
         att: root / (entity_type.title() + att.title() + ".fmg.xml") for att in args
     }
     dump = prepare_json(**files)
+    entity_type = plural_map.get(entity_type) or entity_type
     with open(dump_folder / f"{entity_type}.json", "w") as f:
-        json.dump(dump, f)
+        json.dump(dump, f, indent=2)
 
 
 for entity_type in ("accessory", "arts", "gem", "goods", "protector", "weapon"):
     dump_json(entity_type, "name", "caption")
 
-npc_map = load_npc_names(root / "NpcName.fmg.xml")
+npcs = load_npc_names(root / "NpcName.fmg.xml")
 dialogues = parse_npc_dialogue(root / "TalkMsg.fmg.xml")
-for key in dialogues:
-    if key in npc_map:
-        dialogues[key]["name"] = npc_map[key]
 
-with open(dump_folder / "npc_dialogues.json", "w") as f:
-    json.dump(dialogues, f)
+# Populate missing NPC IDs
+new_npcs = {}
+for npc_key, npc_name in npcs.items():
+    npc_key += 1
+    upper_limit = (npc_key // 10) * 10 + 10
+    while npc_key < upper_limit:
+        if npc_key in npcs:
+            break
+        if npc_key in dialogues:
+            new_npcs[npc_key] = npc_name
+        npc_key += 1
+npcs.update(new_npcs)
+
+
+def _dump_json(basename, _dict):
+    with open(dump_folder / (basename + ".json"), "w") as f:
+        json.dump(_dict, f, indent=2)
+
+
+for basename, _dict in (("npcs", npcs), ("dialogues", dialogues)):
+    _dump_json(basename, _dict)
