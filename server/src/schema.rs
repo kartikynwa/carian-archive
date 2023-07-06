@@ -26,3 +26,40 @@ pub struct CarianArchiveRow {
     pub parent_id: Option<i64>,
     pub parent_title: Option<String>,
 }
+
+pub struct CarianArchiveEntry {
+    pub id: i64,
+    pub game_id: i64,
+    pub entry_type_id: i64,
+    pub entry_type: String,
+    pub title: Option<String>,
+    pub info: Option<String>,
+    pub parent_id: Option<i64>,
+    pub parent_title: Option<String>,
+}
+
+impl CarianArchiveEntry {
+    pub fn from_row(row: CarianArchiveRow) -> Self {
+        let entry_type = match row.entry_type {
+            0 => "Talisman".to_string(),
+            1 => "Unique Weapon Skill".to_string(),
+            2 => "Dialogue".to_string(),
+            3 => "Ash of War".to_string(),
+            4 => "Item".to_string(),
+            5 => "NPC".to_string(),
+            6 => "Armour".to_string(),
+            7 => "Weapon".to_string(),
+            _ => format!("Unknown entry type (id={})", row.entry_type),
+        };
+        CarianArchiveEntry {
+            id: row.id,
+            game_id: row.game_id,
+            entry_type_id: row.entry_type,
+            entry_type,
+            title: row.title,
+            info: row.info,
+            parent_id: row.parent_id,
+            parent_title: row.parent_title,
+        }
+    }
+}

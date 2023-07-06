@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% import "utils.html" as utils%}
+
+{% block content %}
+<div id="column_one">
+  <div id="posts">
+    {% for entry in entries %}
+      {% call utils::post(entry) %}
+      <hr class="sep">
+    {% endfor %}
+  </div>
+  <footer>
+    {% if offset > 0 %}
+      <a href="?term={{ search_term }}&limit={{limit}}&offset={{ offset - limit }}" accesskey="P">PREV</a>
+    {% endif %}
+    {% if has_next_page %}
+      <a href="?term={{ search_term }}&limit={{limit}}&offset={{ limit + offset }}" accesskey="N">NEXT</a>
+    {% endif %}
+  </footer>
+</div>
+{% endblock %}

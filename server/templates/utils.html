@@ -1,15 +1,25 @@
-{% macro post(entry, entry_type) %}
+{% macro post(entry) %}
 <div class="post highlighted">
-  <p class="post_header">
-  <a class="post_subreddit" href="/">{{ entry_type }}</a>
-  </p>
+  <!-- <p class="post_header">
+  <a class="post_subreddit" href="/">{{ entry.entry_type }}</a>
+  </p> -->
   <h1 class="post_title">
-    {%- match entry.title -%}
-      {%- when None -%}
-        MISSING TITLE
-      {%- when Some(t) -%}
-        {{ t }}
-    {%- endmatch -%}
+    {%- if entry.entry_type_id == 2 -%}
+      {%- match entry.parent_title -%}
+        {%- when None -%}
+          Dialogue: Unknown Speaker
+        {%- when Some(t) -%}
+          {{ t }}
+      {%- endmatch -%}
+    {%- else -%}
+      {%- match entry.title -%}
+        {%- when None -%}
+          [MISSING TITLE]
+        {%- when Some(t) -%}
+          {{ t }}
+      {%- endmatch -%}
+    {%- endif -%}
+    <span class="post_flair" style="color:white; background:#8460da;">{{ entry.entry_type }}</span>
   </h1>
 
   <!-- POST BODY -->
@@ -18,13 +28,13 @@
       {%- when None -%}
         MISSING INFO
       {%- when Some(i) -%}
-        {{ i }}
+        {{ i|linebreaksbr|safe }}
     {%- endmatch -%}
   </div>
 
   <div class="post_footer">
     <ul id="post_links">
-      <li class="desktop_item"><a href="/">permalink</a></li>
+      <li class="desktop_item"><a href="/entry/{{ entry.id }}">permalink</a></li>
     </ul>
   </div>
 </div>

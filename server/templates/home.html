@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% import "utils.html" as utils%}
+
+{% block content %}
+<form id="searchbox" action="/search">
+  <input id="search" type="text" name="term" placeholder="Search" title="Search Carian Archive">
+  <div id="inside">
+    <input type="checkbox" name="title_only" id="restrict_sr" checked value="true">
+    <label for="title_only" class="search_label" title="Search in title only">Title only</label>
+  </div>
+  <button class="submit">
+    <svg width="15" viewBox="0 0 110 100" fill="none" stroke-width="10" stroke-linecap="round">
+			<path d="M20 50 H100" />
+			<path d="M75 15 L100 50 L75 85" />
+			&rarr;
+		</svg>
+  </button>
+</form>
+{% endblock %}

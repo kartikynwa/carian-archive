@@ -810,7 +810,7 @@ a.search_subreddit:hover {
   font-weight: 500;
   line-height: 1.5;
   overflow-wrap: anywhere;
-  margin: 5px 15px 5px 12px;
+  margin: 15px 15px 5px 12px;
   grid-area: post_title;
 }
 
@@ -832,11 +832,11 @@ a.search_subreddit:hover {
 .post_flair {
   background: var(--accent);
   color: var(--background);
-  padding: 4px;
-  margin-right: 5px;
+  padding: 2px 4px;
+  margin-left: 5px;
   border-radius: 5px;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .awards {
