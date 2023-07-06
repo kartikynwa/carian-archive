@@ -61,43 +61,31 @@ CREATE TRIGGER carian_archive_au AFTER UPDATE ON carian_archive BEGIN
     INSERT INTO carian_archive_fts(rowid, title, info) VALUES (new.id, new.title, new.info);
 END;
 
-/*
-CREATE TABLE {table_name} (
-    id INTEGER PRIMARY KEY,
-    name TEXT,
-    caption TEXT
+
+CREATE TABLE sprites (
+  id INTEGER PRIMARY KEY,
+  filepath TEXT NOT NULL,
+  basename TEXT NOT NULL,
+  category TEXT NOT NULL,
+  carian_id INTEGER
 );
 
-CREATE TABLE npcs (
-    id INTEGER PRIMARY KEY,
-    name TEXT
-);
-
-CREATE TABLE {table_name} (
-    id INTEGER PRIMARY KEY,
-    npc_id INTEGER,
-    section INTEGER NOT NULL,
-    dialogue TEXT NOT NULL
-);
-
-CREATE VIRTUAL TABLE {table_name}_fts
+CREATE VIRTUAL TABLE sprites_fts
 USING fts5(
-    name,
-    caption,
-    content={table_name},
+    basename,
+    content=sprites,
     content_rowid=id
 );
 
-CREATE TRIGGER {table_name}_ai AFTER INSERT ON {table_name} BEGIN
-    INSERT INTO {table_name}_fts(rowid, name, caption) VALUES (new.id, new.name, new.caption);
+CREATE TRIGGER sprites_ai AFTER INSERT ON sprites BEGIN
+    INSERT INTO sprites_fts(rowid, basename) VALUES (new.id, new.basename);
 END;
 
-CREATE TRIGGER {table_name}_ad AFTER DELETE ON {table_name} BEGIN
-    INSERT INTO {table_name}_fts({table_name}_fts, rowid, name, caption) VALUES('delete', old.id, old.name, old.caption);
+CREATE TRIGGER sprites_ad AFTER DELETE ON sprites BEGIN
+    INSERT INTO sprites_fts(sprites_fts, rowid, basename) VALUES('delete', old.id, old.basename);
 END;
 
-CREATE TRIGGER {table_name}_au AFTER UPDATE ON {table_name} BEGIN
-    INSERT INTO {table_name}_fts({table_name}_fts, rowid, name, caption) VALUES('delete', old.id, old.name, old.caption);
-    INSERT INTO {table_name}_fts(rowid, name, caption) VALUES (new.id, new.name, new.caption);
+CREATE TRIGGER sprites_au AFTER UPDATE ON sprites BEGIN
+    INSERT INTO sprites_fts(sprites_fts, rowid, basename) VALUES('delete', old.id, old.basename);
+    INSERT INTO sprites_fts(rowid, basename) VALUES (new.id, new.basename);
 END;
-*/
