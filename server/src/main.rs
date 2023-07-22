@@ -4,7 +4,7 @@ mod schema;
 use actix_web::{web, App, HttpServer};
 use sqlx::{sqlite::SqlitePoolOptions, SqlitePool};
 
-use routes::{get_entry, home, search, style};
+use routes::{get_entry, get_sprite, home, search, style};
 
 pub struct AppState {
     db: SqlitePool,
@@ -27,6 +27,7 @@ async fn main() -> std::io::Result<()> {
             .service(get_entry)
             .service(search)
             .service(style)
+            .service(get_sprite)
     })
     .bind(("127.0.0.1", 8080))?
     .run()

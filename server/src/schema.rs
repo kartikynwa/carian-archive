@@ -25,6 +25,7 @@ pub struct CarianArchiveRow {
     pub info: Option<String>,
     pub parent_id: Option<i64>,
     pub parent_title: Option<String>,
+    pub sprite_id: Option<i64>,
 }
 
 pub struct CarianArchiveEntry {
@@ -36,6 +37,7 @@ pub struct CarianArchiveEntry {
     pub info: Option<String>,
     pub parent_id: Option<i64>,
     pub parent_title: Option<String>,
+    pub sprite_id: Option<i64>,
 }
 
 impl CarianArchiveEntry {
@@ -60,6 +62,7 @@ impl CarianArchiveEntry {
             info: row.info,
             parent_id: row.parent_id,
             parent_title: row.parent_title,
+            sprite_id: row.sprite_id,
         }
     }
 }

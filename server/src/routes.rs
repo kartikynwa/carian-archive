@@ -1,7 +1,12 @@
-use actix_web::{get, web, HttpResponse, Responder};
+use actix_files::NamedFile;
+use actix_web::{
+    error::{ErrorInternalServerError, ErrorNotFound},
+    get, web, HttpResponse, Responder,
+};
 use askama::Template;
 use serde::Deserialize;
 use sqlx::query_builder::QueryBuilder;
+use std::path::PathBuf;
 
 use crate::schema::{CarianArchiveEntry, CarianArchiveRow};
 use crate::AppState;
@@ -17,12 +22,8 @@ struct EntryTemplate {
 }
 
 #[get("/style.css")]
-pub async fn style() -> impl Responder {
-    let css = include_str!("../static/style.css").to_string();
-    HttpResponse::Ok()
-        .insert_header(("content-type", "text/css"))
-        .insert_header(("cache-control", "public, max-age=1209600, s-maxage=86400"))
-        .body(css)
+pub async fn style() -> Result<NamedFile, actix_web::Error> {
+    Ok(NamedFile::open("static/style.css")?)
 }
 
 #[derive(Deserialize)]
@@ -155,5 +156,28 @@ pub async fn search(data: web::Data<AppState>, query: web::Query<SearchQuery>) -
                 .body(body)
         }
         Err(e) => HttpResponse::InternalServerError().body(format!("Request failed: {:?}", e)),
+    }
+}
+
+#[get("/sprite/{sprite_id}.png")]
+pub async fn get_sprite(
+    data: web::Data<AppState>,
+    path: web::Path<(i64,)>,
+) -> Result<NamedFile, actix_web::Error> {
+    let (sprite_id,) = path.into_inner();
+
+    let result = sqlx::query!("SELECT filepath FROM sprites WHERE id=?", sprite_id)
+        .fetch_one(&data.db)
+        .await;
+
+    let sprite_path: PathBuf = if let Ok(row) = result {
+        row.filepath.into()
+    } else {
+        return Err(ErrorNotFound("Inexistent sprite id"));
+    };
+
+    match NamedFile::open(sprite_path) {
+        Ok(file) => Ok(file),
+        _ => Err(ErrorInternalServerError("Sprite file not found")),
     }
 }
