@@ -1,11 +1,18 @@
 use actix_files::NamedFile;
 use actix_web::{
-    error::{ErrorInternalServerError, ErrorNotFound},
-    get, web, HttpResponse, Responder,
+    // error::{ErrorInternalServerError, ErrorNotFound},
+    get,
+    web,
+    HttpResponse,
+    Responder,
 };
 use askama::Template;
 use serde::Deserialize;
 use sqlx::query_builder::QueryBuilder;
+// use std::{io::Read, path::PathBuf};
+// use image::imageops::resize;
+use image::io::Reader as ImageReader;
+use std::io::Cursor;
 use std::path::PathBuf;
 
 use crate::schema::{CarianArchiveEntry, CarianArchiveRow};
@@ -33,6 +40,11 @@ pub struct SearchQuery {
     offset: Option<u32>,
     entry_type: Option<Vec<u8>>,
     title_only: Option<bool>,
+}
+
+#[derive(Deserialize)]
+pub struct SpriteQuery {
+    thumbnail: Option<u32>,
 }
 
 #[derive(Template)]
@@ -163,8 +175,18 @@ pub async fn search(data: web::Data<AppState>, query: web::Query<SearchQuery>) -
 pub async fn get_sprite(
     data: web::Data<AppState>,
     path: web::Path<(i64,)>,
-) -> Result<NamedFile, actix_web::Error> {
+    query: web::Query<SpriteQuery>,
+) -> impl Responder {
     let (sprite_id,) = path.into_inner();
+
+    let thumbnail_size = if let Some(t_size) = query.thumbnail {
+        if t_size > 500 {
+            return HttpResponse::BadRequest().body("Requested thumbnail size is too large");
+        }
+        Some(t_size)
+    } else {
+        None
+    };
 
     let result = sqlx::query!("SELECT filepath FROM sprites WHERE id=?", sprite_id)
         .fetch_one(&data.db)
@@ -173,11 +195,30 @@ pub async fn get_sprite(
     let sprite_path: PathBuf = if let Ok(row) = result {
         row.filepath.into()
     } else {
-        return Err(ErrorNotFound("Inexistent sprite id"));
+        return HttpResponse::NotFound().body("Inexistent sprite id");
     };
 
-    match NamedFile::open(sprite_path) {
-        Ok(file) => Ok(file),
-        _ => Err(ErrorInternalServerError("Sprite file not found")),
+    let img = match tokio::fs::read(sprite_path).await {
+        Ok(i) => i,
+        _ => return HttpResponse::InternalServerError().body("Could not open sprite file"),
+    };
+
+    if let Some(t_size) = thumbnail_size {
+        let img = ImageReader::with_format(Cursor::new(img), image::ImageFormat::Png)
+            .decode()
+            .unwrap()
+            .thumbnail(t_size, t_size);
+
+        let mut cur = Cursor::new(vec![]);
+
+        img.write_to(&mut cur, image::ImageFormat::Png).unwrap();
+
+        HttpResponse::Ok()
+            .insert_header(("content-type", "image/png"))
+            .body(cur.into_inner())
+    } else {
+        HttpResponse::Ok()
+            .insert_header(("content-type", "image/png"))
+            .body(img)
     }
 }
