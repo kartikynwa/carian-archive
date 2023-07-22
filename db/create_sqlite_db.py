@@ -5,17 +5,8 @@ import json
 from typing import Dict, Any
 import re
 
-def sanitize_search_input(input: str) -> str:
-    return f"\"title\": ^\"{input}\""
-    # return " ".join(f"\"{i}\"" for i in input.split())
-
-def normalize_text(input: str) -> str:
-    input = input.lower()
-    input = re.sub(r'[^a-z ]+', '', input)
-    return input
-
 db_path = "../server/elden_ring.db"
-sprites_dir = "../sprites"
+sprites_dir = "../server/static/sprites"
 
 try:
     os.unlink(db_path)
@@ -31,6 +22,8 @@ with open("./schema.sql") as f:
 cur.executescript(schema)
 
 upgraded_item_regex = re.compile(r"\+\s?\d+$")
+cookbook_regex = re.compile(r"Cookbook\s?\[(\d+)\]$")
+cut_cookbook_regex = re.compile(r"Cookbook\s?\(\d+\)$")
 
 cur.execute("SELECT id, name FROM entry_types")
 type_map = {name: id for id, name in cur.fetchall()}
@@ -58,6 +51,14 @@ for json_file in json_dir.glob("*.json"):
                 name = name.strip()
                 if upgraded_item_regex.search(name):
                     # print("SKIPPING:", name)
+                    continue
+                if m := cookbook_regex.search(name):
+                    print(f"COOKBOOK FOUND: {name}")
+                    if m.group(1) != "1":
+                        continue
+                    name = name[:-4]
+                if cut_cookbook_regex.search(name):
+                    print(f"CUT COOKBOOK FOUND: {name}")
                     continue
             caption = data.get("caption")
             query = f"INSERT INTO carian_archive (game_id, entry_type, title, info) VALUES (?, ?, ?, ?)"
@@ -89,79 +90,10 @@ sprites_dir = Path(__file__).parent / sprites_dir
 for subdir in sprites_dir.glob("*"):
     category = subdir.name
     for sprite in subdir.glob("*.png"):
-        relative_path = sprite.relative_to(Path(__file__).parent)
+        relative_path = sprite.relative_to(Path(__file__).parent / ".." / "server")
         basename = sprite.stem
         cur.execute("INSERT INTO sprites (filepath, basename, category) VALUES (?, ?, ?)", (str(relative_path), str(basename), category))
 
 conn.commit()
-
-try_categories = set([
-    "Ammunition",
-    "Armor",
-    "Ashes of War",
-    "Bell Bearings",
-    "Consumables",
-    "Cookbooks",
-    "Crafting Materials",
-    "Crystal Tears",
-    # "Cut Content", # SKIP FOREVER
-    # "Gestures", # SKIP FOREVER
-    "Great Runes",
-    "Incantations",
-    "Information",
-    "Key Items",
-    # "Loading Screens", # SKIP FOREVER
-    "Map Fragments",
-    # "Misc", # SKIP FOREVER
-    "Multiplayer Items",
-    "Paintings",
-    "Prayer Books & Scrolls",
-    "Remembrances",
-    "Sorceries",
-    # "Spell Emblems", # SKIP FOREVER
-    "Spirit Ashes",
-    "Talismans",
-    # "Tools", # SKIP FOR NOW
-    # "Tutorials", # SKIP FOREVER
-    "Upgrade Materials",
-    "Weapons",
-])
-
-for subdir in sprites_dir.glob("*"):
-    category = subdir.name
-    if category not in try_categories:
-        continue
-    cur.execute("SELECT id, basename FROM sprites WHERE category=?", (category,))
-    resp = cur.fetchall()
-    for id, basename in resp:
-        search_input = basename
-        if category == "Paintings":
-            search_input += " Painting"
-        search_input = sanitize_search_input(search_input)
-        cur.execute(
-            """
-            SELECT c.id, c.title FROM carian_archive c
-            JOIN carian_archive_fts c_fts ON c.id=c_fts.rowid
-            WHERE carian_archive_fts MATCH ?
-            ORDER by c_fts.title = ? DESC, rank LIMIT 1
-            -- ORDER by rank LIMIT 1
-            """,
-            # (search_input,)
-            (search_input, basename)
-        )
-        c_id, c_title = cur.fetchone() or (None, None)
-        if not c_id:
-            print(f"ID IS {id}, BASENAME IS {basename}")
-            print(f"NO MATCH, search_input: {search_input}")
-            print("")
-        else:
-            n_basename = normalize_text(basename)
-            n_title = normalize_text(c_title)
-            perfect_match = n_basename == n_title
-            if not perfect_match:
-                print(f"ID IS {id}, BASENAME IS {basename}")
-                print(f"IMPERFECT MATCH => ID: {c_id}, TITLE: {c_title} => '{n_basename}' != '{n_title}'")
-                print("")
-
 cur.close()
 conn.close()

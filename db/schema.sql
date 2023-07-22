@@ -34,7 +34,8 @@ CREATE TABLE carian_archive (
     entry_type INTEGER NOT NULL CHECK(entry_type >= 0 AND entry_type <= 7),
     title TEXT,
     info TEXT,
-    parent_id INTEGER
+    parent_id INTEGER,
+    sprite_id INTEGER
 );
 
 CREATE INDEX carian_archive_game_id_idx ON carian_archive (game_id);
@@ -66,8 +67,7 @@ CREATE TABLE sprites (
   id INTEGER PRIMARY KEY,
   filepath TEXT NOT NULL,
   basename TEXT NOT NULL,
-  category TEXT NOT NULL,
-  carian_id INTEGER
+  category TEXT NOT NULL
 );
 
 CREATE VIRTUAL TABLE sprites_fts
