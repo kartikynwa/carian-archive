@@ -1,41 +1,53 @@
 {% macro post(entry) %}
-<div class="post highlighted">
+<!-- <div class="post highlighted"> -->
+<div class="post">
   <!-- <p class="post_header">
-  <a class="post_subreddit" href="/">{{ entry.entry_type }}</a>
+       <a class="post_subreddit" href="/">{{ entry.entry_type }}</a>
   </p> -->
+  {%- if let Some(s_id) = entry.sprite_id -%}
+  <a class="post_thumbnail" href="/sprite/{{ s_id }}.png">
+    <div>
+      <img src="/sprite/{{ s_id }}.png?thumbnail=100">
+    </div>
+  </a>
+  {%- endif -%}
+
   <h1 class="post_title">
-    {%- if entry.entry_type_id == 2 -%}
+    <a href="/entry/{{ entry.id }}">
+      {%- if entry.entry_type_id == 2 -%}
       {%- match entry.parent_title -%}
-        {%- when None -%}
-          Dialogue: Unknown Speaker
-        {%- when Some(t) -%}
-          {{ t }}
+      {%- when None -%}
+      Dialogue: Unknown Speaker
+      {%- when Some(t) -%}
+      {{ t }}
       {%- endmatch -%}
-    {%- else -%}
+      {%- else -%}
       {%- match entry.title -%}
-        {%- when None -%}
-          [MISSING TITLE]
-        {%- when Some(t) -%}
-          {{ t }}
+      {%- when None -%}
+      [MISSING TITLE]
+      {%- when Some(t) -%}
+      {{ t }}
       {%- endmatch -%}
-    {%- endif -%}
-    <span class="post_flair" style="color:white; background:#8460da;">{{ entry.entry_type }}</span>
+      {%- endif -%}
+    </a>
+    <!-- <span class="post_flair" style="color:white; background:#8460da;">{{ entry.entry_type }}</span> -->
+    <span class="post_flair">[{{ entry.entry_type }}]</span>
   </h1>
 
   <!-- POST BODY -->
   <div class="post_body">
     {%- match entry.info -%}
-      {%- when None -%}
-        MISSING INFO
-      {%- when Some(i) -%}
-        {{ i|linebreaksbr|safe }}
+    {%- when None -%}
+    MISSING INFO
+    {%- when Some(i) -%}
+    {{ i|linebreaksbr|safe }}
     {%- endmatch -%}
   </div>
 
-  <div class="post_footer">
-    <ul id="post_links">
-      <li class="desktop_item"><a href="/entry/{{ entry.id }}">permalink</a></li>
-    </ul>
-  </div>
+  <!-- <div class="post_footer"> -->
+    <!--   <ul id="post_links"> -->
+      <!--     <li class="desktop_item"><a href="/entry/{{ entry.id }}">permalink</a></li> -->
+      <!--   </ul> -->
+    <!-- </div> -->
 </div>
 {% endmacro %}
