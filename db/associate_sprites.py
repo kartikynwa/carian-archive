@@ -55,7 +55,9 @@ def search(basename: str, exact=True):
         return c_id
 
 def set_sprite(cur, carian_archive_id: int, sprite_id: int):
-    cur.execute("UPDATE carian_archive SET sprite_id=? WHERE id=?", (sprite_id, carian_archive_id))
+    print(f"ASSOCIATING SPRITE: sprite_id={sprite_id}, carian_archive_id={carian_archive_id}")
+    if write_changes:
+        cur.execute("UPDATE carian_archive SET sprite_id=? WHERE id=?", (sprite_id, carian_archive_id))
 
 db_path = "../server/elden_ring.db"
 
@@ -106,16 +108,16 @@ for category in try_categories:
         if basename.startswith(note_prefix):
             for note_name in basename[len(note_prefix):].split(","):
                 carian_archive_id = search(f"Note: {note_name}")
-                if write_changes and carian_archive_id:
+                if carian_archive_id:
                     set_sprite(cur, carian_archive_id, id)
         elif basename.startswith(bell_bearing_prefix):
             for bell_bearing_owner in basename[len(bell_bearing_prefix):].split(","):
                 carian_archive_id = search(f"{bell_bearing_owner} Bell Bearing", exact=False)
-                if write_changes and carian_archive_id:
+                if carian_archive_id:
                     set_sprite(cur, carian_archive_id, id)
         else:
             carian_archive_id = search(basename)
-            if write_changes and carian_archive_id:
+            if carian_archive_id:
                 set_sprite(cur, carian_archive_id, id)
 
 conn.commit()
