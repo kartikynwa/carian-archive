@@ -1,6 +1,4 @@
-use actix_files::NamedFile;
 use actix_web::{
-    // error::{ErrorInternalServerError, ErrorNotFound},
     get,
     web,
     HttpResponse,
@@ -29,8 +27,9 @@ struct EntryTemplate {
 }
 
 #[get("/style.css")]
-pub async fn style() -> Result<NamedFile, actix_web::Error> {
-    Ok(NamedFile::open("static/style.css")?)
+pub async fn style() -> impl Responder {
+    let css = include_str!("../static/style.css");
+    HttpResponse::Ok().content_type("text/css").body(css)
 }
 
 #[derive(Deserialize)]
