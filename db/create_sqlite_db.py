@@ -30,6 +30,9 @@ type_map = {name: id for id, name in cur.fetchall()}
 
 json_dir = Path(__file__).parent.parent / "json"
 for json_file in json_dir.glob("*.json"):
+    if "dlc" in str(json_file):
+        continue
+
     if "dialogues" in str(json_file):
         continue
     with open(json_file, "r") as f:
