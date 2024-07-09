@@ -1,0 +1,582 @@
+{
+  "3000000": {
+    "name": "Dane's Hat",
+    "caption": "The sun-faded and lightly soiled hat of Dryleaf Dane. Worn low over the eyes, it obscures the wearer's vision.\n\nMeeting the gaze of another can overcome the senses, often leading to the downfall of those who would walk the noble and solitary seekers' path."
+  },
+  "3000100": {
+    "name": "Dryleaf Robe",
+    "caption": "Sun-faded and lightly soiled travel attire worn by clergymen.\n\nThe gold necklace found under the breast belongs to a group of spiritual seekers known as the Dryleaf Sect.\n\nThis sect rejects dependence on others in all matters of faith, seeking self-discipline and self-sufficiency above all else."
+  },
+  "3000200": {
+    "name": "Dryleaf Arm Wraps",
+    "caption": "Sun-faded and lightly soiled arm wraps.\n\nWound tightly around the arms as if it might prevent them from being broken."
+  },
+  "3000300": {
+    "name": "Dryleaf Cuissardes",
+    "caption": "Sun-faded and lightly soiled travel attire worn by clergymen.\nBoots made of sturdy leather."
+  },
+  "3001100": {
+    "name": "Dryleaf Robe (Altered)",
+    "caption": "Sun-faded and lightly soiled travel attire worn by clergymen.\n\nThe leather satchel hanging from the shoulder is decorated with one of Miquella's emblems, a golden grass motif."
+  },
+  "3010000": {
+    "name": "Gaius's Helm",
+    "caption": "The black iron helm of Commander Gaius.\nPart of an armor set patterned after fallen seeds.\n\nGaius was the most senior disciple of the same Alabaster Lord who taught Radahn and Gaea gravitational technique."
+  },
+  "3010100": {
+    "name": "Gaius's Armor",
+    "caption": "The black iron chest armor of Commander Gaius.\nPart of an armor set patterned after fallen seeds.\n\nGaius was the most senior disciple of the same Alabaster Lord who taught Radahn and Gaea gravitational technique."
+  },
+  "3010200": {
+    "name": "Gaius's Gauntlets",
+    "caption": "The black iron gauntlets of Commander Gaius.\nPart of an armor set patterned after fallen seeds.\n\nGaius was the most senior disciple of the same Alabaster Lord who taught Radahn and Gaea gravitational technique."
+  },
+  "3010300": {
+    "name": "Gaius's Greaves",
+    "caption": "Black iron greaves made for Commander Gaius.\nA cruel joke, for he could not wear them.\n\nRiding atop the boar he called his other half, Gaius was in fact a warrior of albinauric extraction."
+  },
+  "5000000": {
+    "name": "Oathseeker Knight Helm",
+    "caption": "An Oathseeker Knight helm.\nBlack with gold ornamentation.\n\nThese knights set off on quests of discovery, hoping to find by themselves an oath of their own choosing to serve in perfect, lifelong devotion."
+  },
+  "5000100": {
+    "name": "Leda's Armor",
+    "caption": "Chest armor of Needle Knight Leda.\n\nSlightly strengthens attacks following a dodge roll or backstep, as well as dash attacks.\n\nEmbroidered with a golden crossed-tree motif, the chalk white cloak and surcoat symbolize the honor of the Needle Knights.\n\n\"Kindly Miquella fashioned us as his needles to quell all, to ward away all.\""
+  },
+  "5000200": {
+    "name": "Oathseeker Knight Gauntlets",
+    "caption": "Oathseeker Knight gauntlets.\nBlack with gold ornamentation.\n\nThese knights set off on quests of discovery, hoping to find by themselves an oath of their own choosing to serve in perfect, lifelong devotion."
+  },
+  "5000300": {
+    "name": "Oathseeker Knight Greaves",
+    "caption": "Oathseeker Knight greaves.\nBlack with gold ornamentation.\n\nThese knights set off on quests of discovery, hoping to find by themselves an oath of their own choosing to serve in perfect, lifelong devotion."
+  },
+  "5002100": {
+    "name": "Oathseeker Knight Armor",
+    "caption": "Oathseeker Knight chest armor.\nBlack with gold ornamentation.\n\nThese knights set off on quests of discovery, hoping to find by themselves an oath of their own choosing to serve in perfect, lifelong devotion."
+  },
+  "5010000": {
+    "name": "Verdigris Helm",
+    "caption": "Helm made from an unusual metal known as verdigris.\n\nVerdigris is said to be the gift of an outer god.\nPossessed of an enormously hefty yet supple strength thanks to its rusted nature."
+  },
+  "5010100": {
+    "name": "Verdigris Armor",
+    "caption": "Chest armor made from an unusual metal known as verdigris.\n\nVerdigris is said to be the gift of an outer god.\nPossessed of an enormously hefty yet supple strength thanks to its rusted nature."
+  },
+  "5010200": {
+    "name": "Verdigris Gauntlets",
+    "caption": "Gauntlets made from an unusual metal known as verdigris.\n\nVerdigris is said to be the gift of an outer god.\nPossessed of an enormously hefty yet supple strength thanks to its rusted nature."
+  },
+  "5010300": {
+    "name": "Verdigris Greaves",
+    "caption": "Greaves made from an unusual metal known as verdigris.\n\nVerdigris is said to be the gift of an outer god.\nPossessed of an enormously hefty yet supple strength thanks to its rusted nature."
+  },
+  "5020000": {
+    "name": "Pelt of Ralva",
+    "caption": "The pelt of Ralva the Great Red Bear, worn upon the head without modification.\n\nEnhances incantations of what is jokingly called \"Bear Communion.\"\n\nThis untreated hide, won at the end of a bloody bout, is just the thing to make a wild bear out of a warrior."
+  },
+  "5020100": {
+    "name": "Iron Rivet Armor",
+    "caption": "Chest armor of Red Bear, whose name is lost to madness.\nA vest reinforced with iron rivets.\n\nAfter killing the great red bear in a blood-soaked bout, he became fascinated by the untainted glory of its naked strength.\n\n\"I wish to be a bear, no more, and no less.\""
+  },
+  "5020200": {
+    "name": "Iron Rivet Gauntlets",
+    "caption": "Gauntlets of Red Bear, whose name is lost to madness.\nReinforced with iron rivets.\n\nAfter killing the great red bear in a blood-soaked bout, he became fascinated by the untainted glory of its naked strength.\n\n\"I wish to be a bear, no more, and no less.\""
+  },
+  "5020300": {
+    "name": "Iron Rivet Greaves",
+    "caption": "Greaves of Red Bear, whose name is lost to madness.\nReinforced with iron rivets.\n\nAfter killing the great red bear in a blood-soaked bout, he became fascinated by the untainted glory of its naked strength.\n\n\"I wish to be a bear, no more, and no less.\""
+  },
+  "5021000": {
+    "name": "Fang Helm",
+    "caption": "Helm of Red Bear, whose name is lost to madness.\nThe cheek guards are shaped after lion fangs.\n\nPerhaps his fascination with the untamed strength of the wild stemmed from his past as a Redmane."
+  },
+  "5030000": {
+    "name": "Thiollier's Mask",
+    "caption": "A mask upon which is carved a tranquil sleeping face.\n\nThe silver hair is arranged in the same style as St. Trina's, increasing arcane.\n\nJust once, Thiollier was granted the sweet repose of velvety sleep. The remainder of his days would be spent attempting to recapture it."
+  },
+  "5030100": {
+    "name": "Thiollier's Garb",
+    "caption": "The dark attire of those who wield poison in secret.\n\nThe silver hair is arranged in the same style as St. Trina's, increasing arcane.\n\nAdditionally, countless needles are sewn onto the exterior, apparently for talismanic effect."
+  },
+  "5030200": {
+    "name": "Thiollier's Gloves",
+    "caption": "The dark gloves of those who wield poison in secret, ever scorned and loathed."
+  },
+  "5030300": {
+    "name": "Thiollier's Trousers",
+    "caption": "The dark trousers of those who wield poison in secret, ever scorned and loathed."
+  },
+  "5031100": {
+    "name": "Thiollier's Garb (Altered)",
+    "caption": "The dark attire of those who wield poison in secret.\n\nCountless needles are sewn onto the exterior for talismanic effect."
+  },
+  "5060000": {
+    "name": "High Priest Hat",
+    "caption": "The hat of Count Ymir, High Priest.\n\nThe circular design at the top represents the Greater Will and its lightless abyss, imparting increased intelligence and arcane to the wearer.\n\nThough Count Ymir instructed Rellana in the sorcerous arts, he abandoned his allegiance to the moon.\n\n\"It was merely the closest of the celestial bodies. Nothing more.\""
+  },
+  "5060100": {
+    "name": "High Priest Robe",
+    "caption": "Robe of Count Ymir, High Priest.\nConceals the abundance of squirming beneath.\n\nGold embroidery decorates the purple cloth, with a jewelled ruff that sparkles like a flower wet with dew."
+  },
+  "5060200": {
+    "name": "High Priest Gloves",
+    "caption": "Gloves of Count Ymir, High Priest.\nSoft and well-tailored."
+  },
+  "5060300": {
+    "name": "High Priest Undergarments",
+    "caption": "Undergarments of Count Ymir, High Priest.\nSoft and well-tailored."
+  },
+  "5062100": {
+    "name": "Finger Robe",
+    "caption": "Robe of Count Ymir, High Priest.\nThe front is open, exposing the squirming fingers beneath.\n\nThis robe is the image of his fervent desire having broken free, laying bare his greatest wish, and wearing it enhances finger sorceries.\n\n\"I will be the true mother.\nMy fingers will grant us redemption!\""
+  },
+  "5070000": {
+    "name": "Caterpillar Mask",
+    "caption": "Grotesque mask constructed from countless solidified caterpillars. A ritual implement of the greater potentates of Bonny Village.\n\nUsed to ward off thoughts of impurity, doubt, temptation, and other wickednesses one is vulnerable to while absorbed in divine ritual."
+  },
+  "5070100": {
+    "name": "Braided Cord Robe",
+    "caption": "Ragged black cloth overlaid with braided cord. Attire of a vengeance-seeking hornsent.\n\nThe braided cord ties together the vow of the revenger with the victims' grudges. It must never come undone.\n\nEnhances both watchful spirits and the vengeful spirits summoned by horned bairns."
+  },
+  "5070200": {
+    "name": "Braided Arm Wraps",
+    "caption": "Ragged black cloth tied with braided cord. Attire of a vengeance-seeking hornsent."
+  },
+  "5070300": {
+    "name": "Soiled Loincloth",
+    "caption": "This lightly soiled loincloth of ragged cloth does little more than conceal one's nether regions."
+  },
+  "5080000": {
+    "name": "Dancer's Hood",
+    "caption": "Bright-red hood of the Ranah dancers.\nEnhances the power of dancing attacks.\n\nThe dance of Ranah is one of burning passion, and the most passionate dancers never allow their fiery dance to end, losing even their names as they dance on.\n\nTo see the passion fade is to see the dancer's flame extinguished."
+  },
+  "5080100": {
+    "name": "Dancer's Dress",
+    "caption": "Bright-red dress of the Ranah dancers.\nEnhances the power of dancing attacks.\n\nThe dance of Ranah is one of burning passion, and the most passionate dancers never allow their fiery dance to end, losing even their names as they dance on.\n\nTo see the passion fade is to see the dancer's flame extinguished."
+  },
+  "5080200": {
+    "name": "Dancer's Bracer",
+    "caption": "Metal bracer of the Ranah dancers.\n\nEnhances the power of dancing attacks.\n\nDesigned to protect the sword-wielding hand."
+  },
+  "5080300": {
+    "name": "Dancer's Trousers",
+    "caption": "Long, black trousers worn underneath the deep crimson dress of the Ranah dancers.\n\nEnhances the power of dancing attacks."
+  },
+  "5081100": {
+    "name": "Dancer's Dress (Altered)",
+    "caption": "Altered form of the deep crimson dress of the Ranah dancers.\nThese are the black undergarments worn beneath.\n\nEnhances the power of dancing attacks."
+  },
+  "5090000": {
+    "name": "Helm of Night",
+    "caption": "Bottomless black helm, cool to the touch.\nFlowing lines in the seeming shape of a fingerprint adorn the surface. Imprisons the wearer in utterly lightless dark.\n\nBestowed upon those born deep underground, ordaining them as Swordhands of Night."
+  },
+  "5090100": {
+    "name": "Armor of Night",
+    "caption": "Bottomless black chest armor, cool to the touch.\nFlowing lines in the seeming shape of a fingerprint adorn the surface. Imprisons the wearer in utterly lightless dark.\n\nBestowed upon those born deep underground, ordaining them as Swordhands of Night."
+  },
+  "5090200": {
+    "name": "Gauntlets of Night",
+    "caption": "Bottomless black gauntlets, cool to the touch.\nFlowing lines in the seeming shape of a fingerprint adorn the surface. Imprisons the wearer in utterly lightless dark.\n\nBestowed upon those born deep underground, ordaining them as Swordhands of Night."
+  },
+  "5090300": {
+    "name": "Greaves of Night",
+    "caption": "Bottomless greaves, cool to the touch.\nFlowing lines in the seeming shape of a fingerprint adorn the surface. Imprisons the wearer in utterly lightless dark.\n\nBestowed upon those born deep underground, ordaining them as Swordhands of Night."
+  },
+  "5100000": {
+    "name": "Igon's Helm",
+    "caption": "Helm of the broken drake warrior Igon, from a set of armor comprised of a miscellany of parts. This tattered protective-wear is shaped like a bugle.\n\nThe poor scavenger of battlefields found honor through Dragon Communion."
+  },
+  "5100100": {
+    "name": "Igon's Armor",
+    "caption": "Armor of the broken drake warrior Igon, from a set comprised of a miscellany of parts. Filthy belongings are attached to this tattered piece of protective-wear.\n\nThe poor scavenger of battlefields found honor through Dragon Communion."
+  },
+  "5100200": {
+    "name": "Igon's Gauntlets",
+    "caption": "Gauntlets of the broken drake warrior Igon. \nNo more than a mish-mash of tatters and remnants stripped from a corpse found in the aftermath of a battle."
+  },
+  "5100300": {
+    "name": "Igon's Loincloth",
+    "caption": "Loincloth of the broken drake warrior Igon. Stripped from a corpse found in the aftermath of a battle, this scrap of cloth smells utterly foul."
+  },
+  "5101000": {
+    "name": "Igon's Helm (Altered)",
+    "caption": "Helm of the broken drake warrior Igon, from a set of armor comprised of a miscellany of parts. Patched with scraps of cloth.\n\nThe poor scavenger of battlefields found honor through Dragon Communion."
+  },
+  "5101100": {
+    "name": "Igon's Armor (Altered)",
+    "caption": "Armor of the broken drake warrior Igon, from a set comprised of a miscellany of parts. Patched with scraps of cloth.\n\nThe poor scavenger of battlefields found honor through Dragon Communion."
+  },
+  "5110000": {
+    "name": "Wise Man's Mask",
+    "caption": "The iron mask of Sir Ansbach, giving the appearance of a quiet, wise, old bearded man.\n\nBut an old fear lurks beneath, together with the cold, unflinching discipline that once honed his blade, now employed to enhance Blood Oath and dynastic skills."
+  },
+  "5110100": {
+    "name": "Ansbach's Attire",
+    "caption": "Attire of Sir Ansbach. The embroidered crest of the Pureblood Knights has now all but faded away.\n\nSlightly enhances Blood Oath and dynastic skills.\n\nAnsbach understood that keeping his oath to his old master was not an act of logic, nor would it bear any justice, but it was for these very reasons he was unable to let go."
+  },
+  "5110200": {
+    "name": "Ansbach's Manchettes",
+    "caption": "Manchettes of Sir Ansbach. Black leather adorned with gold embroidery.\n\nSlightly enhances Blood Oath and dynastic skills."
+  },
+  "5110300": {
+    "name": "Ansbach's Boots",
+    "caption": "Boots of Sir Ansbach. Black leather adorned with gold embroidery.\n\nSlightly enhances Blood Oath and dynastic skills."
+  },
+  "5111100": {
+    "name": "Ansbach's Attire (Altered)",
+    "caption": "Attire of Sir Ansbach. Black cloth adorned with gold embroidery.\n\nSlightly enhances Blood Oath and dynastic skills."
+  },
+  "5120000": {
+    "name": "Freyja's Helm",
+    "caption": "Golden helm of Redmane Freyja, member of General Radahn's most distinguished knights.\n\nA hideous scarlet wound was once hewn into the center of her face.\n\nLater, Miquella gently put his lips to it and the unfading scar became the compass that Freyja would thereafter follow."
+  },
+  "5120100": {
+    "name": "Freyja's Armor",
+    "caption": "Golden armor of Redmane Freyja, member of General Radahn's most distinguished knights. Affixed with a black woolen mantle.\n\nAfter witnessing Freyja's valor as a gladiator in his youth, Radahn invited her to join the ranks of his most trusted warriors."
+  },
+  "5120200": {
+    "name": "Freyja's Gauntlets",
+    "caption": "Golden gauntlets of Redmane Freyja, member of General Radahn's most distinguished knights.\n\nAfter witnessing Freyja's valor as a gladiator in his youth, Radahn invited her to join the ranks of his most trusted warriors."
+  },
+  "5120300": {
+    "name": "Freyja's Greaves",
+    "caption": "Greaves of Redmane Freyja, member of General Radahn's most distinguished knights.\n\nAfter witnessing Freyja's valor as a gladiator in his youth, Radahn invited her to join the ranks of his most trusted warriors."
+  },
+  "5121100": {
+    "name": "Freyja's Armor (Altered)",
+    "caption": "Golden armor of Redmane Freyja, member of General Radahn's most distinguished knights.\n\nAfter witnessing Freyja's valor as a gladiator in his youth, Radahn invited her to join the ranks of his most trusted warriors."
+  },
+  "5130000": {
+    "name": "Helm of Solitude",
+    "caption": "Steel helm of the Knights of the Solitary Gaol.\nPart of a heavy armor set that covers the whole body in overlapping plates of steel.\n\nThe nameless mausoleums of the realm of shadow are said to hold the spirits of warriors who lost their names, or their hearts."
+  },
+  "5130100": {
+    "name": "Armor of Solitude",
+    "caption": "Steel chest armor of the Knights of the Solitary Gaol.\nPart of a heavy armor set that covers the whole body in overlapping plates of steel, and bedecked with a black cloak.\n\nThe nameless mausoleums of the realm of shadow are said to hold the spirits of warriors who lost their names, or their hearts."
+  },
+  "5130200": {
+    "name": "Gauntlets of Solitude",
+    "caption": "Steel gauntlets of the Knights of the Solitary Gaol.\nPart of a heavy armor set that covers the whole body in overlapping plates of steel.\n\nThe nameless mausoleums of the realm of shadow are said to hold the spirits of warriors who lost their names, or their hearts."
+  },
+  "5130300": {
+    "name": "Greaves of Solitude",
+    "caption": "Steel greaves of the Knights of the Solitary Gaol.\nPart of a heavy armor set that covers the whole body in overlapping plates of steel.\n\nThe nameless mausoleums of the realm of shadow are said to hold the spirits of warriors who lost their names, or their hearts."
+  },
+  "5131100": {
+    "name": "Armor of Solitude (Altered)",
+    "caption": "Steel chest armor of the Knights of the Solitary Gaol.\nPart of a heavy armor set that covers the whole body in overlapping plates of steel.\n\nThe nameless mausoleums of the realm of shadow are said to hold the spirits of warriors who lost their names, or their hearts."
+  },
+  "5140000": {
+    "name": "Messmer Soldier Helm",
+    "caption": "Helm worn by soldiers who serve Messmer the Impaler. The iron helm features a visor.\n\nThough the engraving upon the forehead is a Scadutree design, it is etched in gold. A small consolation to those forced to wage a war without grace or honor."
+  },
+  "5140100": {
+    "name": "Messmer Soldier Armor",
+    "caption": "Armor worn by soldiers who serve Messmer the Impaler. A ragged cloak is draped over rusted mail.\n\nThough the chestpiece features a Scadutree motif, gold has been used for its engraving. A small consolation to those forced to wage a war without grace or honor."
+  },
+  "5140200": {
+    "name": "Messmer Soldier Gauntlets",
+    "caption": "Gauntlets worn by soldiers who serve Messmer the Impaler, rusted and crusted in filth from fighting in unending war."
+  },
+  "5140300": {
+    "name": "Messmer Soldier Greaves",
+    "caption": "Greaves worn by soldiers who serve Messmer the Impaler, rusted and crusted in filth from fighting in unending war."
+  },
+  "5141100": {
+    "name": "Messmer Soldier Armor (Altered)",
+    "caption": "Armor worn by soldiers who serve Messmer the Impaler. The mail has rusted while fighting in unending war.\n\nThough the chestpiece features a Scadutree motif, gold has been used for its engraving. A small consolation to those forced to wage a war without grace or honor."
+  },
+  "5150000": {
+    "name": "Black Knight Helm",
+    "caption": "Helm worn by the Black Knights, servants of Messmer the Impaler. Black iron ornamented with gold. A rotten odor stubbornly clings to it.\n\nPerhaps it arises from the tainted nature of the blood that splattered upon it. Or perhaps it is the wearer's own blackened soul, festering after endless slaughter."
+  },
+  "5150100": {
+    "name": "Black Knight Armor",
+    "caption": "Armor worn by the Black Knights, servants of Messmer the Impaler.\n\nThough the engraving above the heart is a Scadutree design, it is etched in gold. A small consolation to those forced to wage a war without grace or honor."
+  },
+  "5150200": {
+    "name": "Black Knight Gauntlets",
+    "caption": "Gauntlets worn by the Black Knights, servants of Messmer the Impaler. Black iron ornamented with gold. A rotten odor stubbornly clings to it.\n\nPerhaps it arises from the tainted nature of the blood that splattered upon it. Or perhaps it is the wearer's own blackened soul, festering after endless slaughter."
+  },
+  "5150300": {
+    "name": "Black Knight Greaves",
+    "caption": "Greaves worn by the Black Knights, servants of Messmer the Impaler. Black iron ornamented with gold. A rotten odor stubbornly clings to it.\n\nPerhaps it arises from the tainted nature of the blood that splattered upon it. Or perhaps it is the wearer's own blackened soul, festering after endless slaughter."
+  },
+  "5160000": {
+    "name": "Rakshasa Helm",
+    "caption": "Helm of Rakshasa, soaked in the spurting blood of her victims. Tatters of ragged cloth jut out haphazardly, as if her lust for carnage threatens to break free.\n\nIncreases damage dealt to foes, but greatly increases damage taken by the wearer.\n\nCut down and devour. Only those who repeat the cycle without rest can truly subvert the self and become Rakshasa."
+  },
+  "5160100": {
+    "name": "Rakshasa Armor",
+    "caption": "Armor of Rakshasa, soaked in the spurting blood of her victims. Tatters of ragged cloth jut out haphazardly, as if her lust for carnage threatens to break free.\n\nIncreases damage dealt to foes, but greatly increases damage taken by the wearer.\n\nCut down and devour. Only those who repeat the cycle without rest can truly subvert the self and become Rakshasa."
+  },
+  "5160200": {
+    "name": "Rakshasa Gauntlets",
+    "caption": "Gauntlets of Rakshasa, soaked in the spurting blood of her victims. Tatters of ragged cloth jut out haphazardly, as if her lust for carnage threatens to break free.\n\nIncreases damage dealt to foes, but greatly increases damage taken by the wearer.\n\nCut down and devour. Only those who repeat the cycle without rest can truly subvert the self and become Rakshasa."
+  },
+  "5160300": {
+    "name": "Rakshasa Greaves",
+    "caption": "Greaves of Rakshasa, soaked the spurting blood of her victims. Tatters of ragged cloth jut out haphazardly, as if her lust for carnage threatens to break free.\n\nIncreases damage dealt to foes, but greatly increases damage taken by the wearer.\n\nCut down and devour. Only those who repeat the cycle without rest can truly subvert the self and become Rakshasa."
+  },
+  "5180000": {
+    "name": "Fire Knight Helm",
+    "caption": "Pointed helm of the Fire Knights under Messmer the Impaler's personal command.\n\nSlightly increases maximum HP, stamina, and maximum equip load.\n\nEach and every knight hailed from a renowned family of the Erdtree's upper echelons, but were shunned and chased from their homes after pledging allegiance to Messmer as their master."
+  },
+  "5180100": {
+    "name": "Fire Knight Armor",
+    "caption": "Armor of the Fire Knights under Messmer the Impaler's personal command.\n\nDistinguished by its red cape and twin golden snakes which adorn the neck, enhancing incantations of Messmer's flame.\n\nThese were the only ones who truly knew Messmer. His flames, like serpents. The painful fate that accompanied his accursed form."
+  },
+  "5180200": {
+    "name": "Fire Knight Gauntlets",
+    "caption": "Gauntlets of the Fire Knights under Messmer the Impaler's personal command.\n\nEach and every knight hailed from a renowned family of the Erdtree's upper echelons, but were shunned and chased from their homes after pledging allegiance to Messmer as their master."
+  },
+  "5180300": {
+    "name": "Fire Knight Greaves",
+    "caption": "Greaves of the Fire Knights under Messmer the Impaler's personal command.\n\nEach and every knight hailed from a renowned family of the Erdtree's upper echelons, but were shunned and chased from their homes after pledging allegiance to Messmer as their master."
+  },
+  "5181100": {
+    "name": "Fire Knight Armor (Altered)",
+    "caption": "Armor of the Fire Knights under Messmer the Impaler's personal command.\n\nEach and every knight hailed from a renowned family of the Erdtree's upper echelons, but were shunned and chased from their homes after pledging allegiance to Messmer as their master."
+  },
+  "5182000": {
+    "name": "Death Mask Helm",
+    "caption": "Helm of Wego, elder among the Fire Knights. Two warped death masks stacked one atop the other.\n\nReduces FP used to summon spirits.\n\nGnawed at by loneliness, the old man turned his attention to the spirituality of Messmer's flame, using it in a rite of resurrection.\n\nYet the soulless bodies he brought to life were no comfort to poor Wego."
+  },
+  "5183000": {
+    "name": "Winged Serpent Helm",
+    "caption": "Helm of Kood, captain of the Fire Knights. A winged serpent perches atop it.\n\nEnhances Fire Knight skills.\n\nThe winged serpent is the token creature of Messmer's military forces. It is a wise friend which keeps the base serpent at bay and holds its power in check."
+  },
+  "5184000": {
+    "name": "Salza's Hood",
+    "caption": "Hood of Salza, sage of the Fire Knights.\n\nA prodigious amount of cloth wound around it, giving the impression of a greatly swollen head, and wearing it increases intelligence.\n\nA disciple of the elder Wego, he refused to burn down an old ruin, at the risk of his own life."
+  },
+  "5190000": {
+    "name": "Leather Headband",
+    "caption": "Headband worn by highland warriors, made of woven leather. The white favor represents their home settlement.\n\nHighland warriors are known to be hunters of bears; to them, there is no act more glorious than the subjugation of a savage beast."
+  },
+  "5190100": {
+    "name": "Gloried Attire",
+    "caption": "Traditional garb of highland warriors, made from woven fabric and finished with fur. This garment is made from fabrics with both blue and red patterns.\n\nRed-patterned fabrics were allowed only to those who hunted bears\u2014the greatest and most glorious of the highlanders."
+  },
+  "5190200": {
+    "name": "Leather Arm Wraps",
+    "caption": "Arm wraps worn by highland warriors, made of sturdy leather and fastened with winding straps.\n\nHighland warriors are known to be hunters of bears; to them, there is no act more glorious than the subjugation of a savage beast."
+  },
+  "5190300": {
+    "name": "Leather Leg Wraps",
+    "caption": "Leg wraps worn by highland warriors, made of sturdy leather and fastened with winding straps. The addition of animal pelt keeps the wearer warm.\n\nHighland warriors are known to be hunters of bears; to them, there is no act more glorious than the subjugation of a savage beast."
+  },
+  "5191000": {
+    "name": "Leather Crown",
+    "caption": "Helm worn by highland warriors, pieced together using leather. The white favor represents their home settlement.\n\nHighland warriors are known to be hunters of bears; to them, there is no act more glorious than the subjugation of a savage beast."
+  },
+  "5191100": {
+    "name": "Highland Attire",
+    "caption": "Traditional garb of highland warriors, made from woven fabric and finished with a blue patterned cloth.\n\nHighland warriors are known to be hunters of bears; to them, there is no act more glorious than the subjugation of a savage beast."
+  },
+  "5200000": {
+    "name": "Death Knight Helm",
+    "caption": "Golden helm of the Death Knights, whose own death masks served as the visards of their armor.\n\nEnhances skills and incantations of the capital's ancient dragon cult.\n\nThe decayed golden wheel that adorns it represents their unbroken loyalty to Godwyn, he who became Prince of Death."
+  },
+  "5200100": {
+    "name": "Death Knight Armor",
+    "caption": "Golden armor of the Death Knights, adorned with an antiquated depiction of the Erdtree.\n\nEnhances skills and incantations of the capital's ancient dragon cult.\n\nThese knights, once Godwyn's personal guard, quested to find their transfigured master's cadaver surrogate\u2014for the coming age of the Duskborn."
+  },
+  "5200200": {
+    "name": "Death Knight Gauntlets",
+    "caption": "Golden gauntlets of the Death Knights, adorned with an antiquated depiction of the Erdtree.\n\nEnhances skills and incantations of the capital's ancient dragon cult.\n\nThese knights, once Godwyn's personal guard, quested to find their transfigured master's cadaver surrogate\u2014for the coming age of the Duskborn."
+  },
+  "5200300": {
+    "name": "Death Knight Greaves",
+    "caption": "Golden greaves of the Death Knights, adorned with an antiquated depiction of the Erdtree.\n\nEnhances skills and incantations of the capital's ancient dragon cult.\n\nThese knights, once Godwyn's personal guard, quested to find their transfigured master's cadaver surrogate\u2014for the coming age of the Duskborn."
+  },
+  "5210000": {
+    "name": "Curseblade Mask",
+    "caption": "A mask affixed with a crown of tangled horns, worn by those who would invoke divinity.\n\nDivine invocation heightens the dexterity of the wearer, but causes the blessing of the Erdtree to become nauseating, reducing the restorative effect of drinking from a flask of sacred tears.\n\nFocus is also troubled by wearing this mask."
+  },
+  "5210100": {
+    "name": "Ascetic's Loincloth",
+    "caption": "Attire of the tower's ascetics, embodying their commitment to an austere existence of strict self-control.\n\nIn order to ascend from their mortal flesh into tutelary deities of the land, they heighten their spirituality through severe ascetic training."
+  },
+  "5210200": {
+    "name": "Ascetic's Wrist Guards",
+    "caption": "Wrist guards of the tower's ascetics which embody their commitment to an austere existence of strict self-control.\n\nIn order to ascend from their mortal flesh into tutelary deities of the land, they heighten their spirituality through severe ascetic training."
+  },
+  "5210300": {
+    "name": "Ascetic's Ankle Guards",
+    "caption": "Ankle guards of the tower's ascetics which embody their commitment to an austere existence of strict self-control.\n\nIn order to ascend from their mortal flesh into tutelary deities of the land, they heighten their spirituality through severe ascetic training."
+  },
+  "5220000": {
+    "name": "Messmer's Helm",
+    "caption": "Black helm of Messmer the Impaler, crowned with two intertwined winged serpents.\nSlightly enhances incantations of Messmer's flame as well as Fire Knight skills.\n\nThe winged snakes were Messmer's constant companions.\n\nThey were there when the base serpent was sealed away behind his eye. They were there through his eternity of suffering. They will accompany him yet, in his hideous new form born when he destroyed the grace granted by his mother. They have accepted his fate as much as he."
+  },
+  "5220100": {
+    "name": "Messmer's Armor",
+    "caption": "Black armor of Messmer the Impaler.\nDraped with a red cloak bearing his crest embroidered.\n\nOn his mother's wishes, Messmer made himself a symbol of fear, undertaking the cleansing crusade she desired.\n\n\"Direct thy maledictions, thine ire, and thy grief towards me alone.\""
+  },
+  "5220200": {
+    "name": "Messmer's Gauntlets",
+    "caption": "Black gauntlets of Messmer the Impaler.\n\nOn his mother's wishes, Messmer made himself a symbol of fear, undertaking the cleansing crusade she desired.\n\n\"Direct thy maledictions, thine ire, and thy grief towards me alone.\""
+  },
+  "5220300": {
+    "name": "Messmer's Greaves",
+    "caption": "Black greaves of Messmer the Impaler.\n\nOn his mother's wishes, Messmer made himself a symbol of fear, undertaking the cleansing crusade she desired.\n\n\"Direct thy maledictions, thine ire, and thy grief towards me alone.\""
+  },
+  "5221000": {
+    "name": "Messmer's Helm (Altered)",
+    "caption": "Black helm of Messmer the Impaler, crowned with two intertwined winged serpents. Slightly enhances incantations of Messmer's fire as well as Fire Knight skills.\n\nThe winged snakes were Messmer's constant companions.\n\nThey were there when the base serpent was sealed away behind his eye. They were there through his eternity of suffering. They will accompany him yet, in his hideous new form born when he destroyed the grace granted by his mother. They have accepted his fate as much as he."
+  },
+  "5230000": {
+    "name": "Gravebird Helm",
+    "caption": "Stone helm with a tinge of green. One of a set of armor pieces cast in the image of the Gravebird.\nEmpowers spells which summon rings of spectral light.\n\nGravebirds are ancient golems, created to guard the spiritgraves built where all manners of Death ultimately drift."
+  },
+  "5230100": {
+    "name": "Gravebird's Blackquill Armor",
+    "caption": "Stone armor with a tinge of green. One of a set of armor pieces cast in the image of the Gravebird.\nFeaturing a cape of black Deathbird feathers, it enhances jumping attacks.\n\nGravebirds are ancient golems, created to guard the spiritgraves built where all manners of Death ultimately drift."
+  },
+  "5230200": {
+    "name": "Gravebird Bracelets",
+    "caption": "Stone bracelets with a tinge of green. One of a set of armor pieces cast in the image of the Gravebird.\n\nGravebirds are ancient golems, created to guard the spiritgraves built where all manners of Death ultimately drift."
+  },
+  "5230300": {
+    "name": "Gravebird Anklets",
+    "caption": "Stone anklets with a tinge of green. One of a set of armor pieces cast in the image of the Gravebird.\n\nGravebirds are ancient golems, created to guard the spiritgraves built where all manners of Death ultimately drift."
+  },
+  "5231100": {
+    "name": "Gravebird Armor",
+    "caption": "Stone armor with a tinge of green. One of a set of armor pieces cast in the image of the Gravebird.\n\nGravebirds are ancient golems, created to guard the spiritgraves built where all manners of Death ultimately drift."
+  },
+  "5240000": {
+    "name": "Common Soldier Helm",
+    "caption": "Helm of the rank-and-file soldiers of Messmer's army.\n\nA pitch-dark soot clings to it, much like the inner faces of the men who wore them."
+  },
+  "5240100": {
+    "name": "Common Soldier Cloth Armor",
+    "caption": "Cloth armor of the rank-and-file soldiers of Messmer's army.\n\nA pitch-dark soot clings to it, much like the inner faces of the men who wore them."
+  },
+  "5240200": {
+    "name": "Common Soldier Gauntlets",
+    "caption": "Gauntlets of the rank-and-file soldiers of Messmer's army.\n\nA pitch-dark soot clings to it, much like the inner faces of the men who wore them."
+  },
+  "5240300": {
+    "name": "Common Soldier Greaves",
+    "caption": "Greaves of the rank-and-file soldiers of Messmer's army.\n\nA pitch-dark soot clings to it, much like the inner faces of the men who wore them."
+  },
+  "5250000": {
+    "name": "Horned Warrior Helm",
+    "caption": "Helm featuring a crown of sturdy tangled horns, allowing the wearer to invoke divinity. Attire of the horned warriors, keepers of the tower.\n\nDivine invocation bolsters the strength of the wearer, but causes the blessing of the Erdtree to become nauseating, reducing the restorative effect of drinking from a flask of sacred tears.\n\nFocus is also troubled by wearing this helm."
+  },
+  "5250100": {
+    "name": "Horned Warrior Armor",
+    "caption": "Armor of the horned warriors, keepers of the tower.\n\nThe ochre fabric is draped over a chest-piece made to resemble the unclothed form of a hero from older times."
+  },
+  "5250200": {
+    "name": "Horned Warrior Gauntlets",
+    "caption": "Gauntlets of the horned warriors, keepers of the tower, made from a thick metal."
+  },
+  "5250300": {
+    "name": "Horned Warrior Greaves",
+    "caption": "Greaves of the horned warriors, keepers of the tower. Shaped to resemble the unclothed form of a hero from older times."
+  },
+  "5252000": {
+    "name": "Divine Beast Helm",
+    "caption": "A helm of tangled horn attached to a divine beast mask, allowing the wearer to invoke divinity. Worn by divine beast warriors; the chosen of the horned warriors.\n\nDivine invocation heightens intensity of the storm alongside strength and dexterity, but reduces the restorative effect of drinking from a flask of sacred tears.\n\nFocus is also troubled by wearing this helm."
+  },
+  "5252100": {
+    "name": "Divine Beast Warrior Armor",
+    "caption": "Armor of feted horned warriors chosen to become divine beast warriors, adorned with a lion's pelt.\n\nAmong the divine beast warriors, only those who truly excel at divine invocation become sculpted keepers, and are granted the honor of the lion dance."
+  },
+  "5253000": {
+    "name": "Divine Bird Helm",
+    "caption": "A helm of tangled horn attached to a divine bird mask, allowing the wearer to invoke divinity. Worn by divine bird warriors; the very first of all horned warriors.\n\nDivine invocation heightens the power of divine bird feathers alongside strength and dexterity, but reduces the restorative effect of drinking from a flask of sacred tears.\n\nFocus is also troubled by wearing this helm."
+  },
+  "5253100": {
+    "name": "Divine Bird Warrior Armor",
+    "caption": "Armor of divine bird warriors, the very first of all horned warriors, made from a golden metal.\n\nThe golden-hued divine birds are known to be cruel, never taking to human companionship. Those who invoked their divinity were few and far between."
+  },
+  "5253200": {
+    "name": "Divine Bird Warrior Gauntlets",
+    "caption": "Gauntlets of divine bird warriors, the very first of all horned warriors, made from a golden metal.\n\nThe golden-hued divine birds are known to be cruel, never taking to human companionship. Those who invoked their divinity were few and far between."
+  },
+  "5253300": {
+    "name": "Divine Bird Warrior Greaves",
+    "caption": "Greaves of divine bird warriors, the very first of all horned warriors, made from a golden metal.\n\nThe great, sharp talons increase the force generated by kicks."
+  },
+  "5260000": {
+    "name": "Rellana's Helm",
+    "caption": "Ornate helm of Rellana, the Twin Moon Knight, fashioned from silver steel.\n\nRennala, head of the royal family of Caria, was said to have given her younger sister, who renounced her lineage to chase after Messmer, a gift of lustrous black hair."
+  },
+  "5260100": {
+    "name": "Rellana's Armor",
+    "caption": "Ornate armor of Rellana, the Twin Moon Knight, fashioned from silver steel.\n\nAdorned with the lapis-lazuli blue that is symbolic of Caria, its radiance is yet to fully fade."
+  },
+  "5260200": {
+    "name": "Rellana's Gloves",
+    "caption": "Gloves of Rellana, the Twin Moon Knight, fashioned from quality leather."
+  },
+  "5260300": {
+    "name": "Rellana's Greaves",
+    "caption": "Ornate greaves of Rellana, the Twin Moon Knight, fashioned from silver steel."
+  },
+  "5270000": {
+    "name": "Young Lion's Helm",
+    "caption": "The golden helm worn by Radahn in his younger years. Proudly displaying his heroic red hair, it is fitting attire for a lion.\n\nWhen Malenia, Blade of Miquella, let the rotflower blossom in Aeonia, Radahn heard a murmur in his ear\u2014\n\n\"Miquella awaits thee, O promised consort.\""
+  },
+  "5270100": {
+    "name": "Young Lion's Armor",
+    "caption": "The golden armor worn by Radahn in his younger years. Proudly adorned with heroic red accents, it is fitting attire for a lion.\n\nWhen Malenia, Blade of Miquella, let the rotflower blossom in Aeonia, Radahn heard a murmur in his ear\u2014\n\n\"Miquella awaits thee, O promised consort.\""
+  },
+  "5270200": {
+    "name": "Young Lion's Gauntlets",
+    "caption": "The golden gauntlets worn by Radahn in his younger years.\n\nWhen Malenia, Blade of Miquella, let the rotflower blossom in Aeonia, Radahn heard a murmur in his ear\u2014\n\n\"Miquella awaits thee, O promised consort.\""
+  },
+  "5270300": {
+    "name": "Young Lion's Greaves",
+    "caption": "The golden greaves worn by Radahn in his younger years. Worn by a fierce lion.\n\nWhen Malenia, Blade of Miquella, let the rotflower blossom in Aeonia, Radahn heard a murmur in his ear\u2014\n\n\"Miquella awaits thee, O promised consort.\""
+  },
+  "5271100": {
+    "name": "Young Lion's Armor (Altered)",
+    "caption": "The golden armor worn by Radahn in his younger years. Worn by a fierce lion.\n\nWhen Malenia, Blade of Miquella, let the rotflower blossom in Aeonia, Radahn heard a murmur in his ear\u2014\n\n\"Miquella awaits thee, O promised consort.\""
+  },
+  "5272000": {
+    "name": "Circlet of Light",
+    "caption": "The circlet of light which adorned Miquella's head as he returned in divine aspect. It has begun to fade into nothingness.\n\nSlightly boosts intelligence, faith, and arcane, while also boosting the power of Miquella's light.\n\nThis circle was to be the very foundation upon which Miquella's age of compassion would be built, should it have ever come to pass."
+  },
+  "5280000": {
+    "name": "Shadow Militiaman Helm",
+    "caption": "Helm as dark as shadow, worn by vulgar militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. What better place than the realms of shadow then, for such an army?"
+  },
+  "5280100": {
+    "name": "Shadow Militiaman Armor",
+    "caption": "Armor as dark as shadow, worn by vulgar militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. What better place than the realms of shadow then, for such an army?"
+  },
+  "5280200": {
+    "name": "Shadow Militiaman Gauntlets",
+    "caption": "Gauntlets as dark as shadow, worn by vulgar militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. What better place than the realms of shadow then, for such an army?"
+  },
+  "5280300": {
+    "name": "Shadow Militiaman Greaves",
+    "caption": "Greaves as dark as shadow, worn by vulgar militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. What better place than the realms of shadow then, for such an army?"
+  },
+  "5290000": {
+    "name": "Divine Beast Head",
+    "caption": "Ritual headwear in the form of a divine beast's head, used to perform the lion dance. Worn by the very finest of the sculpted keepers. Alas, it no longer responds to the old woman's earnest prayer.\n\nDivine invocation heightens intensity of the storm alongside strength and dexterity, but reduces the restorative effect of drinking from a flask of sacred tears.\n\nFocus is also troubled by wearing this headwear."
+  },
+  "5300000": {
+    "name": "St. Trina's Blossom",
+    "caption": "St. Trina's life withered and fell, as fleeting as the seasons. At her last, she left a single water lily.\n\nSlightly boosts max FP.\n\nDespite the velvety-purple hue, the flower is in no way poisonous\u2014it merely blooms in quietude."
+  },
+  "5310000": {
+    "name": "Crucible Hammer-Helm",
+    "caption": "Helm worn by Devonia, longest-serving of the Crucible Knights.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.\n\nIt is said Devonia quested in search of the Crucible's origin, and departed from the lands of the Erdtree alone."
+  },
+  "5320000": {
+    "name": "Greatjar",
+    "caption": "A greatjar which fits comfortably over the head when upturned. Attire of the shamans who perform their worship at gaols.\n\nIncreases the power of thrown pots of all sizes.\n\nThey offer their prayers to the innards of the greatjars, such that they might be reborn one day into sainthood. This is the cycle of death and rebirth, taken into the hands of mortal men."
+  },
+  "5330000": {
+    "name": "Imp Head (Lion)",
+    "caption": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling a lion in appearance, life force faintly clings to it."
+  }
+}

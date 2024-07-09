@@ -1,0 +1,2014 @@
+{
+  "1500000": {
+    "name": "Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500100": {
+    "name": "Heavy Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500200": {
+    "name": "Keen Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500300": {
+    "name": "Quality Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500400": {
+    "name": "Fire Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500500": {
+    "name": "Flame Art Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500600": {
+    "name": "Lightning Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500700": {
+    "name": "Sacred Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500800": {
+    "name": "Magic Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1500900": {
+    "name": "Cold Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1501000": {
+    "name": "Poison Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1501100": {
+    "name": "Blood Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1501200": {
+    "name": "Occult Main-gauche",
+    "caption": "Dagger with a large hand guard.\n\nIntended to be used in the left hand, thereby complementing a piercing sword or identical blade held in the right to enable a distinctive style of fighting."
+  },
+  "1510000": {
+    "name": "Fire Knight's Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510100": {
+    "name": "Fire Knight's Heavy Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510200": {
+    "name": "Fire Knight's Keen Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510300": {
+    "name": "Fire Knight's Quality Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510400": {
+    "name": "Fire Knight's Fire Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510500": {
+    "name": "Fire Knight's Flame Art Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510600": {
+    "name": "Fire Knight's Lightning Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510700": {
+    "name": "Fire Knight's Sacred Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510800": {
+    "name": "Fire Knight's Magic Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1510900": {
+    "name": "Fire Knight's Cold Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1511000": {
+    "name": "Fire Knight's Poison Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1511100": {
+    "name": "Fire Knight's Blood Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "1511200": {
+    "name": "Fire Knight's Occult Shortsword",
+    "caption": "Shortsword used by the Fire Knights.\nA slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "2510000": {
+    "name": "Velvet Sword of St. Trina",
+    "caption": "Silver sword of St. Trina, now stained the color of velvet.\nInflicts eternal sleep.\n\nWhen St. Trina was abandoned, the faint, light-purple mists coalesced into an intoxicating deep-purple cloud."
+  },
+  "2520000": {
+    "name": "Star-Lined Sword",
+    "caption": "Sword encrusted with a line of stars fashioned from small pieces of crude glintstone.\nWeapon of the demi-human swordsmen.\n\nWhen bestowed with this weapon by their queen, the swordsmen swear to find the truth that lies at the end of the procession of stars."
+  },
+  "2530000": {
+    "name": "Carian Sorcery Sword",
+    "caption": "One of the Carian royal family's glintstone swords.\nA smaller piercing sword with a slender blade.\nFormerly used by the Carian knights of old before the full refinement of their sorcerous combat techniques, this armament functions as a catalyst for glintstone sorcery when executing strong attacks. "
+  },
+  "2540000": {
+    "name": "Stone-Sheathed Sword",
+    "caption": "A sword that none can pull from its scabbard of cracked stone.\n\nRelic of a lost civilization from a time long past, said to have served a ritual purpose at altars of light and darkness."
+  },
+  "2550000": {
+    "name": "Sword of Light",
+    "caption": "Sword of light, pulled from its stone scabbard at an altar.\n\nFrom the quick of the root, unswerving rays of light intersect and reflect to give the silver blade form."
+  },
+  "2560000": {
+    "name": "Sword of Darkness",
+    "caption": "Sword of darkness, pulled from its stone scabbard at an altar.\n\nFrom the quick of the root, wandering coils of darkness coalesce and release, their eddies and vortices giving form to the dark blade."
+  },
+  "3500000": {
+    "name": "Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500100": {
+    "name": "Heavy Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500200": {
+    "name": "Keen Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500300": {
+    "name": "Quality Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500400": {
+    "name": "Fire Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500500": {
+    "name": "Flame Art Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500600": {
+    "name": "Lightning Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500700": {
+    "name": "Sacred Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500800": {
+    "name": "Magic Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3500900": {
+    "name": "Cold Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3501000": {
+    "name": "Poison Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3501100": {
+    "name": "Blood Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3501200": {
+    "name": "Occult Sword Lance",
+    "caption": "Weapon once wielded by Commander Gaius.\nA combination of greatsword and lance.\n\nWeighty and capable of being brought to bear with great force, this armament shows its true potential when used astride a mount.\nGaius himself was never without his boar."
+  },
+  "3510000": {
+    "name": "Greatsword of Damnation",
+    "caption": "Golden greatsword that once pierced the body of Midra, master of the manse. Used by the hornsent in the execution of a damnation like no other.\n\nThe barbs that pierce the victim from within wind gently around the blade."
+  },
+  "3520000": {
+    "name": "Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520100": {
+    "name": "Heavy Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520200": {
+    "name": "Keen Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520300": {
+    "name": "Quality Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520400": {
+    "name": "Fire Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520500": {
+    "name": "Flame Art Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520600": {
+    "name": "Lightning Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520700": {
+    "name": "Sacred Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520800": {
+    "name": "Magic Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3520900": {
+    "name": "Cold Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3521000": {
+    "name": "Poison Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3521100": {
+    "name": "Blood Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3521200": {
+    "name": "Occult Lizard Greatsword",
+    "caption": "A peculiar weapon carried by imps.\nGreatsword smithed in the shape of a fork-tongued lizard.\n\nStrong attacks allow the wielder to fire the forked tongue from the blade."
+  },
+  "3550000": {
+    "name": "Greatsword of Solitude",
+    "caption": "Steel greatsword wielded by the Knights of the Solitary Gaol.\n\nThrough a secret rite, they relinquished their hearts for heightened battle prowess. Next, they engraved their blades with two crests: one depicting the light of birth, and the other, solitude."
+  },
+  "4500000": {
+    "name": "Ancient Meteoric Ore Greatsword",
+    "caption": "One of the treasures of the ruined forges.\nGreatsword of ancient meteoric ore, ending in a sharp point.\n\nFashioned from an excavated shard of an arrowhead that once was a part of the old gods' arsenal. A capable piercing weapon that excels at thrusting attacks."
+  },
+  "4520000": {
+    "name": "Fire Knight's Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520100": {
+    "name": "Fire Knight's Heavy Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520200": {
+    "name": "Fire Knight's Keen Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520300": {
+    "name": "Fire Knight's Quality Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520400": {
+    "name": "Fire Knight's Fire Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520500": {
+    "name": "Fire Knight's Flame Art Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520600": {
+    "name": "Fire Knight's Lightning Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520700": {
+    "name": "Fire Knight's Sacred Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520800": {
+    "name": "Fire Knight's Magic Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4520900": {
+    "name": "Fire Knight's Cold Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4521000": {
+    "name": "Fire Knight's Poison Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4521100": {
+    "name": "Fire Knight's Blood Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4521200": {
+    "name": "Fire Knight's Occult Greatsword",
+    "caption": "Greatsword of the Fire Knights.\nA long, slender blade that undulates like fire.\n\nBlessed with a flame incantation. Further flame imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "4530000": {
+    "name": "Greatsword of Radahn (Lord)",
+    "caption": "Greatswords of black steel wielded by Radahn in his youth.\nA pair of weapons decorated with a lion mane motif.\n\nThese were in his possession immediately before his triumph over the stars\u2014the swords of a lord who does not rely on physical strength and gravity alone."
+  },
+  "4540000": {
+    "name": "Moonrithyll's Knight Sword",
+    "caption": "Greatsword embedded with a blue glintstone.\nThe favored weapon of the steadfast Carian knight, Moonrithyll.\n\nMoonrithyll was the Twin Moon Knight's chamberlain. She was also a friend to the trolls, who served the royal family, and proudly wielded their weapons as she fought arm in arm with her gargantuan comrades."
+  },
+  "4550000": {
+    "name": "Greatsword of Radahn (Light)",
+    "caption": "Greatswords of black steel wielded by Radahn in his youth.\nA pair of weapons decorated with a lion mane motif.\n\nThese were in his possession immediately before his triumph over the stars\u2014the swords of a lord who does not rely on physical strength and gravity alone."
+  },
+  "6500000": {
+    "name": "Queelign's Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500100": {
+    "name": "Queelign's Heavy Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500200": {
+    "name": "Queelign's Keen Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500300": {
+    "name": "Queelign's Quality Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500400": {
+    "name": "Queelign's Fire Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500500": {
+    "name": "Queelign's Flame Art Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500600": {
+    "name": "Queelign's Lightning Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500700": {
+    "name": "Queelign's Sacred Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500800": {
+    "name": "Queelign's Magic Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6500900": {
+    "name": "Queelign's Cold Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6501000": {
+    "name": "Queelign's Poison Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6501100": {
+    "name": "Queelign's Blood Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "6501200": {
+    "name": "Queelign's Occult Greatsword",
+    "caption": "Greatsword of the Fire Knight Queelign.\nA weighty piercing sword with a blade that undulates like fire.\n\nQueelign devoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege\u2014aspiring to become a second Impaler."
+  },
+  "7500000": {
+    "name": "Spirit Sword",
+    "caption": "Sharp blade sculpted into a twisted shape.\nA sword that has seen many years of use in the gravesite.\n\nSaid to serve as a medium for communion with spirits."
+  },
+  "7510000": {
+    "name": "Falx",
+    "caption": "Curved swords with long, sickle-like blades.\nA pair of weapons made to be wielded in both hands.\n\nForged by a hornsent in the name of revenge.\n\"In vengeance for the flames, my blade I wield...\""
+  },
+  "7520000": {
+    "name": "Dancing Blade of Ranah",
+    "caption": "Decorative swords ablaze with impassioned red.\nA pair of weapons made to be wielded in both hands.\n\nUsed by the dancers of Ranah.\nStrikes enemies with a dancing assault when executing a strong attack."
+  },
+  "7530000": {
+    "name": "Horned Warrior's Sword",
+    "caption": "Curved sword of the horned warriors, keepers of the tower.\n\nThe ornamental tangled horns allow the blade to serve as a medium for horn-calling."
+  },
+  "8500000": {
+    "name": "Putrescence Cleaver",
+    "caption": "Weapon wielded by the Putrescent Knight.\nA great cleaver of hardened putrescence affixed to an arch fashioned from human bones.\n\nGains power from the wielder's arcane attribute."
+  },
+  "8510000": {
+    "name": "Freyja's Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510100": {
+    "name": "Freyja's Heavy Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510200": {
+    "name": "Freyja's Keen Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510300": {
+    "name": "Freyja's Quality Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510400": {
+    "name": "Freyja's Fire Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510500": {
+    "name": "Freyja's Flame Art Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510600": {
+    "name": "Freyja's Lightning Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510700": {
+    "name": "Freyja's Sacred Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510800": {
+    "name": "Freyja's Magic Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8510900": {
+    "name": "Freyja's Cold Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8511000": {
+    "name": "Freyja's Poison Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8511100": {
+    "name": "Freyja's Blood Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8511200": {
+    "name": "Freyja's Occult Greatsword",
+    "caption": "Weapon of Freyja, a Redmane.\nGreatsword decorated with a mane, much like the weapons used by her liege.\n\nThe spirit of Freyja's training lingers in this sword, enhancing the power of Redmane battle skills."
+  },
+  "8520000": {
+    "name": "Horned Warrior's Greatsword",
+    "caption": "Curved greatsword of the horned warriors, keepers of the tower.\nA heavy weapon made to bring the deft strength of the warriors to bear.\n\nThe ornamental tangled horns allow the blade to serve as a medium for horn-calling."
+  },
+  "9500000": {
+    "name": "Sword of Night",
+    "caption": "Sword of an all-consuming, bottomless black that devours even the light that shines upon it.\nWielded by Jol\u00e1n, Swordhand of Night.\n\nThe blade of the sword is only semicorporeal, and thus cannot be guarded against completely."
+  },
+  "10500000": {
+    "name": "Euporia",
+    "caption": "Twinblade symbolizing abundance.\nThe secret treasure of the tower.\n\nThough the blades, fashioned from golden shoots, are largely wilted and darkened, their luster can be restored by dealing damage to foes. However, damage dealt to Those Who Live in Death will have no such effect."
+  },
+  "10510000": {
+    "name": "Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510100": {
+    "name": "Heavy Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510200": {
+    "name": "Keen Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510300": {
+    "name": "Quality Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510400": {
+    "name": "Fire Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510500": {
+    "name": "Flame Art Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510600": {
+    "name": "Lightning Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510700": {
+    "name": "Sacred Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510800": {
+    "name": "Magic Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10510900": {
+    "name": "Cold Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10511000": {
+    "name": "Poison Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10511100": {
+    "name": "Blood Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "10511200": {
+    "name": "Occult Black Steel Twinblade",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Twinblade of black steel with decorative embellishments in gold.\n\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power."
+  },
+  "11500000": {
+    "name": "Flowerstone Gavel",
+    "caption": "Weapon of the Dragon Communion priestess.\nA dragonstone hammer resembling an ancient flower.\n\nThe four petals and the flower's core are all sharp, ending in points, and are capable of dealing heavy damage to dragons."
+  },
+  "12500000": {
+    "name": "Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500100": {
+    "name": "Heavy Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500200": {
+    "name": "Keen Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500300": {
+    "name": "Quality Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500400": {
+    "name": "Fire Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500500": {
+    "name": "Flame Art Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500600": {
+    "name": "Lightning Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500700": {
+    "name": "Sacred Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500800": {
+    "name": "Magic Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12500900": {
+    "name": "Cold Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12501000": {
+    "name": "Poison Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12501100": {
+    "name": "Blood Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12501200": {
+    "name": "Occult Smithscript Greathammer",
+    "caption": "Greathammer engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or dashing strong attack to spin and fling the greathammer."
+  },
+  "12510000": {
+    "name": "Anvil Hammer",
+    "caption": "One of the treasures of the ruined forges.\nA tremendous hammer that incorporates as its head the red-hot anvil of the forge.\n\nIt is said that the anvil's shape is inspired by that of an altar, and that long ago, it was indeed used as such in rite and ritual."
+  },
+  "12520000": {
+    "name": "Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520100": {
+    "name": "Heavy Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520200": {
+    "name": "Keen Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520300": {
+    "name": "Quality Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520400": {
+    "name": "Fire Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520500": {
+    "name": "Flame Art Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520600": {
+    "name": "Lightning Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520700": {
+    "name": "Sacred Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520800": {
+    "name": "Magic Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12520900": {
+    "name": "Cold Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12521000": {
+    "name": "Poison Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12521100": {
+    "name": "Blood Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12521200": {
+    "name": "Occult Black Steel Greathammer",
+    "caption": "Weapon of the Black Knights, servants of Messmer the Impaler. Greathammer of black steel with decorative embellishments in gold.\nBlessed with an Erdtree incantation. Further holy imbuement will amplify the effect and greatly increase the armament's power. Guard Counters cause a burst of power."
+  },
+  "12530000": {
+    "name": "Bloodfiend's Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530100": {
+    "name": "Bloodfiend's Heavy Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530200": {
+    "name": "Bloodfiend's Keen Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530300": {
+    "name": "Bloodfiend's Quality Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530400": {
+    "name": "Bloodfiend's Fire Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530500": {
+    "name": "Bloodfiend's Flame Art Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530600": {
+    "name": "Bloodfiend's Lightning Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530700": {
+    "name": "Bloodfiend's Sacred Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530800": {
+    "name": "Bloodfiend's Magic Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12530900": {
+    "name": "Bloodfiend's Cold Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12531000": {
+    "name": "Bloodfiend's Poison Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12531100": {
+    "name": "Bloodfiend's Blood Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "12531200": {
+    "name": "Bloodfiend's Occult Arm",
+    "caption": "Weapon used by the bloodfiends.\nAn arm pulled from the corpse of one of their kin, and wielded as a makeshift weapon.\n\nHaving been sanctified by a blood ritual, this armament is capable of spraying blood stored within when executing a strong attack."
+  },
+  "13500000": {
+    "name": "Serpent Flail",
+    "caption": "A flail with coiled snakes for bludgeoning heads.\nFire roars within the snakes' bodies, inflicting horrible burns.\n\nSome of Messmer's army used these flails to burn hornsent\u2014to brand them with agony and fear."
+  },
+  "14500000": {
+    "name": "Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500100": {
+    "name": "Heavy Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500200": {
+    "name": "Keen Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500300": {
+    "name": "Quality Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500400": {
+    "name": "Fire Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500500": {
+    "name": "Flame Art Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500600": {
+    "name": "Lightning Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500700": {
+    "name": "Sacred Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500800": {
+    "name": "Magic Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14500900": {
+    "name": "Cold Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14501000": {
+    "name": "Poison Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14501100": {
+    "name": "Blood Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14501200": {
+    "name": "Occult Smithscript Axe",
+    "caption": "Axe engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack or jumping strong attack to throw the axe."
+  },
+  "14510000": {
+    "name": "Death Knight's Twin Axes",
+    "caption": "Golden war axes of the Death Knight.\nA pair of weapons made to be wielded in both hands.\nCrackles with lightning, the power of the capital's ancient dragon cult.\n\nThe knight, once the personal guard of Godwyn, was also the protector of the Prince of Death's cadaver surrogate."
+  },
+  "14520000": {
+    "name": "Messmer Soldier's Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA steel axe, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520100": {
+    "name": "Messmer Soldier's Heavy Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520200": {
+    "name": "Messmer Soldier's Keen Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520300": {
+    "name": "Messmer Soldier's Quality Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520400": {
+    "name": "Messmer Soldier's Fire Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520500": {
+    "name": "Messmer Soldier's Flame Art Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520600": {
+    "name": "Messmer Soldier's Lightning Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520700": {
+    "name": "Messmer Soldier's Sacred Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520800": {
+    "name": "Messmer Soldier's Magic Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14520900": {
+    "name": "Messmer Soldier's Cold Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14521000": {
+    "name": "Messmer Soldier's Poison Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14521100": {
+    "name": "Messmer Soldier's Blood Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14521200": {
+    "name": "Messmer Soldier's Occult Axe",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nPaired axes of steel, worn from use.\n\nA favorite of those who lost themselves utterly in their lord's war. Capable of performing powerful charge attacks."
+  },
+  "14540000": {
+    "name": "Forked-Tongue Hatchet",
+    "caption": "A peculiar weapon wielded by imps.\nHatchet smithed in the shape of a fork-tongued dragon.\n\nThe gently undulating forked blade is known as an \"imp's tongue\" and causes blood loss."
+  },
+  "15500000": {
+    "name": "Death Knight's Longhaft Axe",
+    "caption": "A long-hafted golden axe wielded by the Death Knight.\nBears a representation of a decayed golden ring.\nCrackles with lightning, the power of the capital's ancient dragon cult.\nThe knight, once the personal guard of Godwyn, was also the protector of the Prince of Death's cadaver surrogate."
+  },
+  "15510000": {
+    "name": "Bonny Butchering Knife",
+    "caption": "Weapon of the greater potentates of Bonny Village.\nAn outsize butcher's cleaver used to dismember human bodies in the making of the great jars stored in the gaols.\n\nRestores a very small amount of HP when it squarely strikes an enemy."
+  },
+  "16500000": {
+    "name": "Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500100": {
+    "name": "Heavy Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500200": {
+    "name": "Keen Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500300": {
+    "name": "Quality Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500400": {
+    "name": "Fire Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500500": {
+    "name": "Flame Art Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500600": {
+    "name": "Lightning Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500700": {
+    "name": "Sacred Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500800": {
+    "name": "Magic Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16500900": {
+    "name": "Cold Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16501000": {
+    "name": "Poison Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16501100": {
+    "name": "Blood Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16501200": {
+    "name": "Occult Smithscript Spear",
+    "caption": "Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
+  },
+  "16520000": {
+    "name": "Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520100": {
+    "name": "Heavy Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520200": {
+    "name": "Keen Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520300": {
+    "name": "Quality Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520400": {
+    "name": "Fire Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520500": {
+    "name": "Flame Art Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520600": {
+    "name": "Lightning Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520700": {
+    "name": "Sacred Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520800": {
+    "name": "Magic Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16520900": {
+    "name": "Cold Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16521000": {
+    "name": "Poison Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16521100": {
+    "name": "Blood Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16521200": {
+    "name": "Occult Swift Spear",
+    "caption": "A metal-bodied spear of extremely lightweight make, being the result of a sophisticated molding technique.\n\nCapable of swift consecutive attacks."
+  },
+  "16540000": {
+    "name": "Bloodfiend's Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540100": {
+    "name": "Bloodfiend's Heavy Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540200": {
+    "name": "Bloodfiend's Keen Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540300": {
+    "name": "Bloodfiend's Quality Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540400": {
+    "name": "Bloodfiend's Fire Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540500": {
+    "name": "Bloodfiend's Flame Art Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540600": {
+    "name": "Bloodfiend's Lightning Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540700": {
+    "name": "Bloodfiend's Sacred Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540800": {
+    "name": "Bloodfiend's Magic Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16540900": {
+    "name": "Bloodfiend's Cold Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16541000": {
+    "name": "Bloodfiend's Poison Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16541100": {
+    "name": "Bloodfiend's Blood Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16541200": {
+    "name": "Bloodfiend's Occult Fork",
+    "caption": "Weapon used by the bloodfiends.\nThree tines of carved bone spear the victim to provoke blood loss.\n\nA ritual implement for blood offerings to the Formless Mother.\nAt times, the bloodfiends will spill even their own blood using these forks."
+  },
+  "16550000": {
+    "name": "Bloodfiend's Sacred Spear",
+    "caption": "Greatspear of the bloodfiend hexers.\nOne of the most significant implements used in their blood rituals.\n\nSacred spears of blood are the instruments of communion with an outer god. The mother of truth desires a wound."
+  },
+  "17500000": {
+    "name": "Spear of the Impaler",
+    "caption": "Weapon of Messmer the Impaler.\nA greatspear with a warped blade in the shape of undulating flame.\nRemade by the forging arts of the realm of shadow, this weapon can be thrown by executing a strong attack, dashing strong attack, or mounted strong attack. Charge the attack to produce flame on impact."
+  },
+  "17510000": {
+    "name": "Messmer Soldier's Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510100": {
+    "name": "Messmer Soldier's Heavy Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510200": {
+    "name": "Messmer Soldier's Keen Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510300": {
+    "name": "Messmer Soldier's Quality Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510400": {
+    "name": "Messmer Soldier's Fire Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510500": {
+    "name": "Messmer Soldier's Flame Art Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510600": {
+    "name": "Messmer Soldier's Lightning Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510700": {
+    "name": "Messmer Soldier's Sacred Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510800": {
+    "name": "Messmer Soldier's Magic Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17510900": {
+    "name": "Messmer Soldier's Cold Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17511000": {
+    "name": "Messmer Soldier's Poison Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17511100": {
+    "name": "Messmer Soldier's Blood Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17511200": {
+    "name": "Messmer Soldier's Occult Spear",
+    "caption": "Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
+  },
+  "17520000": {
+    "name": "Barbed Staff-Spear",
+    "caption": "Greatstaff of Jori, elder inquisitor.\nThe tip bristles with golden barbs symbolic of the inquisition's torture, allowing one to wield the staff as a greatspear.\n\nAttacks deal holy damage, and potency increases with faith."
+  },
+  "18500000": {
+    "name": "Spirit Glaive",
+    "caption": "Sharp blade sculpted into a twisted shape.\nA glaive that has seen many years of use in the gravesite.\n\nSaid to serve as a medium for communion with spirits."
+  },
+  "18510000": {
+    "name": "Poleblade of the Bud",
+    "caption": "Weapon of Romina, Saint of the Bud.\nA scarlet glaive with a dangling bud-like blade.\nAttacks cause buildup of rot.\nOnce, in the crumbling, burning church, Romina held the bud in speechless silence.\nThat bud would become her blade."
+  },
+  "19500000": {
+    "name": "Obsidian Lamina",
+    "caption": "Signature weapon of the Pureblood Knight Ansbach. A viciously keen and slender scythe made for combat.\n\nThe obsidian edge relies not upon trickery to fulfil its violent purpose\u2014through skill alone the wielder can rip and rend through foes, sowing blossoms of red upon the battlefield."
+  },
+  "20500000": {
+    "name": "Tooth Whip",
+    "caption": "Whip bestrewn with rotting, misshapen teeth. Filthy and seething with disease, the teeth are embedded in the whip and dose the victim with deadly poison upon each strike.\n\nAs the wounds ripen they grow inflamed and ooze pus. The flesh of shamans was said to meld harmoniously with others."
+  },
+  "21500000": {
+    "name": "Thiollier's Hidden Needle",
+    "caption": "Concealed weapon used by Thiollier, of a design generally favored by poison-wielders for dark and subtle purposes.\n\nLike St. Trina, who blossomed in the deep-purple garden, a rich poison is secreted from within which sends its victims into an eternal sleep."
+  },
+  "21510000": {
+    "name": "Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510100": {
+    "name": "Heavy Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510200": {
+    "name": "Keen Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510300": {
+    "name": "Quality Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510400": {
+    "name": "Fire Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510500": {
+    "name": "Flame Art Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510600": {
+    "name": "Lightning Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510700": {
+    "name": "Sacred Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510800": {
+    "name": "Magic Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21510900": {
+    "name": "Cold Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21511000": {
+    "name": "Poison Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21511100": {
+    "name": "Blood Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21511200": {
+    "name": "Occult Pata",
+    "caption": "A weapon comprised of a linear, double-sided blade attached to a substantial guard.\nWielded by the Oathseeker Knights.\n\nThis versatile armament can be swung about like a fist or used in the manner of a straight sword."
+  },
+  "21520000": {
+    "name": "Poisoned Hand",
+    "caption": "A glove stitched together from the flayed skin of the victims of a butcherous bloodbath. Afflicts target with deadly poison. Raises attack power when poisoning occurs in the vicinity.\nForged of an unyielding, black impulse toward revenge fostered in those who have had everything burned or stolen from them, these are the weapons of the utterly downtrodden."
+  },
+  "21530000": {
+    "name": "Madding Hand",
+    "caption": "A glove stitched together from the flayed skin of the victims of a butcherous bloodbath. Afflicts target with madness. Raises attack power when madness is triggered in the vicinity.\nForged of an unyielding, black impulse toward revenge fostered in those who were hunted down as heretics by their own brethren, these are the weapons of the utterly downtrodden."
+  },
+  "21540000": {
+    "name": "Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540100": {
+    "name": "Heavy Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540200": {
+    "name": "Keen Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540300": {
+    "name": "Quality Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540400": {
+    "name": "Fire Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540500": {
+    "name": "Flame Art Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540600": {
+    "name": "Lightning Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540700": {
+    "name": "Sacred Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540800": {
+    "name": "Magic Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21540900": {
+    "name": "Cold Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21541000": {
+    "name": "Poison Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21541100": {
+    "name": "Blood Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21541200": {
+    "name": "Occult Golem Fist",
+    "caption": "A giant fist of fractured rock. Taken from the body of a golem of the ruined forges.\n\nCarved with a smithscript enabling strong attacks to launch the entire fist straight ahead."
+  },
+  "21550000": {
+    "name": "Shield of Night",
+    "caption": "A shield awarded to Swordhands of Night, cast in a bottomless black from which no light can escape.\n\nThe outer surface is only semicorporeal, providing reliable defense against attacks that are not physical in nature."
+  },
+  "22500000": {
+    "name": "Claws of Night",
+    "caption": "Claws of a bottomless black from which no light can escape. Wielded by Anna, Swordhand of Night.\n\nEngraved with a smithscript enabling strong attack to launch all three claws at a target. The blades are only semicorporeal, and cannot be fully guarded against."
+  },
+  "23500000": {
+    "name": "Devonia's Hammer",
+    "caption": "Great hammer wielded by Devonia, longest-serving of the Crucible Knights.\n\nWeapon forged of primordial gold, marked by its reddish hue and inhabited by ancient holiness. A torrent of life is engraved upon the striking face."
+  },
+  "23510000": {
+    "name": "Shadow Sunflower Blossom",
+    "caption": "The head of a monstrous shadow sunflower manifestation of the Scadutree. Then again, it might be just a flower, wielded as a weapon.\n\nMuch like the Scadutree itself in appearance, a second stalk winds tightly around the first, almost as if in a tender embrace."
+  },
+  "23520000": {
+    "name": "Gazing Finger",
+    "caption": "The head of Metyr, the finger-mother, wielded as a weapon without modification.\n\nFrom within the center of the fingerprint that wrinkles the creature's foremost protrusion, a tiny wart-like eye gazes vacantly into the beyond."
+  },
+  "24500000": {
+    "name": "Nanaya's Torch",
+    "caption": "A torch made by attaching a dying flame of frenzy to a small spinal column.\n\nIn a distant land, in an age long past, was born a man who failed to become the Lord of Frenzied Flame. All that remains of him is cradled gently by Nanaya."
+  },
+  "24510000": {
+    "name": "Lamenting Visage",
+    "caption": "A stone lantern carved to resemble a lamenting human head, the eyes vacantly beaming out light. Can be raised up when equipped in the left hand, illuminating more of the surrounding area.\n\nThe unusual expression somehow imparts a sense of contentment. The languid ease of one who needs not sight."
+  },
+  "30510000": {
+    "name": "Smithscript Shield",
+    "caption": "Roundshield engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nCan be thrown by performing the armament's Skill."
+  },
+  "31500000": {
+    "name": "Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500100": {
+    "name": "Heavy Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500200": {
+    "name": "Keen Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500300": {
+    "name": "Quality Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500400": {
+    "name": "Fire Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500500": {
+    "name": "Flame Art Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500600": {
+    "name": "Lightning Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500700": {
+    "name": "Sacred Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500800": {
+    "name": "Magic Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31500900": {
+    "name": "Cold Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31501000": {
+    "name": "Poison Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31501100": {
+    "name": "Blood Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31501200": {
+    "name": "Occult Messmer Soldier Shield",
+    "caption": "Worn roundshield carried by soldiers loyal to Messmer, the Impaler.\n\nThe largest of all metal shields in their class."
+  },
+  "31510000": {
+    "name": "Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510100": {
+    "name": "Heavy Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510200": {
+    "name": "Keen Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510300": {
+    "name": "Quality Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510400": {
+    "name": "Fire Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510500": {
+    "name": "Flame Art Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510600": {
+    "name": "Lightning Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510700": {
+    "name": "Sacred Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510800": {
+    "name": "Magic Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31510900": {
+    "name": "Cold Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31511000": {
+    "name": "Poison Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31511100": {
+    "name": "Blood Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31511200": {
+    "name": "Occult Wolf Crest Shield",
+    "caption": "A finely-made \"blueshield\" featuring an engraving of a wolf under the moon. Excels at fending off sorceries.\n\nThe wolf is the beast of the Carian royal covenant; a symbol of the moon's pride that none can forget, no matter what remote lands they may arrive in."
+  },
+  "31520000": {
+    "name": "Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520100": {
+    "name": "Heavy Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520200": {
+    "name": "Keen Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520300": {
+    "name": "Quality Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520400": {
+    "name": "Fire Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520500": {
+    "name": "Flame Art Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520600": {
+    "name": "Lightning Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520700": {
+    "name": "Sacred Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520800": {
+    "name": "Magic Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31520900": {
+    "name": "Cold Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31521000": {
+    "name": "Poison Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31521100": {
+    "name": "Blood Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31521200": {
+    "name": "Occult Serpent Crest Shield",
+    "caption": "A finely-made \"redshield\" featuring an engraving of a winged serpent. Excels at guarding against fire.\n\nSaid to have been made to commemorate the beginnings of the crusade started by Messmer, son of Marika."
+  },
+  "31530000": {
+    "name": "Golden Lion Shield",
+    "caption": "Shield made to resemble a fierce golden lion with a luxuriant mane. \n\nAwarded to especially valorous members of Radahn's personal guard on the occasion of its formation."
+  },
+  "32500000": {
+    "name": "Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500100": {
+    "name": "Heavy Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500200": {
+    "name": "Keen Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500300": {
+    "name": "Quality Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500400": {
+    "name": "Fire Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500500": {
+    "name": "Flame Art Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500600": {
+    "name": "Lightning Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500700": {
+    "name": "Sacred Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500800": {
+    "name": "Magic Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32500900": {
+    "name": "Cold Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32501000": {
+    "name": "Poison Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32501100": {
+    "name": "Blood Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32501200": {
+    "name": "Occult Black Steel Greatshield",
+    "caption": "Weighty shields carried by the Black Knights, servants of Messmer the Impaler. Made of black steel with decorative embellishments in gold.\n\nSymbolic of their iron conviction in their crusade, the Black Knights will never yield. Nor will they ever doubt their purpose."
+  },
+  "32520000": {
+    "name": "Verdigris Greatshield",
+    "caption": "Greatshield made of the unusual metal known as verdigris.\n\nBoasts greater guard capacity than damage negation. To the extent that the shield will continue to protect its target even if its bearer should die."
+  },
+  "33510000": {
+    "name": "Staff of the Great Beyond",
+    "caption": "Staff fashioned from the tail-fingers of Metyr, the Mother of Fingers, and the microcosm raised aloft over the crux they form.\nCatalyst for casting both sorceries and incantations.\nThe Mother received signs from the Greater Will from the beyond of the microcosm. Despite being broken and abandoned, she kept waiting for another message to come."
+  },
+  "33520000": {
+    "name": "Maternal Staff",
+    "caption": "Staff of Count Ymir, who made himself a Mother of Fingers.\nCarried for want of tail-fingers of his own.\nEnhances finger sorceries.\n\nThe crystal ball, though representative of a microcosm, would not receive any sign."
+  },
+  "34500000": {
+    "name": "Dryleaf Seal",
+    "caption": "Sacred seal of the spiritual seekers known as the Dryleaf Sect.\nEnhances incantations of Miquella.\n\nThose who saw the decline of the Erdtree in the fallen leaves long ago braced themselves for the weakening of Order, and embraced a strict faith. And then, they made to serve a new god."
+  },
+  "34510000": {
+    "name": "Fire Knight's Seal",
+    "caption": "Sacred seal of the Fire Knights, who answer directly to Messmer the Impaler.\n\nEnhances fire incantations of Messmer.\n\nThe emblem of Messmer's army depicts a golden ring and the fire of his sacred seal."
+  },
+  "34520000": {
+    "name": "Spiraltree Seal",
+    "caption": "Sacred seal of soiled amber engraved with a spiral tree design.\n\nEnhances spiral incantations.\n\nThe majesty of the white tower, stretching to reach the gods, even inspired a secret faith in the invaders, the people of the Erdtree."
+  },
+  "40500000": {
+    "name": "Bone Bow",
+    "caption": "A crude shortbow fashioned from sickly bone.\n\nA medium for spirit-calling, and a product of the ancient hexing arts of the tower."
+  },
+  "41510000": {
+    "name": "Ansbach's Longbow",
+    "caption": "Weapon of Sir Ansbach.\nA longbow consisting of two bow bodies and two strings.\n\nUnusually for a longbow, it can be wielded similarly to a light bow\u2014provided that the wielder has the extraordinary dexterity demanded."
+  },
+  "42500000": {
+    "name": "Igon's Greatbow",
+    "caption": "Weapon of Igon, the broken drake warrior.\nA greatbow fashioned from two dragon bones bound with coarse rope.\nCovered in gashes left by claws.\n\nImbued with Igon's obsession, enhancing the power of Igon's Harpoon."
+  },
+  "43500000": {
+    "name": "Repeating Crossbow",
+    "caption": "A mechanized crossbow that has been fitted with a fan-shaped contraption.\n\nThis metallic piece adds a reloading system used in the execution of a unique battle art."
+  },
+  "43510000": {
+    "name": "Spread Crossbow",
+    "caption": "A modified crossbow made by combining two crossbows into one.\n\nCapable of loading multiple bolts and firing them simultaneously, enabling a spread of fire."
+  },
+  "44500000": {
+    "name": "Rabbath's Cannon",
+    "caption": "A type of jar cannon used to fire greatbolts.\nA masterwork of Spellmachinist Rabbath.\n\nThe power of the glintstones that encircle the barrel imbues bolts with magic damage and guides shots toward their targets."
+  },
+  "50540000": {
+    "name": "Piquebone Arrow (Fletched)",
+    "caption": "Arrow whittled from animal bones. The tip is soaked in putrescence.\nReleases a white smoke at the point of impact, luring in foes of human build who are not in combat, and drawing their aggression. Effective on demi-humans even if they are already in a combat state. Craftable item.\nThe fletching adds distance to the arrow's flight."
+  },
+  "50550000": {
+    "name": "Piquebone Arrow",
+    "caption": "Arrow whittled from animal bones. The tip is soaked in putrescence.\nReleases a white smoke at the point of impact, luring in foes of human build who are not in combat, and drawing their aggression. Effective on demi-humans even if they are already in a combat state. Craftable item."
+  },
+  "51500000": {
+    "name": "Igon's Harpoon",
+    "caption": "Great arrow that bristles with sharp gravel stone pieces.\nHas an anti-dragon effect.\n\nThe broken drake warrior Igon made these one by one in the midst of his agony\u2014so that Bayle the Dread himself would know fear."
+  },
+  "52520000": {
+    "name": "Piquebone Bolt",
+    "caption": "Bolt whittled from animal bones. The tip is soaked in putrescence.\n\nReleases a white smoke at the point of impact, luring in foes of human build who are not in combat, and drawing their aggression. Effective on demi-humans even if they are already in a combat state. Craftable item."
+  },
+  "53500000": {
+    "name": "Rabbath's Greatbolt",
+    "caption": "Greatbolt tipped with a clump of glintstone shards. One of Spellmachinist Rabbath's innovative designs.\n\nDetonates a large explosion on impact, dealing magic damage."
+  },
+  "60500000": {
+    "name": "Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500100": {
+    "name": "Heavy Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500200": {
+    "name": "Keen Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500300": {
+    "name": "Quality Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500400": {
+    "name": "Fire Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500500": {
+    "name": "Flame Art Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500600": {
+    "name": "Lightning Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500700": {
+    "name": "Sacred Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500800": {
+    "name": "Magic Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60500900": {
+    "name": "Cold Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60501000": {
+    "name": "Poison Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60501100": {
+    "name": "Blood Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60501200": {
+    "name": "Occult Dryleaf Arts",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon.\nThis martial art combines fist strikes and kicks.\n\nThe teachings of a group of spiritual seekers known as the Dryleaf Sect, revealed only to those of worthy valor and character. The practice of this martial art marks the dawn of an ascetic's journey."
+  },
+  "60510000": {
+    "name": "Dane's Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510100": {
+    "name": "Dane's Heavy Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510200": {
+    "name": "Dane's Keen Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510300": {
+    "name": "Dane's Quality Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510400": {
+    "name": "Dane's Fire Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510500": {
+    "name": "Dane's Flame Art Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510600": {
+    "name": "Dane's Lightning Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510700": {
+    "name": "Dane's Sacred Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510800": {
+    "name": "Dane's Magic Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60510900": {
+    "name": "Dane's Cold Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60511000": {
+    "name": "Dane's Poison Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60511100": {
+    "name": "Dane's Blood Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "60511200": {
+    "name": "Dane's Occult Footwork",
+    "caption": "A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nThis kick-based martial art is unique to Dane, a Dryleaf and sworn ally of Leda. He acquired these skills by training with the aid of a waterfall; letting the water beat his body, and throwing himself into its basin."
+  },
+  "61500000": {
+    "name": "Firespark Perfume Bottle",
+    "caption": "Perfume bottle remade into a weapon by perfumers of the realm of shadow.\n\nAttacks release perfumed powder, producing sparks of fire.\n\nThe crusade was a violent purge, and the perfumers were not called there to heal."
+  },
+  "61510000": {
+    "name": "Chilling Perfume Bottle",
+    "caption": "Perfume bottle remade into a weapon by perfumers of the realm of shadow.\n\nAttacks release perfumed powder, producing an icy chill.\n\nFrom time to time, perfumers set out on journeys to pursue new aromatics and flower gardens."
+  },
+  "61520000": {
+    "name": "Frenzyflame Perfume Bottle",
+    "caption": "Perfume bottle remade into a weapon by perfumers of the realm of shadow.\n\nAttacks release perfumed powder, producing frenzied flame.\n\nFrom time to time, perfumers set out on journeys to pursue new aromatics and flower gardens."
+  },
+  "61530000": {
+    "name": "Lightning Perfume Bottle",
+    "caption": "Perfume bottle remade into a weapon by perfumers of the realm of shadow.\n\nAttacks release perfumed powder, producing lightning.\n\nFrom time to time, perfumers set out on journeys to pursue new aromatics and flower gardens."
+  },
+  "61540000": {
+    "name": "Deadly Poison Perfume Bottle",
+    "caption": "Perfume bottle customized by Thiollier.\n\nAttacks release perfumed powder, producing deadly poison.\n\nThere are some techniques of the perfuming arts that employ poison. Upon learning of this, Thiollier threw himself into mastering those techniques, and he made them his own."
+  },
+  "62500000": {
+    "name": "Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500100": {
+    "name": "Heavy Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500200": {
+    "name": "Keen Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500300": {
+    "name": "Quality Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500400": {
+    "name": "Fire Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500500": {
+    "name": "Flame Art Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500600": {
+    "name": "Lightning Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500700": {
+    "name": "Sacred Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500800": {
+    "name": "Magic Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62500900": {
+    "name": "Cold Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62501000": {
+    "name": "Poison Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62501100": {
+    "name": "Blood Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62501200": {
+    "name": "Occult Dueling Shield",
+    "caption": "A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree\u2014a custom that had somehow remained within the realm of shadow."
+  },
+  "62510000": {
+    "name": "Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510100": {
+    "name": "Heavy Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510200": {
+    "name": "Keen Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510300": {
+    "name": "Quality Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510400": {
+    "name": "Fire Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510500": {
+    "name": "Flame Art Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510600": {
+    "name": "Lightning Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510700": {
+    "name": "Sacred Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510800": {
+    "name": "Magic Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62510900": {
+    "name": "Cold Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62511000": {
+    "name": "Poison Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62511100": {
+    "name": "Blood Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "62511200": {
+    "name": "Occult Carian Thrusting Shield",
+    "caption": "Silver thrusting shield embedded with glintstones.\nEnables the wielder to attack and guard simultaneously.\n\nOnce wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat\u2014a demonstration of fidelity to the Erdtree."
+  },
+  "63500000": {
+    "name": "Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500100": {
+    "name": "Heavy Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500200": {
+    "name": "Keen Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500300": {
+    "name": "Quality Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500400": {
+    "name": "Fire Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500500": {
+    "name": "Flame Art Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500600": {
+    "name": "Lightning Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500700": {
+    "name": "Sacred Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500800": {
+    "name": "Magic Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63500900": {
+    "name": "Cold Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63501000": {
+    "name": "Poison Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63501100": {
+    "name": "Blood Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "63501200": {
+    "name": "Occult Smithscript Dagger",
+    "caption": "Dagger engraved with a smithscript.\n\nReduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.\n\nOnce thrown, the dagger instantly reappears in the wielder's hand."
+  },
+  "64500000": {
+    "name": "Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500100": {
+    "name": "Heavy Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500200": {
+    "name": "Keen Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500300": {
+    "name": "Quality Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500400": {
+    "name": "Fire Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500500": {
+    "name": "Flame Art Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500600": {
+    "name": "Lightning Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500700": {
+    "name": "Sacred Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500800": {
+    "name": "Magic Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64500900": {
+    "name": "Cold Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64501000": {
+    "name": "Poison Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64501100": {
+    "name": "Blood Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64501200": {
+    "name": "Occult Backhand Blade",
+    "caption": "Curved blade wielded with a backhand grip.\nA type of weapon wielded by hornsent for generations.\n\nThe style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks."
+  },
+  "64510000": {
+    "name": "Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510100": {
+    "name": "Heavy Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510200": {
+    "name": "Keen Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510300": {
+    "name": "Quality Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510400": {
+    "name": "Fire Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510500": {
+    "name": "Flame Art Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510600": {
+    "name": "Lightning Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510700": {
+    "name": "Sacred Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510800": {
+    "name": "Magic Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64510900": {
+    "name": "Cold Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64511000": {
+    "name": "Poison Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64511100": {
+    "name": "Blood Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64511200": {
+    "name": "Occult Smithscript Cirque",
+    "caption": "Circular backhand blade engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory."
+  },
+  "64520000": {
+    "name": "Curseblade's Cirque",
+    "caption": "Weapon of the masked Curseblades.\nCircular backhand blade with wave-like cutting edges, sharpened into points that incite blood loss.\n\nLong ago, this was employed by the ascetics who strove to become tutelary deities as a ritualistic object in their self-flagellating dances."
+  },
+  "66500000": {
+    "name": "Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500100": {
+    "name": "Heavy Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500200": {
+    "name": "Keen Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500300": {
+    "name": "Quality Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500400": {
+    "name": "Fire Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500500": {
+    "name": "Flame Art Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500600": {
+    "name": "Lightning Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500700": {
+    "name": "Sacred Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500800": {
+    "name": "Magic Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66500900": {
+    "name": "Cold Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66501000": {
+    "name": "Poison Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66501100": {
+    "name": "Blood Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66501200": {
+    "name": "Occult Great Katana",
+    "caption": "Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
+  },
+  "66510000": {
+    "name": "Dragon-Hunter's Great Katana",
+    "caption": "Great katana with spines of gravel stone along its blade, wielded by the Ancient Dragon-Man of the Dragon's Pit.\nHas an anti-dragon effect.\n\nFormerly a Dragon Communion warrior, the Ancient Dragon-Man was once arbiter of those worthy to devour the Dreaded One."
+  },
+  "66520000": {
+    "name": "Rakshasa's Great Katana",
+    "caption": "A great katana with the tempering pattern of its blade forever stained red with blood. Weapon of Rakshasa, who cuts down and devours.\n\nA berserker's weapon used to endure enemy attacks and reply with one's full fury. When attacking, the wielder is less likely to stagger from counterattacks, but will also take increased damage."
+  },
+  "67500000": {
+    "name": "Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500100": {
+    "name": "Heavy Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500200": {
+    "name": "Keen Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500300": {
+    "name": "Quality Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500400": {
+    "name": "Fire Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500500": {
+    "name": "Flame Art Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500600": {
+    "name": "Lightning Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500700": {
+    "name": "Sacred Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500800": {
+    "name": "Magic Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67500900": {
+    "name": "Cold Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67501000": {
+    "name": "Poison Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67501100": {
+    "name": "Blood Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67501200": {
+    "name": "Occult Milady",
+    "caption": "A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
+  },
+  "67510000": {
+    "name": "Leda's Sword",
+    "caption": "Light greatsword with gold inlaid. \nWeapon of Leda, the Needle Knight.\nDeals holy damage.\n\nThough polished to a mirror sheen, this blade still reeks with the stench of crusted blood that lingers from the cull of her knightly comrades."
+  },
+  "67520000": {
+    "name": "Rellana's Twin Blades",
+    "caption": "Carian light greatsword embedded with blue glintstone.\nWeapon of Rellana, the Twin Moon Knight.\n\nTwo swords as a single armament. When two-handing, a straight sword engraved with golden flame will be carried in the left hand.\nHere, and here alone, were moon and fire ever together."
+  },
+  "68500000": {
+    "name": "Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500100": {
+    "name": "Heavy Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500200": {
+    "name": "Keen Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500300": {
+    "name": "Quality Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500400": {
+    "name": "Fire Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500500": {
+    "name": "Flame Art Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500600": {
+    "name": "Lightning Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500700": {
+    "name": "Sacred Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500800": {
+    "name": "Magic Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68500900": {
+    "name": "Cold Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68501000": {
+    "name": "Poison Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68501100": {
+    "name": "Blood Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68501200": {
+    "name": "Occult Beast Claw",
+    "caption": "Weapon in the form of a carnivorous beast's vicious claws.\nUsed to perform bestial slashing attacks uncanny to humankind.\n\nAn imitation of the esoteric technique of the horned warriors. Those who carry this weapon wield it as though they have been possessed by a savage beast."
+  },
+  "68510000": {
+    "name": "Red Bear's Claw",
+    "caption": "Claw of a great red bear wielded without modification by Red Bear, whose name is lost to madness.\n\nAfter killing the great red bear in a blood-soaked bout, he became fascinated by the untainted glory of its naked strength.\n\"I wish to be a bear, no more, and no less.\""
+  }
+}

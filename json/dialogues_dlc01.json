@@ -1,0 +1,4607 @@
+{
+  "210": {
+    "20": {
+      "id": 21020400,
+      "dialogue": [
+        "Lord brother.",
+        "I'm going to be a god.",
+        "If we honour our part of the vow,",
+        "promise me you'll be my consort.",
+        "I'll make the world a gentler place."
+      ]
+    },
+    "30": {
+      "id": 21030500,
+      "dialogue": [
+        "O Horn-deck'd beast, from higher sphere deliver'd.",
+        "O Horn-deck'd beast, from higher sphere deliver'd.",
+        "Take root inside the tower's sculpted keepers.",
+        "We beg of thee to dance and cavort.",
+        "And perch'd within, we beg of thee; rise.",
+        "And with the beauty of thy grand display...",
+        "Dance and cavort, cleanse all that thou wilt.",
+        "Cleanse away the foulness fate imposed.",
+        "Cruelty, woe, and those who plague the tower.",
+        "Cleanse away the strumpet's vile progeny.",
+        "Cleanse away the strumpet's vile progeny."
+      ]
+    },
+    "40": {
+      "id": 21040200,
+      "dialogue": [
+        "I am Radahn.",
+        "Born of red-maned Radagon, and Rennala of the Full Moon.",
+        "A lion bred for battle."
+      ]
+    },
+    "41": {
+      "id": 21041300,
+      "dialogue": [
+        "My loyal blade. And champion of the festival.",
+        "Both your deeds will ever be praised in song.",
+        "Now, the vow will be honoured, and my Lord brother's soul will return.",
+        "So that he may be my consort."
+      ]
+    },
+    "50": {
+      "id": 21050850,
+      "dialogue": [
+        "I hereby swear.",
+        "Lord brother.",
+        "To every living being, and every living soul.",
+        "At long last, you are returned.",
+        "Now comes the age of our eden.",
+        "A thousand year voyage guided by compassion.",
+        "Tarnished one.",
+        "Beginning here, love encompasses all.",
+        "Aspiring Lord of the old order.",
+        "No living thing will be denied, no deed censured.",
+        "If you have known sin, if you grieve for this world,",
+        "I am ready. To embrace the whole of it.",
+        "then yield the path forward to us.",
+        "Let us go together.",
+        "To I, Miquella,",
+        "Radahn, my promised consort.",
+        "and my promised consort, Radahn."
+      ]
+    },
+    "60": {
+      "id": 21060600,
+      "dialogue": [
+        "Mongrel intruder.",
+        "Miquella spoke of thee...",
+        "Thou'rt Tarnished, it seemeth.",
+        "Thou'rt Tarnished, it seemeth.",
+        "Mother, wouldst thou truly Lordship sanction,",
+        "in one so bereft of light?",
+        "Yet...my purpose standeth unchanged.",
+        "Those stripped of the Grace of Gold shall all meet death.",
+        "In the embrace of Messmer's flame."
+      ]
+    },
+    "70": {
+      "id": 21070400,
+      "dialogue": [
+        "Enough...",
+        "I have endured...more than enough...",
+        "I ask you forgive me, dearest Nanaya...",
+        "Ahhhhhh...",
+        "Ahh..."
+      ]
+    }
+  },
+  "211": {
+    "1": {
+      "id": 21101900,
+      "dialogue": [
+        "Gah...hah...",
+        "I will not suffer...",
+        "A lord devoid of light.",
+        "O mother, forgive me.",
+        "Grah!",
+        "A-Argh...",
+        "Gah... Phew...",
+        "Soon, Tarnished.",
+        "Wilt thou be taken in the jaws..."
+      ]
+    },
+    "2": {
+      "id": 21102000,
+      "dialogue": [
+        "Of the abyssal serpent, shorn of light."
+      ]
+    }
+  },
+  "10103": {
+    "0": {
+      "id": 1010300010,
+      "dialogue": [
+        "Those stripped of the Grace of Gold shall all meet death.",
+        "In the embrace of Messmer's flame."
+      ]
+    }
+  },
+  "10104": {
+    "0": {
+      "id": 1010400010,
+      "dialogue": [
+        "O lightless creature...",
+        "Embrace thine oblivion, as shall I."
+      ]
+    }
+  },
+  "10105": {
+    "10": {
+      "id": 1010510010,
+      "dialogue": [
+        "Mother... Marika...",
+        "A curse...upon thee..."
+      ]
+    }
+  },
+  "10190": {
+    "0": {
+      "id": 1019000300,
+      "dialogue": [
+        "<attacks with a spear - various levels of strength>",
+        "<attacks with fire magic - various levels of strength>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "10202": {
+    "90": {
+      "id": 1020290000,
+      "dialogue": [
+        "..."
+      ]
+    }
+  },
+  "10203": {
+    "0": {
+      "id": 1020300110,
+      "dialogue": [
+        "A-Ah!",
+        "Who art thou, stranger...?",
+        "...by the look of thee, another of Messmer's peons, methinks.",
+        "Tell me, dost thy kind never weary grow?",
+        "How do these old bones fascinate thee yet?",
+        "Our lands were by thy kind set aflame, our tower by thy kind veiled in shadow.",
+        "Thou cam'st, robbing us of all, spoiling all. Have ye not basked in these deeds long enough?",
+        "Listen, progeny of the wanton strumpet.",
+        "For thy sins thou shalt have thy recompense\u2014\nthe sacred beast shall unleash its ire.",
+        "Till then, with this old hag do what thou wilt, for all the good it'll do thee in the end!"
+      ]
+    },
+    "10": {
+      "id": 1020310030,
+      "dialogue": [
+        "For what reason dost thou falter, villain?",
+        "Enact thy sordid work with fullest pride.",
+        "Else tuck away thy tail and leave for good,",
+        "loathsome issue of the rotten strumpet!"
+      ]
+    },
+    "20": {
+      "id": 1020320010,
+      "dialogue": [
+        "Be gone!",
+        "These lands were ours since times of old."
+      ]
+    }
+  },
+  "10204": {
+    "0": {
+      "id": 1020400050,
+      "dialogue": [
+        "Well! 'Tis no surprise. Thou hast thy choice made!",
+        "Act as thou wilt, but still must I ask... Is killing me truly within thy pow'r?",
+        "Didst thou imagine I would beg thee cease?",
+        "Nay, nay, do what thou wilt to this poor soul!",
+        "Heaven shall judge thee all for thy deeds!",
+        "Aaaaaargh!"
+      ]
+    },
+    "10": {
+      "id": 1020410080,
+      "dialogue": [
+        "A-Argh!",
+        "Again!",
+        "Messmer's peon come to plague me!",
+        "Act as thou wilt, but still must I ask... Is killing me truly within thy pow'r?",
+        "Didst thou imagine I would beg thee cease?",
+        "Nay, nay, do what thou wilt to this poor soul!",
+        "Heaven shall judge thee all for thy deeds!",
+        "Aaaaaargh!"
+      ]
+    }
+  },
+  "10205": {
+    "0": {
+      "id": 1020500030,
+      "dialogue": [
+        "A curse upon thee, rotten miscreant.",
+        "A curse upon the strumpet's progeny, upon Marika's children each and all.",
+        "The curse of the omen shall strike thee down...",
+        "In the form of the sacred beast's ire."
+      ]
+    },
+    "10": {
+      "id": 1020510010,
+      "dialogue": [
+        "May the curse strike thee...",
+        "To the very last..."
+      ]
+    },
+    "80": {
+      "id": 1020580000,
+      "dialogue": [
+        "..."
+      ]
+    },
+    "90": {
+      "id": 1020590000,
+      "dialogue": [
+        "...A-Ah..."
+      ]
+    }
+  },
+  "10206": {
+    "0": {
+      "id": 1020600110,
+      "dialogue": [
+        "...O-Oh?",
+        "Ah, such a joy to smell this scent again...",
+        "Does a sculpted keeper stand before me?",
+        "Ohh!",
+        "As I felt the sacred beast's essence fade, a great anxiety welled up within.",
+        "Forgive this old woman her foolish fears!",
+        "Tis such a relief, I cannot express.",
+        "After an eternity of the mind, our voices have at last reached the heavens.",
+        "As evinced by thy gracious arrival.",
+        "Ohh! Ohhh!",
+        "A-A-Ah, Ohhh!"
+      ]
+    }
+  },
+  "10207": {
+    "0": {
+      "id": 1020700060,
+      "dialogue": [
+        "I implore, vessel of the sacred beast...",
+        "Have my son accompany thee to war.",
+        "And dance thy dance of beauteous choler.",
+        "Take vengeance upon Messmer and his lot.",
+        "They who betrayed us, aye, they who burned us...",
+        "Let them face in thy wrath their just deserts.",
+        "My song will I sing...in service to thee."
+      ]
+    },
+    "10": {
+      "id": 1020710010,
+      "dialogue": [
+        "O Sculpted keeper, channel thy choler, into the most resplendent of dances.",
+        "My song will I sing...in service to thee."
+      ]
+    }
+  },
+  "10208": {
+    "0": {
+      "id": 1020800040,
+      "dialogue": [
+        "O Horn-deck'd beast, from higher sphere deliver'd.",
+        "We beg of thee to dance and cavort.",
+        "Dance and cavort, cleanse all that thou wilt.",
+        "Cruelty, woe, and those who plague the tower.",
+        "Cleanse away the strumpet's vile progeny."
+      ]
+    }
+  },
+  "10209": {
+    "0": {
+      "id": 1020900070,
+      "dialogue": [
+        "Welcome,",
+        "O glorious Sculpted Keeper.",
+        "Thou'rt kind indeed, to this aged crone.",
+        "...",
+        "Pardon me, my dear, where are my manners!",
+        "Surely thou must hunger, O Sculpted Keeper?",
+        "I prithee, partake of this modest dish.",
+        "Tis only plain fare, but sup to the lees, and it will surely grant thee ample vigour."
+      ]
+    },
+    "10": {
+      "id": 1020910020,
+      "dialogue": [
+        "Shouldst thou be by hunger's pangs beset, I implore thee, partake of my stew.",
+        "Thou'rt sure to feel thy vigour restored.",
+        "Though, if the flavour doth thy tongue offend, I care not if thou throwest it away."
+      ]
+    },
+    "50": {
+      "id": 1020950060,
+      "dialogue": [
+        "Welcome,",
+        "O glorious Sculpted Keeper.",
+        "What a joy it is to see thee again.",
+        "...",
+        "Thou possessest yet my scorpion stew...",
+        "The broth is mine own little invention. 'Tis palatable for quite the long while.",
+        "Shouldst thou be by hunger's pangs beset, I implore thee to partake of it."
+      ]
+    },
+    "60": {
+      "id": 1020960020,
+      "dialogue": [
+        "I implore thee, partake of my stew, shouldst thou be by hunger's pangs beset.",
+        "Thou'rt sure to feel thy vigour restored.",
+        "Though, if the flavour doth thy tongue offend, I care not if thou throwest it away."
+      ]
+    },
+    "70": {
+      "id": 1020970070,
+      "dialogue": [
+        "Welcome,",
+        "O glorious Sculpted Keeper.",
+        "What a joy it is to see thee again.",
+        "...",
+        "Oh, I know...",
+        "Dost thou hunger, noble guest?",
+        "Prithee take with thee more scorpion stew.",
+        "I've an inkling thou might have need of more."
+      ]
+    },
+    "80": {
+      "id": 1020980020,
+      "dialogue": [
+        "I implore thee, partake of my stew, shouldst thou be by hunger's pangs beset.",
+        "Thou'rt sure to feel thy vigour restored.",
+        "Though, if the flavour doth thy tongue offend, I care not if thou throwest it away."
+      ]
+    }
+  },
+  "10210": {
+    "0": {
+      "id": 1021000090,
+      "dialogue": [
+        "Heavens! Great and gallant Sculpted Keeper!",
+        "I know it in my bones...",
+        "Thy deed is done!",
+        "A worthy deed no doubt, to bring our foes what surely was deserved recompense!",
+        "Ohh! Ohhh!",
+        "Heaven hath borne witness to our plight,",
+        "thy gleaming wrath, and unparalleled dance.",
+        "Though a trifle it might seem to thee, I have prepared a dish in celebration.",
+        "T'would please me much if thou might partake.",
+        "Partake, partake, until thou art sated."
+      ]
+    }
+  },
+  "10211": {
+    "0": {
+      "id": 1021100030,
+      "dialogue": [
+        "O Sculpted Keeper,",
+        "I offer my thanks.",
+        "Thou danced with passing wrath and beauty, such that rightfully avenged we would be...",
+        "I have never known such joy as this."
+      ]
+    }
+  },
+  "10212": {
+    "0": {
+      "id": 1021200090,
+      "dialogue": [
+        "Sculpted Keeper,",
+        "O great and gallant Sculpted Keeper...",
+        "Wert thou by this old maid unduly push'd? Into facing such labours as thou didst?",
+        "Has our grave resentment fettered thee?",
+        "With such bounteous fury didst thou dance...",
+        "I cannot presume thou didst not suffer...",
+        "Please, I ask thee, allow thyself some rest.",
+        "None of the tower would dare interfere.",
+        "And if one should, I'll see to them myself!",
+        "Ha ha ha..."
+      ]
+    },
+    "10": {
+      "id": 1021210030,
+      "dialogue": [
+        "Apologies, O noble visitor.",
+        "But wouldst thou permit me a little rest?",
+        "Mine eyes are oft apt to glaze over\u2014the years taking their toll, 'tis plain to see.",
+        "Even telling dream from reality...is a task increasingly beyond me..."
+      ]
+    },
+    "20": {
+      "id": 1021220010,
+      "dialogue": [
+        "Apologies, O noble visitor...",
+        "But wouldst thou permit me a little rest...?"
+      ]
+    }
+  },
+  "10213": {
+    "0": {
+      "id": 1021300030,
+      "dialogue": [
+        "Sculpted Keeper!",
+        "What hath come over thee!",
+        "Look at me! I am not thine enemy!",
+        "Messmer and his sordid lot are elsewhere!"
+      ]
+    }
+  },
+  "10214": {
+    "0": {
+      "id": 1021400040,
+      "dialogue": [
+        "Sculpted Keeper, art thou now becalmed?",
+        "Worry not, thy deeds were not thine own.",
+        "Twas the thrashing rage of the sacred beast, spilling out from within thee, I am sure...",
+        "Tis bound to occur, once in a while...",
+        "See! I am just fine. No harm done at all."
+      ]
+    }
+  },
+  "10215": {
+    "0": {
+      "id": 1021500080,
+      "dialogue": [
+        "I see thy purpose now! Clear as day!",
+        "A sacrifice thou wouldst make of me.",
+        "The sacred beast appeareth fully wroth, such tumult it wreaketh from within thee...",
+        "Ohh! Ohhh!",
+        "Feast upon these aged bones, sacred beast!",
+        "Wolf down ev'ry crumb, and wax fully wroth!",
+        "If this direful act serves the judgement thou shalt upon Marika's offspring loose\u2014",
+        "Then for thy cause will I gladly succumb!",
+        "Aaaaaargh..."
+      ]
+    }
+  },
+  "10217": {
+    "0": {
+      "id": 1021700020,
+      "dialogue": [
+        "Sculpted Keeper!",
+        "What hath come over thee!",
+        "I beg of thee, please halt thy hallowed hand!"
+      ]
+    }
+  },
+  "10218": {
+    "0": {
+      "id": 1021800040,
+      "dialogue": [
+        "Sculpted Keeper, art thou now becalmed?",
+        "Worry not, thy deeds were not thine own.",
+        "Twas the thrashing rage of the sacred beast, spilling out from within thee, I am sure...",
+        "Tis bound to occur, once in a while...",
+        "See! I am just fine. No harm done at all."
+      ]
+    }
+  },
+  "10219": {
+    "0": {
+      "id": 1021900050,
+      "dialogue": [
+        "O sacred beast...",
+        "I see thy purpose now! Wax wroth to thy heart's content, wild and free.",
+        "And then...",
+        "In exchange for this woman's life...",
+        "Release the Sculpted Keeper from thy rage.",
+        "I ask thee at my last, O sacred beast..."
+      ]
+    }
+  },
+  "10290": {
+    "0": {
+      "id": 1029000100,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "10301": {
+    "0": {
+      "id": 1030100050,
+      "dialogue": [
+        "O-Oh... Ohh...",
+        "O-Ohh! Ohhhhhh!",
+        "The pain... The pain!",
+        "My arms! My legs! Each lies a bloody ruin!",
+        "Ah... A-Aaaaaargh!",
+        "The pain... The exquisite pain..."
+      ]
+    },
+    "10": {
+      "id": 1030110060,
+      "dialogue": [
+        "Bayle! Vile Bayle!",
+        "O terror incarnate!",
+        "There is life in me yet!",
+        "I will soon feast upon your heart!",
+        "Mark my words! You too shall know fear!",
+        "Uaaaaargh!"
+      ]
+    },
+    "20": {
+      "id": 1030120010,
+      "dialogue": [
+        "O-Oh...the pain...",
+        "The exquisite pain..."
+      ]
+    }
+  },
+  "10302": {
+    "0": {
+      "id": 1030200040,
+      "dialogue": [
+        "Please, no more.",
+        "I am sorry. I repent!",
+        "Come no closer. Oh, the horror.",
+        "Please, savage me no further.",
+        "O-Oh... Oh..."
+      ]
+    },
+    "10": {
+      "id": 1030210020,
+      "dialogue": [
+        "Please, no more...",
+        "Spare me your cruelty...",
+        "O-Oh... Oh..."
+      ]
+    }
+  },
+  "10305": {
+    "0": {
+      "id": 1030500070,
+      "dialogue": [
+        "Heh heh heh, ha ha ha!",
+        "Ah ha ha ha!",
+        "What a sight! A warrior true, if ever one there was!",
+        "A fellow drake warrior!",
+        "Igon, piteous Igon, do you not remember?",
+        "Conjure your past! How once you were!",
+        "When fear was yet foreign to ye!",
+        "Heh heh... Ha ha ha!"
+      ]
+    }
+  },
+  "10306": {
+    "0": {
+      "id": 1030600070,
+      "dialogue": [
+        "Ahh, drake warrior, dear friend.",
+        "Grant me this one wish.",
+        "Take this finger. My finger.",
+        "Scale the jagged peak. Face Bayle the Dread. And when you do...",
+        "Summon me. Summon my soul.",
+        "My limbs are limbs no more. My heart is twice-over filled with fear.",
+        "But a drake warrior I remain.",
+        "And my soul yet lies on the mountain."
+      ]
+    },
+    "10": {
+      "id": 1030610020,
+      "dialogue": [
+        "Proud drake warrior, I beg of you.",
+        "Scale the jagged peak. Face Bayle the Dread. And when you do...",
+        "Summon me. Summon my soul."
+      ]
+    }
+  },
+  "10307": {
+    "0": {
+      "id": 1030700030,
+      "dialogue": [
+        "Curse you, Bayle!",
+        "I hereby vow! You will rue this day!",
+        "Behold, a true drake warrior! And I, Igon!",
+        "Your fears made flesh!"
+      ]
+    }
+  },
+  "10308": {
+    "0": {
+      "id": 1030800030,
+      "dialogue": [
+        "Solid of scale you might be, foul dragon...",
+        "But I will riddle with holes your rotten hide!",
+        "With a hail of harpoons!",
+        "With every last drop of my being!"
+      ]
+    }
+  },
+  "10309": {
+    "0": {
+      "id": 1030900020,
+      "dialogue": [
+        "Graaaaaargh!",
+        "Bayle the Dread!",
+        "You shall haunt me no longer!"
+      ]
+    }
+  },
+  "10310": {
+    "0": {
+      "id": 1031000020,
+      "dialogue": [
+        "A-Ahhhhhh...",
+        "B...Bayle...",
+        "You shall know...fear yet..."
+      ]
+    }
+  },
+  "10312": {
+    "0": {
+      "id": 1031200010,
+      "dialogue": [
+        "Oof!",
+        "Pain!"
+      ]
+    }
+  },
+  "10313": {
+    "0": {
+      "id": 1031300010,
+      "dialogue": [
+        "The exquisite pain!",
+        "Graaaaaargh!"
+      ]
+    }
+  },
+  "10314": {
+    "0": {
+      "id": 1031400010,
+      "dialogue": [
+        "Bayle! O terror incarnate!",
+        "There is life in me yet!"
+      ]
+    }
+  },
+  "10315": {
+    "0": {
+      "id": 1031500010,
+      "dialogue": [
+        "Bayle, terror incarnate.",
+        "Your time will come..."
+      ]
+    }
+  },
+  "10316": {
+    "0": {
+      "id": 1031600020,
+      "dialogue": [
+        "Oof!",
+        "Drake warrior, hear me out!",
+        "I have but one wish!"
+      ]
+    }
+  },
+  "10317": {
+    "0": {
+      "id": 1031700080,
+      "dialogue": [
+        "Hah... Hah...",
+        "...Drake warrior, dear friend.",
+        "Grant me this...one wish.",
+        "Take this finger. My finger.",
+        "Scale the jagged peak. Face Bayle the Dread. And when you do...",
+        "Summon me. Summon my soul.",
+        "My limbs are limbs no more. My heart is twice-over filled with fear.",
+        "But a drake warrior I remain.",
+        "And my soul yet lies on the mountain."
+      ]
+    }
+  },
+  "10318": {
+    "0": {
+      "id": 1031800010,
+      "dialogue": [
+        "Is this some manner of trial?",
+        "To divine the mettle of my soul! Whether it befits a drake warrior?!"
+      ]
+    }
+  },
+  "10319": {
+    "0": {
+      "id": 1031900020,
+      "dialogue": [
+        "You are no drake warrior.",
+        "I fear ye not."
+      ]
+    }
+  },
+  "10320": {
+    "0": {
+      "id": 1032000020,
+      "dialogue": [
+        "Face Bayle the Dread, and when you do...",
+        "Summon me. Summon my soul."
+      ]
+    }
+  },
+  "10321": {
+    "0": {
+      "id": 1032100020,
+      "dialogue": [
+        "Urgh!",
+        "Ahh, behold!",
+        "My soul! The soul of a drake warrior!"
+      ]
+    }
+  },
+  "10322": {
+    "0": {
+      "id": 1032200020,
+      "dialogue": [
+        "Why did I entrust this fool...",
+        "with my finger. With my soul?"
+      ]
+    }
+  },
+  "10323": {
+    "0": {
+      "id": 1032300010,
+      "dialogue": [
+        "Did ye witness...?",
+        "My soul. The soul of a drake warrior...?"
+      ]
+    }
+  },
+  "10390": {
+    "0": {
+      "id": 1039000200,
+      "dialogue": [
+        "<attacks with a greatbow - various levels of strength>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "10402": {
+    "0": {
+      "id": 1040200020,
+      "dialogue": [
+        "Leave now...",
+        "Come no closer...",
+        "No closer I say\u2014the madness wells!"
+      ]
+    }
+  },
+  "10403": {
+    "0": {
+      "id": 1040300000,
+      "dialogue": [
+        "Nyaaargh!"
+      ]
+    }
+  },
+  "10404": {
+    "0": {
+      "id": 1040400020,
+      "dialogue": [
+        "The depths of your foolishness!"
+      ]
+    }
+  },
+  "10490": {
+    "0": {
+      "id": 1049000200,
+      "dialogue": [
+        "<attacks with bare hands - various levels of strength>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "10501": {
+    "0": {
+      "id": 1050100000,
+      "dialogue": [
+        "..."
+      ]
+    }
+  },
+  "10502": {
+    "0": {
+      "id": 1050200010,
+      "dialogue": [
+        "Make Miquella stop...",
+        "Don't turn the poor thing into a god..."
+      ]
+    }
+  },
+  "10503": {
+    "0": {
+      "id": 1050300010,
+      "dialogue": [
+        "Godhood would be Miquella's prison.",
+        "A caged divinity...is beyond saving."
+      ]
+    }
+  },
+  "10504": {
+    "0": {
+      "id": 1050400010,
+      "dialogue": [
+        "You must kill Miquella...",
+        "Grant him forgiveness."
+      ]
+    }
+  },
+  "10601": {
+    "0": {
+      "id": 1060100050,
+      "dialogue": [
+        "Warrior true.",
+        "Picture yourself. Feasting upon a dragon's essence.",
+        "On the throbbing heart of the oldest, vilest dragon of them all.",
+        "It would be the purest form of Communion.",
+        "The fullest sating of your hunger,",
+        "and your consummation, as a dragon whole."
+      ]
+    }
+  },
+  "10602": {
+    "0": {
+      "id": 1060200060,
+      "dialogue": [
+        "Yes, as it should be.",
+        "Now, seek the jagged peak.",
+        "There you will find Bayle, the oldest, and vilest, of all dragons.",
+        "Landbound warrior. Follow your desire, and slay the foul beast.",
+        "Devour its throbbing heart.",
+        "I will grant you the strength required.",
+        "In the name of my lord, Placidusax."
+      ]
+    },
+    "10": {
+      "id": 1060210020,
+      "dialogue": [
+        "Perhaps you have yet to feel true want.",
+        "I am patient.",
+        "There will come a day when hunger knocks."
+      ]
+    },
+    "20": {
+      "id": 1060220020,
+      "dialogue": [
+        "Warrior true. Do you feel the hunger?",
+        "Then why not feast upon a dragon's essence.",
+        "On the throbbing heart of the oldest, vilest dragon of them all."
+      ]
+    },
+    "50": {
+      "id": 1060250000,
+      "dialogue": [
+        "Warrior true. What is it that you need?"
+      ]
+    },
+    "60": {
+      "id": 1060260040,
+      "dialogue": [
+        "Very well.",
+        "If you hunger for Dragon Communion,",
+        "and seek to slay Bayle, the vilest of dragons,",
+        "then I shall grant you strength time and again.",
+        "In the name of my lord, Placidusax."
+      ]
+    }
+  },
+  "10603": {
+    "0": {
+      "id": 1060300060,
+      "dialogue": [
+        "In a time long past, Bayle turned upon the Dragonlord.",
+        "The foul traitor assailed our master and inflicted a grievous wound, only to make a hasty retreat.",
+        "...Becoming a sworn enemy of the brood.",
+        "Since that day, Bayle and his bloodline\u2014the drakes\u2014 have served as sacrifices for Dragon Communion.",
+        "Landbound warrior. My lord, Placidusax, has shown your kind what must be done.",
+        "Seek communion. Sate your boundless appetite.",
+        "Feel the euphoria of a dragon's essence taking root in your meagre frame."
+      ]
+    }
+  },
+  "10604": {
+    "0": {
+      "id": 1060400070,
+      "dialogue": [
+        "I remember that name well.",
+        "The broken drake warrior.",
+        "Driven by bottomless hunger and fiery ambition.",
+        "Precisely what the Dragonlord envisaged.",
+        "for men who partake in Dragon Communion.",
+        "The mad hunger and fierceness of spirit that only flows from those young and short of sight.",
+        "He rather reminds me of Bayle, in fact.",
+        "Such thoughts are unfathomable to ones as old as we."
+      ]
+    }
+  },
+  "10605": {
+    "0": {
+      "id": 1060500020,
+      "dialogue": [
+        "My dear lord, Placidusax.",
+        "Tonight, like every night, my solace is yours.",
+        "May it grant you sleep, in your place beyond time."
+      ]
+    },
+    "1": {
+      "id": 1060501000,
+      "dialogue": [
+        "..."
+      ]
+    },
+    "10": {
+      "id": 1060510000,
+      "dialogue": [
+        "Ah..."
+      ]
+    }
+  },
+  "10606": {
+    "0": {
+      "id": 1060600000,
+      "dialogue": [
+        "..."
+      ]
+    }
+  },
+  "10607": {
+    "0": {
+      "id": 1060700070,
+      "dialogue": [
+        "I have broken my pledge.",
+        "I succumbed to the deep slumber...",
+        "...that was meant for my Lord.",
+        "Twas a craven act! Of a foul and lowly beast!",
+        "Forgive me, good warrior.",
+        "My Lord will no longer look upon me.",
+        "I have fallen from grace. An old dragon no longer.",
+        "Go on, leave me be."
+      ]
+    },
+    "10": {
+      "id": 1060710010,
+      "dialogue": [
+        "Go on, leave me be.",
+        "My Lord will no longer look upon me."
+      ]
+    },
+    "20": {
+      "id": 1060720050,
+      "dialogue": [
+        "Ahh, finally, our wish is granted.",
+        "Our dream, long yearned for, has come to pass.",
+        "My Lord was blessed with great insight.",
+        "He saw in the insatiable hunger and fierce spirit of man,",
+        "the very things that would fell Bayle, our wretched nemesis.",
+        "Warrior, you soar with the strength of dragons."
+      ]
+    },
+    "21": {
+      "id": 1060721000,
+      "dialogue": [
+        "Whereas I am fallen. Leave me be."
+      ]
+    },
+    "30": {
+      "id": 1060730010,
+      "dialogue": [
+        "Good warrior, leave me be.",
+        "I can call myself an old dragon no longer."
+      ]
+    }
+  },
+  "10608": {
+    "0": {
+      "id": 1060800060,
+      "dialogue": [
+        "Is that the truth?",
+        "Never, in all my years...",
+        "How could you inflict such cruelty?",
+        "No, that is not for me to judge.",
+        "Whatever your hand in it, it was I who succumbed to the sweetness of slumber.",
+        "The fault lies with me.",
+        "I may be fallen, but I need not surrender my honour."
+      ]
+    }
+  },
+  "10609": {
+    "0": {
+      "id": 1060900070,
+      "dialogue": [
+        "...",
+        "On second thought,",
+        "I believe you do owe me something for the transgression.",
+        "On a mere whim, you've stripped me of my one and only Lord.",
+        "As such, I require another\u2014you.",
+        "One day, may you become a dragon whole, a Lord of your own making.",
+        "Lead me, and I will follow.",
+        "My good Lord."
+      ]
+    },
+    "10": {
+      "id": 1060910010,
+      "dialogue": [
+        "My good Lord.",
+        "Let me join you on your journey."
+      ]
+    }
+  },
+  "10610": {
+    "0": {
+      "id": 1061000010,
+      "dialogue": [
+        "For my noble Lord!"
+      ]
+    }
+  },
+  "10611": {
+    "0": {
+      "id": 1061100000,
+      "dialogue": [
+        "In the name of my brave Lord!"
+      ]
+    }
+  },
+  "10690": {
+    "0": {
+      "id": 1069000200,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "10706": {
+    "0": {
+      "id": 1070600020,
+      "dialogue": [
+        "Lord of the old order.",
+        "Let us go together.",
+        "Come, now. Let us go together."
+      ]
+    }
+  },
+  "10707": {
+    "0": {
+      "id": 1070700100,
+      "dialogue": [
+        "I promise you.",
+        "A thousand year voyage guided by compassion.",
+        "Let your thoughts...be only of love."
+      ]
+    }
+  },
+  "10901": {
+    "0": {
+      "id": 1090100020,
+      "dialogue": [
+        "I've no interest in small talk.",
+        "My only concerns are the concerns of Count Ymir.",
+        "And you are not among them."
+      ]
+    }
+  },
+  "10902": {
+    "0": {
+      "id": 1090200020,
+      "dialogue": [
+        "Only, there is one thing I will say.",
+        "Count Ymir's kindness is a gift. Should you cross him,",
+        "you will sorely regret it."
+      ]
+    },
+    "10": {
+      "id": 1090210010,
+      "dialogue": [
+        "Be gone.",
+        "There is nothing more to say."
+      ]
+    }
+  },
+  "10903": {
+    "0": {
+      "id": 1090300050,
+      "dialogue": [
+        "How did you...",
+        "Did Count Ymir reward you with that?",
+        "Hmm.",
+        "Then I see you have gained his trust.",
+        "And therefore, mine.",
+        "I am Jol\u00e1n. The Night is yours now to wield."
+      ]
+    },
+    "5": {
+      "id": 1090305040,
+      "dialogue": [
+        "Count Ymir spoke of you.",
+        "That you had earned his trust.",
+        "Hmm.",
+        "Then you have earned mine, as well.",
+        "I am Jol\u00e1n. The Night is yours now to wield."
+      ]
+    },
+    "10": {
+      "id": 1090310020,
+      "dialogue": [
+        "Don't get the wrong idea.",
+        "We are neither friends nor confidantes.",
+        "I am merely honouring Count Ymir's wishes."
+      ]
+    },
+    "20": {
+      "id": 1090320000,
+      "dialogue": [
+        "Enough of you."
+      ]
+    },
+    "50": {
+      "id": 1090350040,
+      "dialogue": [
+        "Well, well, what is that...",
+        "A reward from Count Ymir?",
+        "Huh...",
+        "If the Count has placed his trust in you, then so shall I.",
+        "I am Jol\u00e1n. The Night is yours now to wield."
+      ]
+    },
+    "55": {
+      "id": 1090355050,
+      "dialogue": [
+        "Ahh, who have we here...?",
+        "Count Ymir spoke of you.",
+        "That you had earned his trust.",
+        "Hmm.",
+        "Then you have earned mine, as well.",
+        "I am Jol\u00e1n. The Night is yours now to wield."
+      ]
+    }
+  },
+  "10904": {
+    "0": {
+      "id": 1090400040,
+      "dialogue": [
+        "I told you once.",
+        "I've no interest in companionship.",
+        "But I must admit.",
+        "Count Ymir did seem very pleased.",
+        "Perhaps an exception is in order."
+      ]
+    },
+    "50": {
+      "id": 1090450040,
+      "dialogue": [
+        "Ahh, who have we here...?",
+        "Count Ymir seemed very pleased.",
+        "And for that, I express my gratitude.",
+        "I am Jol\u00e1n. Loyal to Count Ymir.",
+        "The Night is yours now to wield."
+      ]
+    }
+  },
+  "10905": {
+    "0": {
+      "id": 1090500050,
+      "dialogue": [
+        "Ymir is a shining star.",
+        "In our eyes, the only star upon the black canvas of the night.",
+        "Our meeting with the Count taught us of the star-draped sky.",
+        "We know that we cannot reach out to touch it.",
+        "But we can peer up at its brilliance, and heed its guidance.",
+        "We will never again lose our way in the night."
+      ]
+    },
+    "10": {
+      "id": 1090510020,
+      "dialogue": [
+        "I have spoken far too freely.",
+        "Pay me no mind. Let us focus on our shared purpose.",
+        "Our service to Count Ymir."
+      ]
+    },
+    "20": {
+      "id": 1090520000,
+      "dialogue": [
+        "Now, be on your way."
+      ]
+    },
+    "50": {
+      "id": 1090550050,
+      "dialogue": [
+        "Tell me.",
+        "Where did you find this?",
+        "Hmm.",
+        "No, do not explain.",
+        "I have one star alone.",
+        "And only his words will do..."
+      ]
+    },
+    "55": {
+      "id": 1090555050,
+      "dialogue": [
+        "Stop.",
+        "What did you just say?",
+        "Hmmm.",
+        "Wait, no. Say nothing.",
+        "I have one star alone.",
+        "And only his words will do..."
+      ]
+    },
+    "60": {
+      "id": 1090560040,
+      "dialogue": [
+        "I will say this much.",
+        "I am in your debt.",
+        "But I will hear no more.",
+        "I have one star alone.",
+        "And only his words will do..."
+      ]
+    },
+    "70": {
+      "id": 1090570010,
+      "dialogue": [
+        "Be on your way.",
+        "I will hear no more about this."
+      ]
+    }
+  },
+  "10906": {
+    "0": {
+      "id": 1090600040,
+      "dialogue": [
+        "You were warned.",
+        "Not to betray the kindness of Count Ymir.",
+        "Appalling. Your lot never ceases to repulse me.",
+        "Such willingness to exploit true largesse.",
+        "Surrender. To the Night of Jol\u00e1n."
+      ]
+    },
+    "50": {
+      "id": 1090650030,
+      "dialogue": [
+        "You have betrayed the kindness of Count Ymir.",
+        "Appalling. Your lot never ceases to repulse me.",
+        "Such willingness to exploit true largesse.",
+        "Surrender. To the Night of Jol\u00e1n."
+      ]
+    }
+  },
+  "10907": {
+    "0": {
+      "id": 1090700030,
+      "dialogue": [
+        "What have you done?",
+        "You've wounded Count Ymir most irreparably.",
+        "Such that he wishes for your death.",
+        "And I must attend to the Count's concerns."
+      ]
+    },
+    "50": {
+      "id": 1090750030,
+      "dialogue": [
+        "You would abscond with it.",
+        "The whole of Count Ymir's wisdom?",
+        "You undeserving little miscreant.",
+        "Surrender. To the Night of Jol\u00e1n."
+      ]
+    }
+  },
+  "10908": {
+    "0": {
+      "id": 1090800000,
+      "dialogue": [
+        "You have only yourself to blame, base creature."
+      ]
+    },
+    "10": {
+      "id": 1090810010,
+      "dialogue": [
+        "Count Ymir...",
+        "I, Jol\u00e1n, am afraid that I..."
+      ]
+    }
+  },
+  "10909": {
+    "0": {
+      "id": 1090900010,
+      "dialogue": [
+        "Why...",
+        "Why did you cross Count Ymir?"
+      ]
+    },
+    "20": {
+      "id": 1090920010,
+      "dialogue": [
+        "Oh, my dear star...",
+        "A fine mother...you will be..."
+      ]
+    }
+  },
+  "10911": {
+    "0": {
+      "id": 1091100000,
+      "dialogue": [
+        "Surrender. To the Night of Jol\u00e1n."
+      ]
+    }
+  },
+  "10912": {
+    "0": {
+      "id": 1091200010,
+      "dialogue": [
+        "Count Ymir...",
+        "The stars...the sky... I see them not..."
+      ]
+    },
+    "10": {
+      "id": 1091210010,
+      "dialogue": [
+        "The Night is ever-dark.",
+        "I need the stars... Give me light."
+      ]
+    }
+  },
+  "10913": {
+    "0": {
+      "id": 1091300010,
+      "dialogue": [
+        "Oh, it blinds...",
+        "As if our Night simply never was..."
+      ]
+    },
+    "10": {
+      "id": 1091310010,
+      "dialogue": [
+        "No light...anywhere at all...",
+        "This is the night I know. Our Night..."
+      ]
+    }
+  },
+  "10990": {
+    "0": {
+      "id": 1099000020,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11301": {
+    "0": {
+      "id": 1130100010,
+      "dialogue": [
+        "Those stripped of the Grace of Gold shall all meet death.",
+        "In the embrace of Messmer's flame."
+      ]
+    },
+    "10": {
+      "id": 1130110010,
+      "dialogue": [
+        "All ye spurned by Grace.",
+        "Kneel evermore. Before the flame of Messmer."
+      ]
+    },
+    "20": {
+      "id": 1130120010,
+      "dialogue": [
+        "Mark my words, graceless heathen.",
+        "Thou shalt not evade the flame of Messmer."
+      ]
+    }
+  },
+  "11302": {
+    "0": {
+      "id": 1130200010,
+      "dialogue": [
+        "Thou shalt not evade the flame of Messmer."
+      ]
+    },
+    "10": {
+      "id": 1130210010,
+      "dialogue": [
+        "Queen Marika, behold!",
+        "I have excised another. Another cancer to thy joy."
+      ]
+    },
+    "20": {
+      "id": 1130220020,
+      "dialogue": [
+        "Ahh, how could this be...",
+        "Forsake me not...",
+        "Queen Marika, my grace..."
+      ]
+    }
+  },
+  "11303": {
+    "0": {
+      "id": 1130300050,
+      "dialogue": [
+        "Queen Marika, mother to us all.",
+        "Favour me with thy grace.",
+        "I have met many who would threaten or\ndistress thee, and quelled each and all.",
+        "And I hereby swear to never cease.",
+        "So, please, grant me thy grace.",
+        "Leave me with my solitary light..."
+      ]
+    },
+    "10": {
+      "id": 1130310010,
+      "dialogue": [
+        "Queen Marika, I implore thee, bestow thy grace.",
+        "Take not from me my solitary light..."
+      ]
+    }
+  },
+  "11304": {
+    "0": {
+      "id": 1130400040,
+      "dialogue": [
+        "Ahh!",
+        "Queen Marika. Dearest mother!",
+        "I shall silence all who would trespass upon thy peace.",
+        "As decreed by the Grace of Gold.",
+        "Ahhh! No soul shall thy sanctity imperil!"
+      ]
+    }
+  },
+  "11305": {
+    "0": {
+      "id": 1130500040,
+      "dialogue": [
+        "Ahh, ahh...",
+        "I would not. Am I not pure? Defile thee, I would never.",
+        "I ask, why wouldst thou think to purloin from me?",
+        "Deignest thou not to look upon me?",
+        "All this time, I held in my heart only thee!"
+      ]
+    }
+  },
+  "11390": {
+    "0": {
+      "id": 1139000200,
+      "dialogue": [
+        "<attacks with a long sword - various levels of strength>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11401": {
+    "0": {
+      "id": 1140100050,
+      "dialogue": [
+        "Fie, another? Treading the heels of Miquella?",
+        "Then, as that woman would surely say, we are in our purposes well aligned...",
+        "But understand\u2014your kind are not forgiven.",
+        "The Erdtree is my peoples' enemy\u2014By Marika long betray'd, set aflame.",
+        "I believe Miquella's apologies, when he says our delivery will come...",
+        "But never will I see your kind as worthy."
+      ]
+    }
+  },
+  "11402": {
+    "0": {
+      "id": 1140200040,
+      "dialogue": [
+        "And yet, my oath I cannot overlook.",
+        "If Miquella it is whom you would seek, then comrade, allow me to give you this.",
+        "These are the sites of the crosses I've found.",
+        "I urge you, follow after Miquella.",
+        "As long as you abide by his footfalls, you will be no enemy to me."
+      ]
+    },
+    "10": {
+      "id": 1140210010,
+      "dialogue": [
+        "I urge you, follow after Miquella.",
+        "As long as you abide by his footfalls, you will be no enemy to me."
+      ]
+    },
+    "20": {
+      "id": 1140220050,
+      "dialogue": [
+        "You have a knack for timing, my fellow.",
+        "I've found the site of a new cross. Take this.",
+        "New sites of crosses discovered. For you."
+      ]
+    },
+    "30": {
+      "id": 1140230030,
+      "dialogue": [
+        "Miquella has said as much himself\u2014he wishes now to throw it all away.",
+        "He says the act\u2014though undoubtedly painful\u2014will sear clean the Erdtree's wanton sin.",
+        "The truth of his claim can be found at each cross.",
+        "Tis evidence enough to earn my belief."
+      ]
+    },
+    "40": {
+      "id": 1140240010,
+      "dialogue": [
+        "Go to the misshapen tree of umbra.",
+        "In that forsaken place, blood must spill\u2014the blood of your fellows, the Erdtree faithful."
+      ]
+    },
+    "50": {
+      "id": 1140250050,
+      "dialogue": [
+        "Fie, another? Treading the heels of Miquella?",
+        "Then, as that woman would surely say, we are in our purposes well aligned...",
+        "But understand\u2014your kind are not forgiven.",
+        "The Erdtree is my peoples' enemy\u2014By Marika long betray'd, set aflame.",
+        "I believe Miquella's apologies, when he says our delivery will come...",
+        "But never will I see your kind as worthy."
+      ]
+    },
+    "60": {
+      "id": 1140260020,
+      "dialogue": [
+        "And yet, my oath I cannot overlook.",
+        "If Miquella it is whom you would seek, then comrade, allow me to give you this.",
+        "It'll show you where crosses can be found."
+      ]
+    },
+    "70": {
+      "id": 1140270070,
+      "dialogue": [
+        "What's this?",
+        "Do you think me in need of alms?",
+        "Ah, but this dish...",
+        "Tis fare o'the tower. I remember fondly this kin-clad scent.",
+        "...Brings back memories I'd all but forgot.",
+        "This, by my troth, is but a dismal copy.",
+        "Indeed, I think it rather plain to see...",
+        "Things once broken can never be the same..."
+      ]
+    },
+    "80": {
+      "id": 1140280010,
+      "dialogue": [
+        "Look. Take this for your troubles, won't you?",
+        "I desire not to be in your debt."
+      ]
+    },
+    "90": {
+      "id": 1140290020,
+      "dialogue": [
+        "I've had my fill...",
+        "Indeed, I have no wish...to wax nostalgic 'bout days gone by...",
+        "Nor do I yearn to friendship kindle..."
+      ]
+    }
+  },
+  "11403": {
+    "0": {
+      "id": 1140300050,
+      "dialogue": [
+        "Intriguing. What remains there to be said?",
+        "Do you presume us allies, even now? Though Miquella's spell is newly broken?",
+        "I must profess, the spell mattered little.",
+        "Uphold his covenant Miquella shall, and in godhood redeem our rueful clan.",
+        "Then Marika, and vilest Erdtree both, will at last be from divinity wrench'd.",
+        "And surely I...contented I will be."
+      ]
+    },
+    "50": {
+      "id": 1140350060,
+      "dialogue": [
+        "Fie, another? Treading the heels of Miquella?",
+        "A brazen fellow you must surely be, to loose your tongue to a stranger as I.",
+        "Do you presume us allies, even now? Though Miquella's spell is newly broken?",
+        "I must profess, the spell mattered little.",
+        "Uphold his covenant Miquella shall, and in godhood redeem our rueful clan.",
+        "Then Marika, and vilest Erdtree both, will at last be from divinity wrench'd.",
+        "And surely I...contented I will be."
+      ]
+    }
+  },
+  "11404": {
+    "0": {
+      "id": 1140400050,
+      "dialogue": [
+        "But first, clear resounds the call of vengeance.",
+        "The impaler, Messmer, must pay his due.",
+        "In vengeance for the flames, my blade I wield...",
+        "How could I allow myself to forget?",
+        "Revenge alone assures me peace of mind."
+      ]
+    }
+  },
+  "11405": {
+    "0": {
+      "id": 1140500010,
+      "dialogue": [
+        "Think not to hinder me upon my path.",
+        "Lest you too wish to face the reckoning."
+      ]
+    }
+  },
+  "11406": {
+    "0": {
+      "id": 1140600010,
+      "dialogue": [
+        "Messmer! Foe of my beloved people!",
+        "In vengeance for the flames, my blade I wield!"
+      ]
+    },
+    "10": {
+      "id": 1140610030,
+      "dialogue": [
+        "Have I made it known, accursed Messmer?",
+        "My clan's suff'ring? Their pain? All that they felt?",
+        "Do you understand now, your ugliness?",
+        "Aaaaaargh!"
+      ]
+    }
+  },
+  "11407": {
+    "0": {
+      "id": 1140700050,
+      "dialogue": [
+        "We meet again I see, comrade-in-arms.",
+        "Upon his end, did you see Messmer's face?",
+        "Twas sublime\u2014a very tangle of snakes!",
+        "To think he dared to call us savages.",
+        "When he himself was most base of all.",
+        "Ha ha ha ha!"
+      ]
+    }
+  },
+  "11408": {
+    "0": {
+      "id": 1140800070,
+      "dialogue": [
+        "To say the least, I am to you indebted.",
+        "Yet unquenched remains my thirst for revenge.",
+        "The death of Messmer was merely the start.",
+        "Now comes the piper to collect from Marika, her offspring, and all the Erdtree's denizens...",
+        "In vengeance for the flames, my blade I wield...",
+        "If Miquella's redemption soothes the ache...that throbs within, demanding blessed vengeance...",
+        "Then I wish not to be by him redeemed."
+      ]
+    },
+    "10": {
+      "id": 1140810010,
+      "dialogue": [
+        "If Miquella's redemption soothes the ache...that throbs within, demanding blessed vengeance...",
+        "Then I wish not to be by him redeemed."
+      ]
+    }
+  },
+  "11409": {
+    "0": {
+      "id": 1140900030,
+      "dialogue": [
+        "What cruelty's this...",
+        "Who would rob me of my one vital purpose?",
+        "Am I so feeble, witless, dull of blade...",
+        "That vengeance was never to have been mine?"
+      ]
+    }
+  },
+  "11410": {
+    "0": {
+      "id": 1141000020,
+      "dialogue": [
+        "O mother, O most cherished wife and child.",
+        "It seems vengeance was not mine to enact.",
+        "Where now should I point my tired blade..."
+      ]
+    },
+    "10": {
+      "id": 1141010000,
+      "dialogue": [
+        "Where now should I point my tired blade..."
+      ]
+    }
+  },
+  "11411": {
+    "0": {
+      "id": 1141100020,
+      "dialogue": [
+        "In the end, I knew this day would come.",
+        "The nature of your kind, I am certain, will always show itself, given time.",
+        "Interfere not with my business, zealot."
+      ]
+    },
+    "10": {
+      "id": 1141110010,
+      "dialogue": [
+        "What could your purpose possibly be?",
+        "I do not recollect begging for help."
+      ]
+    },
+    "20": {
+      "id": 1141120000,
+      "dialogue": [
+        "I ask you stay back\u2014this is my revenge."
+      ]
+    }
+  },
+  "11412": {
+    "0": {
+      "id": 1141200020,
+      "dialogue": [
+        "In the end, I knew this day would come.",
+        "The nature of your kind, I am certain, will always show itself, given time.",
+        "Interfere not with my business, zealot."
+      ]
+    },
+    "10": {
+      "id": 1141210020,
+      "dialogue": [
+        "So, your mongrel blood shows through at last.",
+        "I was a fool to expect more of you.",
+        "Small wonder Miquella employed his spells."
+      ]
+    },
+    "20": {
+      "id": 1141220000,
+      "dialogue": [
+        "Do not interfere\u2014this is my revenge."
+      ]
+    },
+    "30": {
+      "id": 1141230010,
+      "dialogue": [
+        "Apologies...",
+        "O Mother, wife, and...chil..."
+      ]
+    }
+  },
+  "11415": {
+    "0": {
+      "id": 1141500020,
+      "dialogue": [
+        "Tis just as the woman said it would be.",
+        "Lord of the Erdtree, Lord of Marika...",
+        "You too deserve to face the reckoning."
+      ]
+    },
+    "50": {
+      "id": 1141550010,
+      "dialogue": [
+        "Lord of the Erdtree, Lord of Marika...",
+        "You too deserve to face my reckoning."
+      ]
+    }
+  },
+  "11417": {
+    "0": {
+      "id": 1141700010,
+      "dialogue": [
+        "Your lord is slain.",
+        "And you are next, Marika."
+      ]
+    }
+  },
+  "11418": {
+    "0": {
+      "id": 1141800010,
+      "dialogue": [
+        "O Miquella...",
+        "Please...redeem our...clan..."
+      ]
+    }
+  },
+  "11490": {
+    "0": {
+      "id": 1149000200,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11501": {
+    "0": {
+      "id": 1150100030,
+      "dialogue": [
+        "Hello there.",
+        "Together, we work.",
+        "Together, for Miquella the Kind.",
+        "Many things, we have found."
+      ]
+    },
+    "10": {
+      "id": 1150110000,
+      "dialogue": [
+        "Many things, we have found."
+      ]
+    },
+    "20": {
+      "id": 1150120000,
+      "dialogue": [
+        "Welcome..."
+      ]
+    },
+    "30": {
+      "id": 1150130000,
+      "dialogue": [
+        "Good bye."
+      ]
+    }
+  },
+  "11502": {
+    "0": {
+      "id": 1150200020,
+      "dialogue": [
+        "I like finding things.",
+        "For you, Lady Leda, her allies, and the forager brood.",
+        "Things bring joy to all."
+      ]
+    }
+  },
+  "11503": {
+    "0": {
+      "id": 1150300020,
+      "dialogue": [
+        "One of the forager brood was killed.",
+        "This thing, is a tragedy.",
+        "This thing, cannot be forgiven."
+      ]
+    }
+  },
+  "11504": {
+    "0": {
+      "id": 1150400010,
+      "dialogue": [
+        "You hurt one of the forager brood.",
+        "This thing, cannot be forgiven."
+      ]
+    }
+  },
+  "11505": {
+    "0": {
+      "id": 1150500030,
+      "dialogue": [
+        "Oh, I know.",
+        "This is for you.",
+        "The forager brood",
+        "give their thanks."
+      ]
+    },
+    "50": {
+      "id": 1150550030,
+      "dialogue": [
+        "Oh, I know.",
+        "Give this to Thiollier.",
+        "He asked me to find it.",
+        "I finally found it."
+      ]
+    },
+    "60": {
+      "id": 1150560030,
+      "dialogue": [
+        "You come often.",
+        "You enjoy things.",
+        "I like finding things.",
+        "I like you."
+      ]
+    }
+  },
+  "11506": {
+    "0": {
+      "id": 1150600040,
+      "dialogue": [
+        "I don't feel it. It's broken.",
+        "Kind Miquella's light is gone.",
+        "But I stand tall.",
+        "Together, we work.",
+        "Together, for Miquella the Kind."
+      ]
+    },
+    "10": {
+      "id": 1150610010,
+      "dialogue": [
+        "I never change.",
+        "Always friend to you."
+      ]
+    },
+    "20": {
+      "id": 1150620000,
+      "dialogue": [
+        "Hello."
+      ]
+    },
+    "30": {
+      "id": 1150630000,
+      "dialogue": [
+        "Till we meet again."
+      ]
+    },
+    "50": {
+      "id": 1150650030,
+      "dialogue": [
+        "Hello there.",
+        "Together, we work.",
+        "Even if Kind Miquella's light is broken.",
+        "So, I find things. Many things."
+      ]
+    }
+  },
+  "11507": {
+    "0": {
+      "id": 1150700040,
+      "dialogue": [
+        "I don't know what to do.",
+        "Our mother abandoned her brood.",
+        "She did not love us.",
+        "We are her children, what should we do?",
+        "Must we be sad forever?"
+      ]
+    }
+  },
+  "11508": {
+    "0": {
+      "id": 1150800030,
+      "dialogue": [
+        "Hm.",
+        "Maybe that's Kindly Miquella's love.",
+        "Love for all the unloved.",
+        "Love, to banish the pain."
+      ]
+    },
+    "10": {
+      "id": 1150810020,
+      "dialogue": [
+        "Yes.",
+        "The unloved, every single one of us...",
+        "can banish our pain forever."
+      ]
+    }
+  },
+  "11509": {
+    "0": {
+      "id": 1150900020,
+      "dialogue": [
+        "Hmm.",
+        "Sad, forever.",
+        "Sad, forever and ever."
+      ]
+    },
+    "10": {
+      "id": 1150910000,
+      "dialogue": [
+        "Sad, forever and ever."
+      ]
+    }
+  },
+  "11510": {
+    "0": {
+      "id": 1151000000,
+      "dialogue": [
+        "Good bye..."
+      ]
+    }
+  },
+  "11511": {
+    "0": {
+      "id": 1151100020,
+      "dialogue": [
+        "Mm.",
+        "I don't know either.",
+        "I don't know how to be."
+      ]
+    },
+    "10": {
+      "id": 1151110000,
+      "dialogue": [
+        "I don't know how to be."
+      ]
+    },
+    "50": {
+      "id": 1151150030,
+      "dialogue": [
+        "I don't know how to be.",
+        "Still. I have my brood.",
+        "I enjoy foraging.",
+        "It is enough."
+      ]
+    },
+    "60": {
+      "id": 1151160010,
+      "dialogue": [
+        "I enjoy foraging.",
+        "It is enough."
+      ]
+    }
+  },
+  "11512": {
+    "0": {
+      "id": 1151200040,
+      "dialogue": [
+        "My brood is no more.",
+        "No one comes to visit.",
+        "Not Lady Leda. Not Father Dane. Not Sir Ansbach.",
+        "Not Freyja. Not Thiollier. Not the hornsent.",
+        "Where have they all gone?"
+      ]
+    },
+    "10": {
+      "id": 1151210010,
+      "dialogue": [
+        "Thank you.",
+        "No one comes to visit. Except you."
+      ]
+    }
+  },
+  "11513": {
+    "0": {
+      "id": 1151300000,
+      "dialogue": [
+        "Till we meet again."
+      ]
+    }
+  },
+  "11514": {
+    "0": {
+      "id": 1151400010,
+      "dialogue": [
+        "You are no friend.",
+        "A tragedy, this is."
+      ]
+    },
+    "10": {
+      "id": 1151410010,
+      "dialogue": [
+        "You hurt...forager brood.",
+        "Please, no more."
+      ]
+    },
+    "20": {
+      "id": 1151420010,
+      "dialogue": [
+        "Sad, forever?",
+        "Brood always bad?"
+      ]
+    },
+    "50": {
+      "id": 1151450010,
+      "dialogue": [
+        "You and I, fighting.",
+        "A tragedy, this is."
+      ]
+    },
+    "60": {
+      "id": 1151460010,
+      "dialogue": [
+        "Miquella the Kind...",
+        "will help us forget."
+      ]
+    },
+    "70": {
+      "id": 1151470010,
+      "dialogue": [
+        "One day, you will forget.",
+        "The guidance..."
+      ]
+    },
+    "80": {
+      "id": 1151480000,
+      "dialogue": [
+        "Sad, forever?"
+      ]
+    }
+  },
+  "11590": {
+    "0": {
+      "id": 1159000200,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11601": {
+    "0": {
+      "id": 1160100060,
+      "dialogue": [
+        "You must be the Tarnished.",
+        "I am Ansbach. Formerly in service to Lord Mohg.",
+        "But now, like you, another soul guided by Kindly Miquella.",
+        "I'm hardly the steady hand I once was. My fighting days are far behind me.",
+        "Which is why I have chosen to dedicate myself to investigation.",
+        "To discern Tender Miquella's ultimate purpose.",
+        "I'd rather not volunteer service to a new master unless I know that I can be of use."
+      ]
+    }
+  },
+  "11602": {
+    "0": {
+      "id": 1160200110,
+      "dialogue": [
+        "May I request a service of you?",
+        "They are akin to Tender Miquella's footprints. Or gravestones, which mark what he's left behind.",
+        "If you discover any more crosses,",
+        "be certain to tell me.",
+        "I presume you, too, are keen to know.",
+        "Just what Kind Miquella is doing here.",
+        "Six crosses, identical to this one, have been discovered in these lands."
+      ]
+    },
+    "10": {
+      "id": 1160210030,
+      "dialogue": [
+        "If you discover any more crosses,",
+        "be certain to tell me.",
+        "I presume you, too, are keen to know.",
+        "Just what Kind Miquella is doing here."
+      ]
+    },
+    "20": {
+      "id": 1160220000,
+      "dialogue": [
+        "Righteous Tarnished. What brings you here?"
+      ]
+    },
+    "50": {
+      "id": 1160250070,
+      "dialogue": [
+        "Oh, you must mean Sir Moore.",
+        "Sir Moore is a kind and stalwart ally.",
+        "He provisions our little outfit.",
+        "Sir Moore traffics with the forager brood.",
+        "His brethren who collect supplies from all corners of the land.",
+        "No doubt they find inspiration in his many virtues.",
+        "These are not your foes, Tarnished.",
+        "Should you spot any forager brood, be sure to mind your manners."
+      ]
+    }
+  },
+  "11603": {
+    "0": {
+      "id": 1160300030,
+      "dialogue": [
+        "Well, I am much obliged.",
+        "As suspected, Kindly Miquella has visited the lands which hold the tower.",
+        "And appears intent on wholly dispossessing himself of his flesh.",
+        "He must be seeking entrance to the tower of shadow."
+      ]
+    }
+  },
+  "11604": {
+    "0": {
+      "id": 1160400060,
+      "dialogue": [
+        "Well, I am much obliged.",
+        "I can hardly believe it, he's divested himself of his very eye...",
+        "Tender Miquella's eye is no mere morsel of flesh.",
+        "It is a vessel of soaring grace. Proof of his Empyrean lineage.",
+        "I wonder, does Miquella the Kind intend to sever his very birthright?",
+        "His fate as a child of the Erdtree?"
+      ]
+    },
+    "50": {
+      "id": 1160450040,
+      "dialogue": [
+        "Well, I am much obliged.",
+        "To think there was a cross left in such a faraway place...",
+        "And that deep-purple water lilies would be blooming there.",
+        "This can only mean Kindly Miquella has divested himself even of that...",
+        "His adoring other self, his blossom of slumber."
+      ]
+    }
+  },
+  "11605": {
+    "0": {
+      "id": 1160500080,
+      "dialogue": [
+        "Righteous Tarnished. I have reasoned through my findings.",
+        "Concerning Kind Miquella's intentions\u2014why he is here.",
+        "The full picture is yet to coalesce,",
+        "but we do know that he is bound for the tower of shadow.",
+        "And that is where he intends to rise to true godhood...",
+        "The tower of shadow houses a divine gateway.",
+        "A well-kept secret, it was, but...",
+        "The gateway was once the birthplace of a god.",
+        "A god we know all too well."
+      ]
+    }
+  },
+  "11606": {
+    "0": {
+      "id": 1160600110,
+      "dialogue": [
+        "Kindly Miquella has discarded his Great Rune.",
+        "The fog that vexed my aging faculties has been lifted.",
+        "And follies better left forgotten haunt me once again.",
+        "...",
+        "Once, in an attempt to free Lord Mohg from his enchantment,",
+        "I challenged Tender Miquella, only to have my own heart rather artfully stolen.",
+        "I knew not how weak I was.",
+        "I believed that with sufficient mastery, even an Empyrean would be within reach of my blade.",
+        "I could not have been more mistaken...",
+        "Miquella the Kind...is a monster.",
+        "Pure and radiant, he wields love to shrive clean the hearts of men.",
+        "There is nothing more terrifying."
+      ]
+    },
+    "10": {
+      "id": 1160610010,
+      "dialogue": [
+        "Righteous Tarnished. Miquella the Kind makes my blood run cold.",
+        "I am loath to admit it, but even at this very instant I wish to run very far away indeed."
+      ]
+    },
+    "50": {
+      "id": 1160650030,
+      "dialogue": [
+        "You must be the Tarnished.",
+        "I am Ansbach. Formerly in service to Lord Mohg.",
+        "But now, like you, another soul guided by Kindly Miquella.",
+        "I'm hardly the steady hand I once was. My fighting days are far behind me."
+      ]
+    },
+    "60": {
+      "id": 1160660120,
+      "dialogue": [
+        "Yes, I am well aware.",
+        "Kindly Miquella has discarded his Great Rune.",
+        "The fog that vexed my aging faculties has been lifted.",
+        "And follies better left forgotten haunt me once again.",
+        "...",
+        "Once, in an attempt to free Lord Mohg from his enchantment,",
+        "I challenged Tender Miquella, only to have my own heart rather artfully stolen.",
+        "I knew not how weak I was.",
+        "I believed that with sufficient mastery, even an Empyrean would be within reach of my blade.",
+        "I could not have been more mistaken...",
+        "Miquella the Kind...is a monster.",
+        "Pure and radiant, he wields love to shrive clean the hearts of men.",
+        "There is nothing more terrifying."
+      ]
+    }
+  },
+  "11607": {
+    "0": {
+      "id": 1160700030,
+      "dialogue": [
+        "Righteous Tarnished. It's been some time.",
+        "After unburdening my soul to you, I had hoped to make a fresh start.",
+        "But there was one thought I could not dislodge from my mind.",
+        "So here I am, quite unable to move on."
+      ]
+    },
+    "1": {
+      "id": 1160701020,
+      "dialogue": [
+        "...There was one thought I could not dislodge from my mind."
+      ]
+    }
+  },
+  "11608": {
+    "0": {
+      "id": 1160800050,
+      "dialogue": [
+        "After Lord Mohg's slaying at his dynastic palace,",
+        "it appears his body has been absconded with.",
+        "And taken straight to Kind Miquella.",
+        "Surely you recall that I once served Lord Mohg as a Pureblood Knight.",
+        "After failing him in every regard, and losing sight of my vows,",
+        "I'd do anything to make amends, in whatever meagre way I can."
+      ]
+    }
+  },
+  "11609": {
+    "0": {
+      "id": 1160900010,
+      "dialogue": [
+        "What could they possibly have in mind for Lord Mohg's remains?",
+        "The implications are rather...unnerving."
+      ]
+    },
+    "50": {
+      "id": 1160950040,
+      "dialogue": [
+        "Freyja, by the gods...",
+        "She must be feeling the need to reaffirm her allegiance before she heads to war...",
+        "A true Redmane she is, hardly troubled by the rot.",
+        "But no-one is without their shortcomings...",
+        "She has a hard road ahead..."
+      ]
+    },
+    "60": {
+      "id": 1160960010,
+      "dialogue": [
+        "Hmm, it does make one think...",
+        "Perhaps our concerns are but two sides of the same coin?"
+      ]
+    }
+  },
+  "11610": {
+    "0": {
+      "id": 1161000090,
+      "dialogue": [
+        "Well, what's this...",
+        "...",
+        "Yes, yes, I should have known.",
+        "Even the truth was itself mere folly.",
+        "As if using Lord Mohg to gain entrance to the land of shadow were not enough,",
+        "he plans to use his corpse as the vessel of his king consort.",
+        "He has forsaken Lord Mohg's soul. He desires only his empty shell.",
+        "It beggars belief, but\u2026",
+        "I'm afraid Tender Miquella fails to grasp the humiliation implied by this act.",
+        "One thing is certain. My dear lord deserved better."
+      ]
+    }
+  },
+  "11611": {
+    "0": {
+      "id": 1161100050,
+      "dialogue": [
+        "Righteous Tarnished. You have my gratitude.",
+        "You have given me the answers I needed.",
+        "But I can hardly fathom it. Such folly, unto the end.",
+        "I am a warrior, but I've aged. I cannot afford to act hastily.",
+        "Curse it all. I know my limits.",
+        "I could spend the rest of my life honing my craft, and still that creature would be out of my blade's reach."
+      ]
+    },
+    "10": {
+      "id": 1161110000,
+      "dialogue": [
+        "The absolute folly of it all."
+      ]
+    }
+  },
+  "11612": {
+    "0": {
+      "id": 1161200050,
+      "dialogue": [
+        "Righteous Tarnished.",
+        "Could you please give this to Freyja?",
+        "Thanks to you, she, too, will have the answer she requires.",
+        "Freyja possesses a youth I no longer have.",
+        "This knowledge will surely stoke the flames of valour within her.",
+        "Yes, I can see her barreling into the fray right now..."
+      ]
+    },
+    "10": {
+      "id": 1161210010,
+      "dialogue": [
+        "Perhaps I shouldn't meddle in her affairs...",
+        "But this is the only way I can help..."
+      ]
+    },
+    "50": {
+      "id": 1161250070,
+      "dialogue": [
+        "Freyja, by the gods...",
+        "She must be feeling the need to reaffirm her allegiance before she heads to war...",
+        "A true Redmane she is, hardly troubled by the rot.",
+        "...",
+        "Righteous Tarnished.",
+        "Could you please give this to Freyja?",
+        "Thanks to you, she, too, will have the answer she requires.",
+        "Yes, I can see her barreling into the fray right now..."
+      ]
+    }
+  },
+  "11613": {
+    "0": {
+      "id": 1161300030,
+      "dialogue": [
+        "Ha ha ha...",
+        "I should have expected as much from Freyja!",
+        "Some things simply never occur to her.",
+        "Paralyzing fear. True despair."
+      ]
+    },
+    "10": {
+      "id": 1161310000,
+      "dialogue": [
+        "That's Freyja, through and through."
+      ]
+    }
+  },
+  "11621": {
+    "0": {
+      "id": 1162100010,
+      "dialogue": [
+        "Ungh...",
+        "What on earth is the matter?"
+      ]
+    }
+  },
+  "11622": {
+    "0": {
+      "id": 1162200020,
+      "dialogue": [
+        "Have you come to your senses?",
+        "Now, there's no need for any hand-wringing.",
+        "The way the world is, I'd say it's a wonder people don't lash out more often."
+      ]
+    }
+  },
+  "11623": {
+    "0": {
+      "id": 1162300020,
+      "dialogue": [
+        "There is no denying it, now.",
+        "A culling appears to be on the cards.",
+        "One that won't overlook even an aging soldier as myself..."
+      ]
+    }
+  },
+  "11624": {
+    "0": {
+      "id": 1162400010,
+      "dialogue": [
+        "Righteous Tarnished.",
+        "You should have taken stock of your limitations."
+      ]
+    }
+  },
+  "11625": {
+    "0": {
+      "id": 1162500010,
+      "dialogue": [
+        "I only wanted to play my part...",
+        "Curse these ageing bones..."
+      ]
+    }
+  },
+  "11626": {
+    "0": {
+      "id": 1162600030,
+      "dialogue": [
+        "So, you would cull an old man such as I?",
+        "You are thorough indeed, Lady Leda. I would expect nothing less.",
+        "As you surmise, I do have my doubts.",
+        "And will not simply lay down and die with them."
+      ]
+    }
+  },
+  "11627": {
+    "0": {
+      "id": 1162700030,
+      "dialogue": [
+        "Have you lost your wits?",
+        "By my troth, you have no such debt to this old man.",
+        "Though I gladly welcome your decision.",
+        "Now I might even live to see the morrow..."
+      ]
+    }
+  },
+  "11628": {
+    "10": {
+      "id": 1162810000,
+      "dialogue": [
+        "Lady Leda, I ask you keep Kindly Miquella in your care."
+      ]
+    }
+  },
+  "11629": {
+    "0": {
+      "id": 1162900030,
+      "dialogue": [
+        "So, you would cull an old man such as I?",
+        "You are thorough indeed, Lady Leda. I would expect nothing less.",
+        "As you surmise, I do have my doubts.",
+        "And will not simply lay down and die with them."
+      ]
+    }
+  },
+  "11630": {
+    "0": {
+      "id": 1163000030,
+      "dialogue": [
+        "So, you've taken Lady Leda's side.",
+        "I'm glad she stands with an ally.",
+        "She tends to overestimate...",
+        "The burden she might carry alone."
+      ]
+    }
+  },
+  "11631": {
+    "0": {
+      "id": 1163100010,
+      "dialogue": [
+        "Well, this is an unexpected victory.",
+        "It seems I have my uses yet..."
+      ]
+    }
+  },
+  "11632": {
+    "0": {
+      "id": 1163200010,
+      "dialogue": [
+        "I've utterly failed you both...",
+        "Miquella the Kind, Lord Mohg..."
+      ]
+    }
+  },
+  "11633": {
+    "0": {
+      "id": 1163300020,
+      "dialogue": [
+        "I am Ansbach of the Pureblood Knights.",
+        "I stand with blade aloft, blood afire.",
+        "For the dignity of my lord and master, Mohg."
+      ]
+    }
+  },
+  "11634": {
+    "0": {
+      "id": 1163400020,
+      "dialogue": [
+        "Righteous Tarnished. It appears that our interests have aligned.",
+        "A balm upon my soul it is, that we do not meet today as enemies.",
+        "Now, my blade. Watch closely."
+      ]
+    }
+  },
+  "11635": {
+    "0": {
+      "id": 1163500010,
+      "dialogue": [
+        "Ha-hah!",
+        "How readily the sensation returns! The runaway spirit of war!"
+      ]
+    }
+  },
+  "11636": {
+    "0": {
+      "id": 1163600020,
+      "dialogue": [
+        "Lady Leda. Your suspicions were dead-on.",
+        "In the end, I could not bury the memories.",
+        "Of Lord Mohg, and our pact of blood."
+      ]
+    }
+  },
+  "11637": {
+    "0": {
+      "id": 1163700010,
+      "dialogue": [
+        "Well, good Freyja.",
+        "It will be my honour to test my blade against a Redmane."
+      ]
+    }
+  },
+  "11638": {
+    "0": {
+      "id": 1163800010,
+      "dialogue": [
+        "Lord Mohg, your honour...",
+        "Was my only..."
+      ]
+    },
+    "50": {
+      "id": 1163850020,
+      "dialogue": [
+        "Righteous Tarnished. That was an astounding battle, to be sure.",
+        "Now I suppose this leaves only one.",
+        "But in truth, I cannot calm my quivering. Challenging a god is no small matter."
+      ]
+    },
+    "60": {
+      "id": 1163860010,
+      "dialogue": [
+        "Only one more to go.",
+        "But in truth, I cannot calm my quivering. Challenging a god is no small matter."
+      ]
+    },
+    "70": {
+      "id": 1163870050,
+      "dialogue": [
+        "I am afraid I underestimated the lad.",
+        "Appearing frail in both body and mind, I presumed he'd be like to stumble upon the field of battle...",
+        "What a fool I was.",
+        "He serves another master, but Sir Thiollier performed magnificently.",
+        "Perhaps he too quivers with anticipation.",
+        "As do we."
+      ]
+    },
+    "80": {
+      "id": 1163880080,
+      "dialogue": [
+        "Oh, something you want to get off your chest?",
+        "Well, you needn't worry.",
+        "It was you, wasn't it? Who defeated Lord Mohg.",
+        "...",
+        "Fear not, I bear no grudge against you.",
+        "His Eminence was felled in an honourable duel, and such are the risks of seeking Lordship.",
+        "Besides, what right have I to complain? I blame the enchantment more than anything.",
+        "Righteous Tarnished. We will have our victory.",
+        "I swear upon my blood."
+      ]
+    },
+    "90": {
+      "id": 1163890010,
+      "dialogue": [
+        "Righteous Tarnished. We will have our victory.",
+        "I swear upon my blood."
+      ]
+    }
+  },
+  "11639": {
+    "0": {
+      "id": 1163900020,
+      "dialogue": [
+        "General Radahn. A pleasure to see you, after all this time.",
+        "But those remains do not belong to you.",
+        "Lord Mohg will have his dignity."
+      ]
+    }
+  },
+  "11640": {
+    "0": {
+      "id": 1164000010,
+      "dialogue": [
+        "Righteous Tarnished. Become our new lord.",
+        "A lord not for gods, but for men."
+      ]
+    }
+  },
+  "11690": {
+    "0": {
+      "id": 1169000300,
+      "dialogue": [
+        "<attacks with a scythe - various levels of strength>",
+        "<attacks with a rapier - various levels of strength>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11701": {
+    "0": {
+      "id": 1170100030,
+      "dialogue": [
+        "Ahh, Lady Leda spoke of you.",
+        "You're that Tarnished. Guided here by Kindly Miquella. Weren't we all.",
+        "I am Freyja. I once fought alongside General Radahn.",
+        "In battle, you can be sure I'll hold my own."
+      ]
+    },
+    "10": {
+      "id": 1170110040,
+      "dialogue": [
+        "Oh, another thing.",
+        "Did you speak to our dour little friend?",
+        "If you've yet to do so, have him give you a map of the crosses' whereabouts.",
+        "You'll find more of them dotted about these lands.",
+        "They are Miquella the Kind's footprints."
+      ]
+    },
+    "20": {
+      "id": 1170120010,
+      "dialogue": [
+        "If you've yet to do so, be sure to have our dour little friend share his map of crosses.",
+        "Assuming you intend to trace Kind Miquella's path..."
+      ]
+    },
+    "30": {
+      "id": 1170130000,
+      "dialogue": [
+        "In battle, you can be sure I'll hold my own."
+      ]
+    }
+  },
+  "11702": {
+    "0": {
+      "id": 1170200020,
+      "dialogue": [
+        "Ah, well met.",
+        "That was a fine battle indeed.",
+        "It heartens me, that another warrior stands among us. Among the beckoned."
+      ]
+    },
+    "10": {
+      "id": 1170210040,
+      "dialogue": [
+        "Ah, Lady Leda spoke of you.",
+        "You're that Tarnished. Guided here by Kindly Miquella. Weren't we all.",
+        "I am Freyja. I once fought alongside General Radahn.",
+        "You demonstrated great valour in battle.",
+        "It heartens me, that another warrior stands among us. Among the beckoned."
+      ]
+    }
+  },
+  "11703": {
+    "0": {
+      "id": 1170300060,
+      "dialogue": [
+        "Long ago, I was stricken by scarlet rot in the Swamp of Aeonia.",
+        "Immobile, feverish, and in great pain, I was entirely resigned to death.",
+        "I was left behind, and only Kindly Miquella was good enough to seek me out.",
+        "My wound was swollen and festering\u2014exuding a most pungent odour\u2014",
+        "and yet he drained the poison from it.",
+        "...Despite my wretched visage.",
+        "Now, I consider this wound my compass."
+      ]
+    },
+    "10": {
+      "id": 1170310010,
+      "dialogue": [
+        "Let us both take Kindly Miquella's guidance to heart.",
+        "May we meet again on the battlefield, brave warrior."
+      ]
+    },
+    "20": {
+      "id": 1170320000,
+      "dialogue": [
+        "May we meet again on the battlefield, brave warrior."
+      ]
+    },
+    "50": {
+      "id": 1170350070,
+      "dialogue": [
+        "Do you wonder why the eternally dour fellow keeps his distance?",
+        "He's one of the tower's hornsent.",
+        "I can only assume he fights for his own reasons, and carries his own burdens.",
+        "But we needn't concern ourselves with his affairs.",
+        "He, too, was charmed by Kindly Miquella, and guided here.",
+        "And that makes us allies.",
+        "We're not gods, you and I. Even if we did manage to dig up the secrets of his past...",
+        "I doubt our meddling could ever amount to much."
+      ]
+    }
+  },
+  "11704": {
+    "0": {
+      "id": 1170400050,
+      "dialogue": [
+        "Oh, there you are.",
+        "Good. If you happen to see Lady Leda,",
+        "tell her that I'm striking out on my own.",
+        "Don't worry. I've no mind to cross any of you.",
+        "The guidance of Kind Miquella remains etched into my very flesh.",
+        "It's only, there's something that I must know."
+      ]
+    },
+    "10": {
+      "id": 1170410080,
+      "dialogue": [
+        "Ah, Lady Leda spoke of you.",
+        "You're that Tarnished. Guided here by Kindly Miquella. Weren't we all.",
+        "I am Freyja. I once fought alongside General Radahn.",
+        "You picked quite the time to show up, with the enchantment having faded...",
+        "No matter. If you happen to see Lady Leda,",
+        "tell her that I'm striking out on my own.",
+        "Don't worry. I've no mind to cross any of you.",
+        "The guidance of Kind Miquella remains etched into my very flesh.",
+        "It's only, there's something that I must know."
+      ]
+    },
+    "20": {
+      "id": 1170420090,
+      "dialogue": [
+        "Ahh, Lady Leda spoke of you.",
+        "You're that Tarnished. Guided here by Kindly Miquella. Weren't we all.",
+        "I am Freyja. I once fought alongside General Radahn.",
+        "You demonstrated great valour in battle.",
+        "But this wasn't the best time to show up, now the enchantment's faded...",
+        "No matter. If you happen to see Lady Leda,",
+        "tell her that I'm striking out on my own.",
+        "Don't worry. I've no mind to cross any of you.",
+        "The guidance of Kind Miquella remains etched into my very flesh.",
+        "It's only, there's something that I must know."
+      ]
+    },
+    "30": {
+      "id": 1170430010,
+      "dialogue": [
+        "I'll be out on my own for some time.",
+        "There's something I must know."
+      ]
+    }
+  },
+  "11705": {
+    "0": {
+      "id": 1170500040,
+      "dialogue": [
+        "Kindly Miquella spoke...",
+        "of the vow he once made with General Radahn.",
+        "And...it is here the vow shall be honoured.",
+        "I am a Redmane.",
+        "I must know the nature of the vow."
+      ]
+    }
+  },
+  "11706": {
+    "0": {
+      "id": 1170600040,
+      "dialogue": [
+        "There is no need for concern.",
+        "I will be true to my word.",
+        "Though I do feel a hint of regret.",
+        "Lady Leda, honourable Ansbach, and warriors like you, are all of a special breed.",
+        "How glorious it would have been, had we met in battle as sworn enemies."
+      ]
+    },
+    "10": {
+      "id": 1170610040,
+      "dialogue": [
+        "There is no need for concern.",
+        "I will be true to my word.",
+        "Though I do feel a hint of regret.",
+        "Lady Leda and honourable Ansbach are of a special breed.",
+        "How glorious it would have been, had we met in battle as sworn enemies."
+      ]
+    }
+  },
+  "11707": {
+    "0": {
+      "id": 1170700020,
+      "dialogue": [
+        "Hmm, let me see...",
+        "Fickle, fidgety little letters.",
+        "I should wipe you clean off the page."
+      ]
+    },
+    "10": {
+      "id": 1170710010,
+      "dialogue": [
+        "Ahh... Now, now, Freyja. Don't let it rile you up.",
+        "Take it slow, take it slow."
+      ]
+    },
+    "20": {
+      "id": 1170720010,
+      "dialogue": [
+        "By my lord...",
+        "Will I ever make sense of this jumble?"
+      ]
+    }
+  },
+  "11708": {
+    "0": {
+      "id": 1170800030,
+      "dialogue": [
+        "Oh. Hello.",
+        "I'm afraid I'm busy.",
+        "...A curse upon my lack of foresight.",
+        "I should have asked Ansbach to impart his knowledge when I had the chance."
+      ]
+    },
+    "10": {
+      "id": 1170810010,
+      "dialogue": [
+        "I'm afraid I'm busy.",
+        "Truly, I should have asked Ansbach to impart his knowledge when I had the chance."
+      ]
+    }
+  },
+  "11709": {
+    "0": {
+      "id": 1170900100,
+      "dialogue": [
+        "From Sir Ansbach, to me?",
+        "What on earth could it...",
+        "Oh...? Hmm...?",
+        "Yes, of course, I see.",
+        "As the festival of war concluded, General Radahn's soul met an honourable end.",
+        "But Kindly Miquella wishes to revive it.",
+        "...Which is fine by me.",
+        "I know it would pain old Jerren, but war has always suited General Radahn best.",
+        "And certainly far more than any honourable death.",
+        "Endless war to invigorate the soul.",
+        "As befits General Radahn, the great lion."
+      ]
+    }
+  },
+  "11710": {
+    "0": {
+      "id": 1171000030,
+      "dialogue": [
+        "Thank you. Now I've finally cast off my misgivings.",
+        "Give my regards to honourable Ansbach.",
+        "Tell him if we should meet in battle,",
+        "to face your bow would be fine enough, but to face your blade would be an honour."
+      ]
+    }
+  },
+  "11711": {
+    "0": {
+      "id": 1171100010,
+      "dialogue": [
+        "Brave warrior. Perhaps next time we, too, will meet on the battlefield."
+      ]
+    },
+    "10": {
+      "id": 1171110010,
+      "dialogue": [
+        "All that remains is the fight. For our Kind Miquella."
+      ]
+    }
+  },
+  "11721": {
+    "0": {
+      "id": 1172100010,
+      "dialogue": [
+        "Ngh!",
+        "What's the matter with you?"
+      ]
+    }
+  },
+  "11722": {
+    "0": {
+      "id": 1172200020,
+      "dialogue": [
+        "Are you done?",
+        "Kindly Miquella's enchantment has expired.",
+        "It can be disorientating, to say the least."
+      ]
+    }
+  },
+  "11723": {
+    "0": {
+      "id": 1172300030,
+      "dialogue": [
+        "Looking for a fight, are you.",
+        "Fine by me.",
+        "Those squirmy little letters were driving me mad.",
+        "And I've vigour to spare."
+      ]
+    }
+  },
+  "11724": {
+    "0": {
+      "id": 1172400020,
+      "dialogue": [
+        "Looking for a fight, are you.",
+        "Haven't you any patience whatsoever?",
+        "No matter. I could do with a warm-up."
+      ]
+    }
+  },
+  "11725": {
+    "0": {
+      "id": 1172500010,
+      "dialogue": [
+        "What a pitiful place to meet your end.",
+        "A warrior should know\u2014any fight might be your last."
+      ]
+    }
+  },
+  "11726": {
+    "0": {
+      "id": 1172600010,
+      "dialogue": [
+        "What's the matter with you...",
+        "Lady Leda, beware."
+      ]
+    }
+  },
+  "11727": {
+    "0": {
+      "id": 1172700010,
+      "dialogue": [
+        "I am the Redmane, Freyja.",
+        "The time has come."
+      ]
+    }
+  },
+  "11728": {
+    "0": {
+      "id": 1172800010,
+      "dialogue": [
+        "I could not hope for a worthier foe.",
+        "This is our moment. Let's make it something to remember."
+      ]
+    }
+  },
+  "11729": {
+    "0": {
+      "id": 1172900030,
+      "dialogue": [
+        "I never could have imagined it.",
+        "That you might be the Erdtree's rightful lord.",
+        "Ha ha ha... Such as it is, this battle could not be more fitting.",
+        "For the birth of a new god, and the coming of a lord!"
+      ]
+    }
+  },
+  "11730": {
+    "0": {
+      "id": 1173000020,
+      "dialogue": [
+        "Thank you, Sir Ansbach.",
+        "The mere sight of your blade sets my heart aflutter.",
+        "All the more I yearn to crush it in my grasp!"
+      ]
+    }
+  },
+  "11731": {
+    "0": {
+      "id": 1173100010,
+      "dialogue": [
+        "There can only be one lord.",
+        "And you are not worthy."
+      ]
+    }
+  },
+  "11732": {
+    "0": {
+      "id": 1173200010,
+      "dialogue": [
+        "I offer this fight...",
+        "To Miquella the Kind. And Rada..."
+      ]
+    }
+  },
+  "11733": {
+    "0": {
+      "id": 1173300010,
+      "dialogue": [
+        "You were fine...in your part...",
+        "Truly, a glorious battle...it was..."
+      ]
+    }
+  },
+  "11790": {
+    "0": {
+      "id": 1179000300,
+      "dialogue": [
+        "<attacks with a curved greatsword - various levels of strength>",
+        "<long warcry>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11801": {
+    "0": {
+      "id": 1180100060,
+      "dialogue": [
+        "Ahh, were you guided here by Kindly Miquella?",
+        "I am Leda. And like you, I was guided by faith along his honourable path.",
+        "Touch the withered arm, and you too, will be transported.",
+        "To the realm of shadow where Miquella the Kind now dwells.",
+        "My compatriots are there already.",
+        "Like us, they have heard Kindly Miquella's call.",
+        "If you can find them, they are certain to lend you aid."
+      ]
+    }
+  },
+  "11802": {
+    "0": {
+      "id": 1180200010,
+      "dialogue": [
+        "Come, now. Touch the withered arm, and travel to the realm of shadow.",
+        "I will not be far behind. May we meet again."
+      ]
+    }
+  },
+  "11803": {
+    "0": {
+      "id": 1180300070,
+      "dialogue": [
+        "Hello again.",
+        "Did you meet my compatriots?",
+        "They're quite the congregation. From places as far and wide as you can imagine.",
+        "Doubtless they'd have all come to blows at first glance...",
+        "Were it not for the charm Kindly Miquella put upon us.",
+        "This is what allows us to serve together.",
+        "The work of a living god."
+      ]
+    },
+    "10": {
+      "id": 1180310010,
+      "dialogue": [
+        "We are all utterly captivated by Kindly Miquella.",
+        "It is what binds us together."
+      ]
+    },
+    "20": {
+      "id": 1180320060,
+      "dialogue": [
+        "Oh, that man is known as Dane.",
+        "He's been in the service of Miquella the Kind longer than I.",
+        "He might be solemn of cheer, but is a fierce warrior nevertheless.",
+        "There's no cause for concern\u2014",
+        "Dane's reluctance to speak to you is no fault of your own.",
+        "We've been acquainted for quite some time, but even I am yet to hear his voice.",
+        "Perhaps one day."
+      ]
+    },
+    "30": {
+      "id": 1180330090,
+      "dialogue": [
+        "Wondering about the hornsent, are you?",
+        "True enough, in any other circumstance he'd be at our throats...",
+        "Long ago, Queen Marika commanded Sir Messmer to purge the tower folk.",
+        "A cleansing by fire.",
+        "It's no wonder the hornsent holds the Erdtree in contempt.",
+        "That aside, man is by nature a creature of conquest.",
+        "And in this regard, the tower folk are no different.",
+        "They were never saints.",
+        "They just happened to be on the losing side of a war.",
+        "But it's still a wretched shame."
+      ]
+    },
+    "50": {
+      "id": 1180350090,
+      "dialogue": [
+        "Ah, finally we meet.",
+        "I am Leda. I missed my chance to speak with you last time,",
+        "but you too must have been guided here by Kindly Miquella.",
+        "Have you met my compatriots?",
+        "They were drawn here by Miquella the Kind, much like you, following the path he himself trod.",
+        "You must have been surprised to see such a band, each come from places far and wide...",
+        "Doubtless they'd have all come to blows at first glance...",
+        "Were it not for the charm Kindly Miquella put upon us.",
+        "That is what allows us to serve together.",
+        "The work of a living god."
+      ]
+    }
+  },
+  "11804": {
+    "0": {
+      "id": 1180400060,
+      "dialogue": [
+        "Oh, hello.",
+        "Did you feel it? Miquella the Kind's enchantment appears to have broken.",
+        "But while my devotion to Kindly Miquella remains unchanged,",
+        "by my troth, I am not so sure about the others.",
+        "No, wait. Perhaps this is a blessing in disguise.",
+        "I can wield my sword to cull the undeserving, those unfit to bask in Tender Miquella's presence.",
+        "I should've thought of this earlier."
+      ]
+    },
+    "10": {
+      "id": 1180410010,
+      "dialogue": [
+        "Right. It's time to begin ferreting out....",
+        "Those of us who don't deserve to be at Kindly Miquella's side..."
+      ]
+    },
+    "20": {
+      "id": 1180420080,
+      "dialogue": [
+        "Ah, finally we meet.",
+        "I am Leda. I missed my chance to speak with you last time,",
+        "but you too must have been guided here by Miquella the Kind.",
+        "Then you must have felt it. Tender Miquella's enchantment has broken.",
+        "But while my devotion to Kindly Miquella remains unchanged,",
+        "by my troth, I am not so sure about the others.",
+        "No, wait. Perhaps this is a blessing in disguise.",
+        "I can wield my sword to cull the undeserving, those unfit to bask in Miquella the Kind's presence.",
+        "I should've thought of this earlier."
+      ]
+    },
+    "50": {
+      "id": 1180450060,
+      "dialogue": [
+        "Thiollier, hmm.",
+        "It's true, his devotion to St. Trina is plain to see.",
+        "I fear his vows to Miquella the Kind are merely secondary.",
+        "But for this very reason, Thiollier is incapable of betrayal.",
+        "St. Trina's love for Kind Miquella is boundless.",
+        "She is, after all, his other half. Or perhaps her feelings go beyond even that.",
+        "Even if she was left behind, I doubt her heart would waver."
+      ]
+    },
+    "60": {
+      "id": 1180460050,
+      "dialogue": [
+        "The hornsent, hmm.",
+        "On one hand, he trusts Miquella the Kind to bring salvation to his people.",
+        "With the enchantment lifted, his vengeful passions may once again ignite, but surely he'd be mindful of Kindly Miquella's promise...",
+        "On the other hand, the hornsent does present his own dangers.",
+        "Perhaps your concerns are well-founded after all.",
+        "Allow me some time to mull it over."
+      ]
+    },
+    "70": {
+      "id": 1180470000,
+      "dialogue": [
+        "Allow me some time to mull it over."
+      ]
+    }
+  },
+  "11805": {
+    "0": {
+      "id": 1180500080,
+      "dialogue": [
+        "Oh, there you are.",
+        "I've made up my mind\u2014",
+        "The hornsent will be eliminated.",
+        "If he were to point his blade at Sir Messmer or Queen Marika, perhaps it would not matter.",
+        "But vengeance changes a man.",
+        "And one day, his blade may turn towards Miquella the Kind.",
+        "Kindly Miquella is, after all, the true golden child.",
+        "Even if he discards every last drop of his being,",
+        "his lineage will always remain."
+      ]
+    },
+    "10": {
+      "id": 1180510080,
+      "dialogue": [
+        "Oh, there you are.",
+        "It took me long enough, I know, but I've made my decision.",
+        "I believe it wisest to eliminate the hornsent.",
+        "If he were to point his blade at Sir Messmer or Queen Marika, perhaps it would not matter.",
+        "But vengeance changes a man.",
+        "And one day, his blade may turn towards Miquella the Kind.",
+        "Kindly Miquella is, after all, the true golden child.",
+        "Even if he discards every last drop of his being,",
+        "his lineage will always remain."
+      ]
+    },
+    "20": {
+      "id": 1180520030,
+      "dialogue": [
+        "I believe the hornsent suspects what I have in mind.",
+        "He never placed his full trust in me, even under the effect of Kindly Miquella's spell.",
+        "He must've recognised something. The scent of the killer that slept within me.",
+        "The stench of crusted blood."
+      ]
+    },
+    "30": {
+      "id": 1180530020,
+      "dialogue": [
+        "I will follow the hornsent.",
+        "To have his revenge on Sir Messmer, there is only one place he will go.",
+        "The black keep."
+      ]
+    },
+    "50": {
+      "id": 1180550060,
+      "dialogue": [
+        "Oh, there you are.",
+        "It took me long enough, I know, but I've made my decision.",
+        "I'm going to leave the hornsent to his own devices.",
+        "With his grudge against Sir Messmer settled, his blade is bent by madness.",
+        "Wherever he goes he won't last long. I needn't bother with him.",
+        "Unruly emotions only lead to misfortune.",
+        "All the more reason we need someone like Miquella the Kind."
+      ]
+    },
+    "60": {
+      "id": 1180560050,
+      "dialogue": [
+        "Oh, there you are.",
+        "It took me long enough, I know, but I've made my decision.",
+        "I'm going to leave the hornsent to his own devices.",
+        "With the object of his vengeance gone, his blade has grown dull.",
+        "In that state, I don't imagine he will ever fight again. I needn't bother with him.",
+        "Lest, of course, another target for his retribution should appear."
+      ]
+    }
+  },
+  "11806": {
+    "0": {
+      "id": 1180600040,
+      "dialogue": [
+        "Oh, there you are.",
+        "Well fought. You have my gratitude.",
+        "He was never going to see eye to eye with us,",
+        "but his words were ill-founded.",
+        "It was hard to hear, I know."
+      ]
+    },
+    "10": {
+      "id": 1180610020,
+      "dialogue": [
+        "I know I shouldn't let myself...",
+        "But I suppose it's only natural to feel the weight of one's deeds at times like these.",
+        "There is plenty left to be done. And I will see to it."
+      ]
+    },
+    "20": {
+      "id": 1180620020,
+      "dialogue": [
+        "Who else, I wonder....",
+        "I don't enjoy casting suspicion on anyone I've called a comrade.",
+        "But it's a small sacrifice in the grand scheme of things. We must eradicate all doubt..."
+      ]
+    },
+    "50": {
+      "id": 1180650060,
+      "dialogue": [
+        "Oh, there you are.",
+        "I've made up my mind\u2014",
+        "The hornsent is no longer a mortal danger.",
+        "With his grudge against Sir Messmer settled, his blade is bent by madness.",
+        "Wherever he goes he won't last long. I needn't bother with him.",
+        "Unruly emotions only lead to misfortune.",
+        "All the more reason we need someone like Miquella the Kind."
+      ]
+    },
+    "60": {
+      "id": 1180660050,
+      "dialogue": [
+        "Oh, there you are.",
+        "I've made up my mind\u2014",
+        "The hornsent is no longer a mortal danger.",
+        "With the object of his vengeance gone, his blade has grown dull.",
+        "In that state, I don't imagine he will ever fight again. I needn't bother with him.",
+        "Lest, of course, another target for his retribution should appear."
+      ]
+    }
+  },
+  "11807": {
+    "0": {
+      "id": 1180700080,
+      "dialogue": [
+        "Ah, there you are.",
+        "I'm afraid Sir Ansbach will have to be next.",
+        "He insists that he's nothing but a worn-down, over-the-hill soldier.",
+        "But in his day, he was the feared commander of the Pureblood Knights,",
+        "who cleaved open Miquella the Kind with his blood blade.",
+        "He claims he hasn't the spirit to take up his sword again,",
+        "but I doubt it'll be very long...",
+        "Before he recalls, as I have, the cascading sheets of blood.",
+        "I'm afraid he cannot be left to fester..."
+      ]
+    },
+    "10": {
+      "id": 1180710020,
+      "dialogue": [
+        "I've come to a realisation...",
+        "There's ample evidence... Without Kindly Miquella's influence...",
+        "I'm quite mistrustful of others..."
+      ]
+    }
+  },
+  "11808": {
+    "0": {
+      "id": 1180800040,
+      "dialogue": [
+        "Ah, there you are.",
+        "I owe you for your help in battle, once again.",
+        "Sir Ansbach must have considered it an honourable end, being felled by your hand.",
+        "After all, the good fellow held you in the highest regard.",
+        "When we speak of it, we may speak with pride\u2014that we were Sir Ansbach's final adversaries."
+      ]
+    },
+    "1": {
+      "id": 1180801010,
+      "dialogue": [
+        "I appreciate the help in battle."
+      ]
+    },
+    "10": {
+      "id": 1180810030,
+      "dialogue": [
+        "Ah, there you are.",
+        "I owe you for your help in battle, once again.",
+        "None can deny Sir Ansbach was truly a great man.",
+        "We can be proud, that we were the last opponents he ever faced."
+      ]
+    },
+    "11": {
+      "id": 1180811010,
+      "dialogue": [
+        "I appreciate the help in battle."
+      ]
+    }
+  },
+  "11809": {
+    "0": {
+      "id": 1180900080,
+      "dialogue": [
+        "You are an odd one, aren't you.",
+        "The enchantment is broken, and yet you alone appear completely unchanged.",
+        "As if nothing was ever cast upon you.",
+        "...",
+        "No matter.",
+        "If you found your way here, it was because Kindly Miquella wished it so.",
+        "But I am afraid this is our farewell.",
+        "When next we meet, let it be under the eyes of Miquella the Kind.",
+        "Good bye, comrade."
+      ]
+    },
+    "10": {
+      "id": 1180910010,
+      "dialogue": [
+        "I'm afraid this is our farewell, comrade.",
+        "When next we meet, let it be under the eyes of Miquella the Kind."
+      ]
+    }
+  },
+  "11810": {
+    "0": {
+      "id": 1181000110,
+      "dialogue": [
+        "Ah, I thought I'd see you here.",
+        "It's been quite some time.",
+        "...",
+        "It was never Kindly Miquella, was it? The Erdtree was leading you all along.",
+        "So that you might ascend to lordship.",
+        "Why come to these lands to begin with?",
+        "I suppose it must be what his Eminence, or perhaps the Erdtree, desired all along?",
+        "The clashing of the favoured lords, such that one would prevail?",
+        "So be it.",
+        "If you insist upon facing Miquella the Kind,",
+        "Then I will run you through, whoever you might be.",
+        "Don't tarry now."
+      ]
+    }
+  },
+  "11811": {
+    "0": {
+      "id": 1181100020,
+      "dialogue": [
+        "Worthy hornsent. I will dispose of you.",
+        "Before your thirst for revenge beckons our undoing.",
+        "I can no longer trust your word."
+      ]
+    },
+    "10": {
+      "id": 1181110010,
+      "dialogue": [
+        "What a surprise. That you should join me here.",
+        "I am pleased. Now go and make yourself useful."
+      ]
+    },
+    "20": {
+      "id": 1181120010,
+      "dialogue": [
+        "Kindly Miquella never betrays a vow.",
+        "Go. Your family awaits you."
+      ]
+    },
+    "30": {
+      "id": 1181130010,
+      "dialogue": [
+        "Y-You have bested me.",
+        "Only..."
+      ]
+    },
+    "40": {
+      "id": 1181140020,
+      "dialogue": [
+        "Worthy hornsent. I will dispose of you.",
+        "Before your thirst for revenge beckons our undoing.",
+        "I can no longer trust your word."
+      ]
+    },
+    "50": {
+      "id": 1181150020,
+      "dialogue": [
+        "Have you been taken in by the plight of the hornsent?",
+        "Foolish...",
+        "But hardly unexpected. Man is a compassionate animal, for better or worse."
+      ]
+    },
+    "65": {
+      "id": 1181165010,
+      "dialogue": [
+        "I expected things to end differently with you.",
+        "What a pity."
+      ]
+    },
+    "70": {
+      "id": 1181170020,
+      "dialogue": [
+        "Urgh! You have bested me.",
+        "A single betrayal, enough to turn the tides...",
+        "Unfortunate. But I will leave you be, for now."
+      ]
+    }
+  },
+  "11812": {
+    "0": {
+      "id": 1181200020,
+      "dialogue": [
+        "Sir Ansbach. I will dispose of you.",
+        "I find that I have a new apprehension\u2014",
+        "Your ambivalence. And exactly where it might lead you..."
+      ]
+    },
+    "10": {
+      "id": 1181210010,
+      "dialogue": [
+        "You've come again, have you.",
+        "Thank you. Now go and make yourself useful."
+      ]
+    },
+    "20": {
+      "id": 1181220010,
+      "dialogue": [
+        "Well, fancy meeting you here.",
+        "I am pleased. Now go and make yourself useful."
+      ]
+    },
+    "30": {
+      "id": 1181230010,
+      "dialogue": [
+        "Thank you for all that you have done.",
+        "Sir Ansbach."
+      ]
+    },
+    "40": {
+      "id": 1181240010,
+      "dialogue": [
+        "You are a force of nature...",
+        "Only..."
+      ]
+    },
+    "50": {
+      "id": 1181250020,
+      "dialogue": [
+        "Sir Ansbach. I will dispose of you.",
+        "I find that I have a new apprehension\u2014",
+        "Your ambivalence. And exactly where it might lead you."
+      ]
+    },
+    "60": {
+      "id": 1181260030,
+      "dialogue": [
+        "So you've chosen your side, have you.",
+        "Despite having no debt to the Lord of Blood.",
+        "I suppose it was Sir Ansbach who won you over.",
+        "Fine. One more heart for my blade to skewer."
+      ]
+    },
+    "70": {
+      "id": 1181270010,
+      "dialogue": [
+        "With this battle I send you on. It was an honour.",
+        "Now, go."
+      ]
+    },
+    "80": {
+      "id": 1181280020,
+      "dialogue": [
+        "Perhaps I should have known.",
+        "Not to challenge the two of you alone.",
+        "I take my leave, for now."
+      ]
+    }
+  },
+  "11813": {
+    "0": {
+      "id": 1181300050,
+      "dialogue": [
+        "Don't you dare approach Miquella the Kind.",
+        "Needle Knight Leda, Dryleaf Dane, and our allies...",
+        "Will never allow this.",
+        "Will never allow this."
+      ]
+    },
+    "2": {
+      "id": 1181302040,
+      "dialogue": [
+        "Needle Knight Leda, Dryleaf Dane, and our ally..."
+      ]
+    },
+    "10": {
+      "id": 1181310050,
+      "dialogue": [
+        "Don't you dare approach Miquella the Kind.",
+        "Needle Knight Leda and Dryleaf Dane...",
+        "Will never allow this.",
+        "Will never allow this."
+      ]
+    },
+    "20": {
+      "id": 1181320020,
+      "dialogue": [
+        "I am sorry.",
+        "For speaking to you as a compatriot.",
+        "When we stood before the withered arm."
+      ]
+    },
+    "30": {
+      "id": 1181330010,
+      "dialogue": [
+        "By way of apology, I will reveal the marrow of my sword.",
+        "Its needles, that will stitch you into death."
+      ]
+    },
+    "40": {
+      "id": 1181340010,
+      "dialogue": [
+        "I can't fathom your convictions.",
+        "After knowing Kindly Miquella, what remains to pledge to your Lord of Blood?"
+      ]
+    },
+    "50": {
+      "id": 1181350020,
+      "dialogue": [
+        "Thiollier.",
+        "I seem to have made a poor judgement.",
+        "About you. Or perhaps, St. Trina."
+      ]
+    },
+    "60": {
+      "id": 1181360010,
+      "dialogue": [
+        "With this battle I send you on. It was an honour to face a worthy lord.",
+        "Now, go."
+      ]
+    },
+    "70": {
+      "id": 1181370010,
+      "dialogue": [
+        "Kindly Miquella...",
+        "Make the world... A gentler place..."
+      ]
+    }
+  },
+  "11890": {
+    "0": {
+      "id": 1189000200,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "11901": {
+    "0": {
+      "id": 1190100070,
+      "dialogue": [
+        "Oh, hello there.",
+        "Are you the Tarnished?",
+        "Lady Leda spoke of you.",
+        "Another Tarnished, guided here by Miquella the Kind.",
+        "My name is Thiollier.",
+        "I, too, am Tarnished, and here on Kindly Miquella's account.",
+        "So, well...",
+        "Here's to new beginnings, I suppose."
+      ]
+    }
+  },
+  "11902": {
+    "0": {
+      "id": 1190200050,
+      "dialogue": [
+        "Um, I'm sorry...",
+        "But, well, I'm not much good at anything, is all.",
+        "I'm as weak as a kitten and thick as two planks.",
+        "I've always been this way...since the very day I was born.",
+        "I'm afraid the only thing I\u2019m proficient in is...is poison...",
+        "Sorry..."
+      ]
+    },
+    "10": {
+      "id": 1190210000,
+      "dialogue": [
+        "So, um, what can I help you with?"
+      ]
+    },
+    "20": {
+      "id": 1190220010,
+      "dialogue": [
+        "Um...",
+        "Just give me the word if you need any more poison."
+      ]
+    },
+    "50": {
+      "id": 1190250040,
+      "dialogue": [
+        "Oh, what's this!",
+        "I have to say, Sir Moore has an awfully sharp eye, doesn't he.",
+        "It's wonderful. This ebony, as lustrous as the night sky unending.",
+        "I don't think I could ever thank him enough...",
+        "But I'll have to think of something..."
+      ]
+    },
+    "60": {
+      "id": 1190260040,
+      "dialogue": [
+        "Ahh, forgive me.",
+        "You too deserve your share of the reward.",
+        "I'll mix up something special.",
+        "If you find yourself...weary of the weight of this life, then just give me the word.",
+        "Sleep is a balm, and eternal sleep...is an elixir."
+      ]
+    }
+  },
+  "11903": {
+    "0": {
+      "id": 1190300040,
+      "dialogue": [
+        "Is that so?",
+        "Then take this.",
+        "This concoction can coax even the oldest of dragons to sleep.",
+        "For you, it will grant the sweetest slumber...",
+        "...for all eternity."
+      ]
+    }
+  },
+  "11904": {
+    "0": {
+      "id": 1190400070,
+      "dialogue": [
+        "Oh, umm...",
+        "Are you not affected? Even with the spell broken?",
+        "I'm feeling rather lost. Haunted by memories.",
+        "Of St. Trina. Her visage. Her scent. The lure of velvety sleep.",
+        "Would Kindly Miquella chasten me?",
+        "For falling for St. Trina, while knowing that she was the discarded half?",
+        "The problem is...I simply cannot help it.",
+        "I would sacrifice everything, just to gaze upon her, one last time."
+      ]
+    },
+    "10": {
+      "id": 1190410010,
+      "dialogue": [
+        "I'm feeling rather lost. Haunted by memories.",
+        "Of St. Trina."
+      ]
+    },
+    "50": {
+      "id": 1190450070,
+      "dialogue": [
+        "Oh, hello there.",
+        "Are you the Tarnished?",
+        "Lady Leda spoke of you.",
+        "Another Tarnished, guided here by Miquella the Kind.",
+        "My name is Thiollier.",
+        "I, too, am Tarnished, and here on Kindly Miquella's account.",
+        "Oh, umm...",
+        "Are you not affected? Even with the spell broken?"
+      ]
+    },
+    "60": {
+      "id": 1190460050,
+      "dialogue": [
+        "I'm feeling rather lost. Haunted by memories.",
+        "Of St. Trina. Her visage. Her scent. The lure of velvety sleep.",
+        "Would Kindly Miquella chasten me?",
+        "For falling for St. Trina, while knowing that she was the discarded half?",
+        "The problem is...I simply cannot help it.",
+        "I would sacrifice everything, just to gaze upon her, one last time."
+      ]
+    }
+  },
+  "11905": {
+    "0": {
+      "id": 1190500050,
+      "dialogue": [
+        "Umm, oh...",
+        "I had something I wish to tell you.",
+        "I'm heading south.",
+        "I've recalled something that Sir Moore said.",
+        "He discovered deep-purple water lilies blooming on the southern shore.",
+        "That must be where St. Trina was left to wither away."
+      ]
+    },
+    "10": {
+      "id": 1190510010,
+      "dialogue": [
+        "I'm heading south.",
+        "To the shore Sir Moore mentioned."
+      ]
+    }
+  },
+  "11906": {
+    "0": {
+      "id": 1190600060,
+      "dialogue": [
+        "Are...are you certain of this?",
+        "Is this all a plot to make a mockery of me?",
+        "...",
+        "Oh, heavens, what am I saying. Forgive me.",
+        "You deserve my deepest gratitude.",
+        "I will make the journey.",
+        "To the southern coast, as you say. To venture into the depths of the fissure."
+      ]
+    },
+    "10": {
+      "id": 1190610010,
+      "dialogue": [
+        "I will make the journey.",
+        "To the southern coast, as you say. To venture into the depths of the fissure."
+      ]
+    }
+  },
+  "11907": {
+    "0": {
+      "id": 1190700040,
+      "dialogue": [
+        "St. Trina...",
+        "Oh, St. Trina...",
+        "What velvety ambrosia is this?",
+        "Your poison, and the sweet sleep that follows.",
+        "Oh, please, let me hear your voice..."
+      ]
+    }
+  },
+  "11908": {
+    "0": {
+      "id": 1190800050,
+      "dialogue": [
+        "Ah, hello.",
+        "Thank you for your help.",
+        "Without it, I wouldn't have seen St. Trina again.",
+        "I'm drifting off in the sea of her poison.",
+        "Soon, I will hear her voice.",
+        "Let me be. I won't be long."
+      ]
+    },
+    "10": {
+      "id": 1190810050,
+      "dialogue": [
+        "Ah, hello.",
+        "Thank you. It was all just as you said.",
+        "To think, without your guidance, I wouldn't have seen St. Trina again.",
+        "I'm drifting off in the sea of her poison.",
+        "Soon, I will hear her voice.",
+        "Let me be. I won't be long."
+      ]
+    },
+    "20": {
+      "id": 1190820040,
+      "dialogue": [
+        "Ahh, then you, too, must have paid a visit...",
+        "To St. Trina's garden of deepest purple.",
+        "I'm drifting off in the sea of her poison.",
+        "Soon, I will hear her voice.",
+        "Let me be. I won't be long."
+      ]
+    }
+  },
+  "11909": {
+    "0": {
+      "id": 1190900030,
+      "dialogue": [
+        "Oh, I almost forgot.",
+        "You mustn't follow my example.",
+        "St. Trina's poison would plunge you into an eternal slumber.",
+        "It must be me, and only me."
+      ]
+    },
+    "10": {
+      "id": 1190910020,
+      "dialogue": [
+        "I am gone, adrift in sleep.",
+        "So that I may hear St. Trina's lost voice.",
+        "Let me be. I won't be long."
+      ]
+    },
+    "50": {
+      "id": 1190950040,
+      "dialogue": [
+        "St. Trina.",
+        "Why won't you share your voice with me?",
+        "Ahh, grant me more of your poison.",
+        "That I might drift further into sleep.",
+        "Perhaps then you'll grace me with your voice?"
+      ]
+    },
+    "60": {
+      "id": 1190960000,
+      "dialogue": [
+        "Please. Leave me alone."
+      ]
+    }
+  },
+  "11910": {
+    "0": {
+      "id": 1191000050,
+      "dialogue": [
+        "I'll thank you not to lie to me.",
+        "I am the chosen, not you.",
+        "Only I can doze off in the sea of St. Trina.",
+        "Why would you hear her voice, when I cannot?",
+        "If you should utter these cruel untruths to me again I...",
+        "I won't be held responsible for my actions..."
+      ]
+    },
+    "10": {
+      "id": 1191010000,
+      "dialogue": [
+        "Never utter these cruel untruths to me again..."
+      ]
+    }
+  },
+  "11911": {
+    "0": {
+      "id": 1191100020,
+      "dialogue": [
+        "Please, enough.",
+        "I cannot believe your cheek.",
+        "And I will stand for it no longer!"
+      ]
+    },
+    "10": {
+      "id": 1191110000,
+      "dialogue": [
+        "I will never forgive you."
+      ]
+    }
+  },
+  "11912": {
+    "0": {
+      "id": 1191200070,
+      "dialogue": [
+        "Ah, you...",
+        "I was no good to anyone, beginning to end.",
+        "Weak as a kitten and thick as two planks.",
+        "I suppose dying in disgrace is fitting, in a way...",
+        "Ha...ha...",
+        "Tell me, please.",
+        "Assuming you spoke the truth back then...",
+        "What did St. Trina tell you?"
+      ]
+    },
+    "10": {
+      "id": 1191210020,
+      "dialogue": [
+        "Tell me, please.",
+        "Assuming you spoke the truth back then...",
+        "What did St. Trina tell you?"
+      ]
+    }
+  },
+  "11913": {
+    "0": {
+      "id": 1191300050,
+      "dialogue": [
+        "Ahh, you are a wretched, wretched soul...",
+        "A nightmare, come to plague me.",
+        "Such a thing...couldn't possibly be...",
+        "Could it? St. Trina.",
+        "Please, let me hear your voice.",
+        "In my everlasting slumber..."
+      ]
+    },
+    "10": {
+      "id": 1191310010,
+      "dialogue": [
+        "St. Trina, let me hear your voice.",
+        "In my everlasting slumber..."
+      ]
+    },
+    "20": {
+      "id": 1191320000,
+      "dialogue": [
+        "...A-Ah..."
+      ]
+    }
+  },
+  "11914": {
+    "0": {
+      "id": 1191400010,
+      "dialogue": [
+        "I will never forgive you.",
+        "For your trespass, you will know my poison..."
+      ]
+    }
+  },
+  "11915": {
+    "0": {
+      "id": 1191500010,
+      "dialogue": [
+        "Never utter these untruths again.",
+        "St. Trina would never say such things."
+      ]
+    }
+  },
+  "11916": {
+    "0": {
+      "id": 1191600010,
+      "dialogue": [
+        "Why did you mislead me?",
+        "Such strength, but for what..."
+      ]
+    }
+  },
+  "11917": {
+    "0": {
+      "id": 1191700000,
+      "dialogue": [
+        "I am here to serve St. Trina, evermore."
+      ]
+    }
+  },
+  "11918": {
+    "0": {
+      "id": 1191800030,
+      "dialogue": [
+        "I am deeply sorry. For doubting you.",
+        "I am here only to grant St. Trina's singular wish.",
+        "I will stop Miquella the Kind.",
+        "He will never become a god."
+      ]
+    }
+  },
+  "11919": {
+    "0": {
+      "id": 1191900010,
+      "dialogue": [
+        "Not the finest blade, nor the mightiest armour...",
+        "will spare your life. From the poison of Thiollier."
+      ]
+    }
+  },
+  "11920": {
+    "0": {
+      "id": 1192000010,
+      "dialogue": [
+        "Sir Moore. I do not wish to fight you.",
+        "But I have new purpose I must see through."
+      ]
+    }
+  },
+  "11921": {
+    "0": {
+      "id": 1192100010,
+      "dialogue": [
+        "You have no understanding.",
+        "Of Kind Miquella. Of St. Trina's love..."
+      ]
+    }
+  },
+  "11922": {
+    "0": {
+      "id": 1192200000,
+      "dialogue": [
+        "I am here to serve St. Trina, evermore."
+      ]
+    }
+  },
+  "11923": {
+    "0": {
+      "id": 1192300010,
+      "dialogue": [
+        "Sorry. It's up to you now.",
+        "Grant St. Trina's one wish."
+      ]
+    }
+  },
+  "11924": {
+    "0": {
+      "id": 1192400000,
+      "dialogue": [
+        "...Ahhh..."
+      ]
+    }
+  },
+  "11990": {
+    "0": {
+      "id": 1199000030,
+      "dialogue": [
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "12001": {
+    "0": {
+      "id": 1200100050,
+      "dialogue": [
+        "Well. We don't often receive visitors.",
+        "I am Ymir. Welcome, to Manus Metyr.",
+        "It is a pleasure to have you.",
+        "In lands so forsaken as these, chance encounters are precious indeed.",
+        "Seeing that we have convened here on this day,",
+        "allow me to mark the occasion with a modest offering."
+      ]
+    }
+  },
+  "12002": {
+    "0": {
+      "id": 1200200060,
+      "dialogue": [
+        "The map I gave you charts the site of a hallowed ruin.",
+        "It is said that after sounding the hanging bell there...",
+        "One's fate will be guided by the stars.",
+        "I only wish to be of service.",
+        "To help those who fight for their purpose.",
+        "I'm not mistaken am I? I can see it in your eyes.",
+        "You are a fighter, are you not?"
+      ]
+    },
+    "50": {
+      "id": 1200250040,
+      "dialogue": [
+        "Is something the matter?",
+        "I've given you a map to the hallowed ruin...",
+        "Oh, I suppose you expect a lesson of me, do you.",
+        "I know the feeling. Those with purpose are nothing if not ravenous...",
+        "For power. For truth."
+      ]
+    },
+    "60": {
+      "id": 1200260010,
+      "dialogue": [
+        "Is something the matter?",
+        "Here to squeeze another lesson out of me?"
+      ]
+    }
+  },
+  "12003": {
+    "0": {
+      "id": 1200300020,
+      "dialogue": [
+        "Oh, yes.",
+        "Do mind your feet around the church.",
+        "You wouldn't want to hurt the little boy."
+      ]
+    }
+  },
+  "12004": {
+    "0": {
+      "id": 1200400030,
+      "dialogue": [
+        "Oh my, you poor thing.",
+        "Another bad dream, Yuri?",
+        "Put that rotten thing out of your mind.",
+        "That tangled mess can't hurt you."
+      ]
+    }
+  },
+  "12005": {
+    "0": {
+      "id": 1200500060,
+      "dialogue": [
+        "I am a glintstone sorcerer.",
+        "We study the stars, and examine the life therein.",
+        "Are you familiar with our findings?",
+        "Long ago, we began as stardust, born of a great rupture far across the skies.",
+        "We, too, are children of the Greater Will.",
+        "Is that not divine? Is that not sublime?",
+        "...and yet, none can fathom its implications, its utter brilliance!"
+      ]
+    },
+    "1": {
+      "id": 1200501000,
+      "dialogue": [
+        "I, too, am a glintstone sorcerer."
+      ]
+    }
+  },
+  "12006": {
+    "0": {
+      "id": 1200600050,
+      "dialogue": [
+        "Ah, you met Jol\u00e1n?",
+        "Well, I hope that she behaved, at least.",
+        "The poor girl has overcome grave misfortune.",
+        "Her tongue can be sharp at the best of times,",
+        "but don't think that makes her a bad person.",
+        "Mm. It's no surprise her little sister too, has a heart of gold."
+      ]
+    }
+  },
+  "12007": {
+    "0": {
+      "id": 1200700040,
+      "dialogue": [
+        "Oh, there you are.",
+        "The exalted timbre of the bell has reached these ears of mine.",
+        "Gracious, the starry sky is wondrous tonight indeed.",
+        "Only your fate shines brighter.",
+        "Now, these are for you."
+      ]
+    },
+    "1": {
+      "id": 1200701020,
+      "dialogue": [
+        "Think nothing of it.",
+        "I have made my decision to be of help.",
+        "May the gleaming stars guide you evermore."
+      ]
+    },
+    "10": {
+      "id": 1200710060,
+      "dialogue": [
+        "Oh, there you are.",
+        "The exalted timbre of the bell has reached these ears of mine.",
+        "Gracious, the starry sky is wondrous tonight indeed.",
+        "Only your fate shines brighter.",
+        "But fate can be a strange thing indeed.",
+        "The hanging bell you sounded was not the one on the map I gave you.",
+        "The bell you found was in fact, here."
+      ]
+    },
+    "11": {
+      "id": 1200711010,
+      "dialogue": [
+        "Please, take a second look at the original map.",
+        "And may the gleaming stars guide you evermore."
+      ]
+    },
+    "20": {
+      "id": 1200720000,
+      "dialogue": [
+        "Oh, hello. Is something the matter?"
+      ]
+    },
+    "30": {
+      "id": 1200730000,
+      "dialogue": [
+        "May the gleaming stars guide you evermore."
+      ]
+    },
+    "50": {
+      "id": 1200750040,
+      "dialogue": [
+        "Forgive me.",
+        "I failed you. Failed to birth you whole.",
+        "I was not ready to be your mother.",
+        "But I can still stay here, nice and close.",
+        "For now, my dear, sleep soundly..."
+      ]
+    },
+    "60": {
+      "id": 1200760010,
+      "dialogue": [
+        "I will return shortly.",
+        "Please, allow the two of us a moment alone."
+      ]
+    },
+    "70": {
+      "id": 1200770040,
+      "dialogue": [
+        "Hmm?",
+        "Did you espy something unsightly, perchance?",
+        "Well, put it out of your mind.",
+        "The stars will reveal the truth, in time.",
+        "Free yourself of any misconceptions, lest they bring woe upon the both of us."
+      ]
+    }
+  },
+  "12008": {
+    "0": {
+      "id": 1200800080,
+      "dialogue": [
+        "I fear that you have borne witness to the whole of it.",
+        "The conceits\u2014the hypocrisy\u2014of the world built upon the Erdtree. The follies of men. Their bitter suffering.",
+        "Is there no hope for redemption?",
+        "The answer, sadly, is clear.",
+        "There never was any hope. They were each of them defective. Unhinged, from the start.",
+        "Marika herself. And the fingers that guided her.",
+        "And this is what troubles me.",
+        "No matter our efforts, if the roots are rotten,",
+        "...then we have little recourse."
+      ]
+    }
+  },
+  "12009": {
+    "0": {
+      "id": 1200900040,
+      "dialogue": [
+        "Ever-young Miquella saw things for what they were.",
+        "He knew that his bloodline was tainted. His roots mired in madness.",
+        "A tragedy if ever there was one.",
+        "That he would feel compelled to renounce everything.",
+        "When the blame...lay squarely with the mother."
+      ]
+    }
+  },
+  "12010": {
+    "0": {
+      "id": 1201000070,
+      "dialogue": [
+        "Mm. Hello there.",
+        "I heard another sound, coloured by your essence.",
+        "Simply exhilarating, I must say.",
+        "The stars are dark tonight.",
+        "But rest assured, this is no ill omen.",
+        "On the contrary. I believe that this portends a magnificent starry cascade.",
+        "Now, take this, my final gift to you.",
+        "May you join the glimmering stars above."
+      ]
+    },
+    "10": {
+      "id": 1201010070,
+      "dialogue": [
+        "Mm. Hello there.",
+        "The exalted timbre of the bells has reached these ears of mine.",
+        "Twice, now. How very exhilarating, indeed.",
+        "The stars are dark tonight.",
+        "But rest assured, this is no ill omen.",
+        "On the contrary. I believe that this portends a magnificent starry cascade.",
+        "Now, take this, my final gift to you.",
+        "May you join the glimmering stars above."
+      ]
+    },
+    "20": {
+      "id": 1201020010,
+      "dialogue": [
+        "Oh, yes. I believe I can feel it brewing.",
+        "This evening is a sign, of a greater night to come."
+      ]
+    },
+    "30": {
+      "id": 1201030000,
+      "dialogue": [
+        "May you join the glimmering stars above."
+      ]
+    }
+  },
+  "12011": {
+    "0": {
+      "id": 1201100060,
+      "dialogue": [
+        "Do you recall what I said?",
+        "That Marika, and the fingers that guided her, were unsound from the start.",
+        "Well, the truth lies deeper still.",
+        "It is their mother who is damaged and unhinged.",
+        "The fingers are but unripe children. Victims in their own right.",
+        "We all need a mother, do we not?",
+        "A new mother, a true mother, who will not give birth to further malady."
+      ]
+    }
+  },
+  "12012": {
+    "0": {
+      "id": 1201200040,
+      "dialogue": [
+        "Forgive me.",
+        "I failed you. Failed to birth you whole.",
+        "But it won't be long now.",
+        "I will soon be a mother. I will give you new life.",
+        "I assure you, you will have life."
+      ]
+    },
+    "10": {
+      "id": 1201210010,
+      "dialogue": [
+        "Please, will you allow the two of us this time alone?",
+        "It isn't much to ask."
+      ]
+    }
+  },
+  "12013": {
+    "0": {
+      "id": 1201300040,
+      "dialogue": [
+        "My shining star.",
+        "Grant me a mother's strength.",
+        "Look here. At my fingers.",
+        "I will be the true mother.",
+        "And I will be the only mother!"
+      ]
+    }
+  },
+  "12014": {
+    "50": {
+      "id": 1201450010,
+      "dialogue": [
+        "I will be the true mother!",
+        "Dear Yuri, dear Fingers!"
+      ]
+    }
+  },
+  "12015": {
+    "0": {
+      "id": 1201500010,
+      "dialogue": [
+        "Forgive me, Yuri.",
+        "Truly, I desired...to be your mother..."
+      ]
+    }
+  },
+  "12021": {
+    "0": {
+      "id": 1202100030,
+      "dialogue": [
+        "My dear child!",
+        "My dear children!",
+        "My dear finger!",
+        "My dear fingers!"
+      ]
+    }
+  },
+  "12090": {
+    "0": {
+      "id": 1209000300,
+      "dialogue": [
+        "<medium and long exertions for birthing fingers from stomach>",
+        "<taking damage from different types of attacks>",
+        "<takes a final lethal blow, and exhales a final breath>"
+      ]
+    }
+  },
+  "12502": {
+    "0": {
+      "id": 1250200010,
+      "dialogue": [
+        "Kind Miquella\u2026",
+        "In godhood shall you rise\u2026"
+      ]
+    }
+  },
+  "12503": {
+    "0": {
+      "id": 1250300000,
+      "dialogue": [
+        "..."
+      ]
+    }
+  },
+  "12504": {
+    "0": {
+      "id": 1250400000,
+      "dialogue": [
+        "..."
+      ]
+    }
+  },
+  "15001": {
+    "0": {
+      "id": 1500100040,
+      "dialogue": [
+        "...",
+        "O Bayle, tyrant drake, do your wounds yet ache?",
+        "Is your fury still yet to crest its zenith?",
+        "Hurry, hurry, and lay it all to waste!",
+        "Lay waste to the proud, the conceited, each,\nev'ry last one of that arrogant lot."
+      ]
+    },
+    "1": {
+      "id": 1500101040,
+      "dialogue": [
+        "...",
+        "Oh, how it hurts...from very tip to toe...",
+        "Aaah... Nnngh...",
+        "Help me, I must ask... Am I human still?",
+        "Is that the reason...I yet suffer so?"
+      ]
+    },
+    "3": {
+      "id": 1500103040,
+      "dialogue": [
+        "...",
+        "Ev'ryone...burned to cinders...burned away.",
+        "Put to the torch...by Messmer...and his lot.",
+        "What did we do to deserve such a fate?",
+        "We merely lived our lives... We lived in peace..."
+      ]
+    },
+    "6": {
+      "id": 1500106050,
+      "dialogue": [
+        "...",
+        "Ah-hah, my theory is proven true!",
+        "The finger creepers hail from these ruins.",
+        "So now must I sound this one hanging bell,",
+        "and sweetly cradled shall I come to be,",
+        "at the bosom...of the exalted mother."
+      ]
+    },
+    "17": {
+      "id": 1500117040,
+      "dialogue": [
+        "...",
+        "I know...",
+        "All your resentment lingers yet...",
+        "The raw stuff from which I shall surely forge",
+        "a curse. Upon the dastard Messmer's head.\nUpon Marika's children each and all."
+      ]
+    },
+    "20": {
+      "id": 1500120030,
+      "dialogue": [
+        "...",
+        "I was once told a coffin could convey...\nIts passenger upon a gentle cruise...",
+        "To the velvet garden of deepest purple.",
+        "Oh...to slumber in such a paradise..."
+      ]
+    },
+    "22": {
+      "id": 1500122040,
+      "dialogue": [
+        "...",
+        "O Marika...",
+        "I beg...embrace your child...",
+        "And give us a sign.",
+        "How long must this holy war stretch on?"
+      ]
+    },
+    "23": {
+      "id": 1500123030,
+      "dialogue": [
+        "...",
+        "By Grace, if e'er I see another rock...",
+        "I shall find it, of this I have no doubt.",
+        "The altar of the forge cannot be far..."
+      ]
+    }
+  },
+  "15002": {
+    "0": {
+      "id": 1500200040,
+      "dialogue": [
+        "...",
+        "For pity's sake, your place is in the jar.",
+        "Nigh-sainthood itself awaits you within.",
+        "For shamans like you, this is your lot.",
+        "Life were you accorded for this alone."
+      ]
+    },
+    "8": {
+      "id": 1500208030,
+      "dialogue": [
+        "...",
+        "Stop... Avert your gaze from me!",
+        "I beg, look away!",
+        "Aaargh!"
+      ]
+    },
+    "17": {
+      "id": 1500217040,
+      "dialogue": [
+        "...",
+        "No, such a thing is utterly inconceivable...",
+        "We have not been abandoned.",
+        "Messmer is the son of Queen Marika...",
+        "Her Grace would never abandon her own flesh and blood..."
+      ]
+    }
+  },
+  "15004": {
+    "0": {
+      "id": 1500400030,
+      "dialogue": [
+        "...",
+        "O please, grant me the courage...",
+        "To fly to your feet, my dearest...",
+        "St. Trina..."
+      ]
+    },
+    "2": {
+      "id": 1500402050,
+      "dialogue": [
+        "...",
+        "Kindly Miquella...",
+        "I see you've thrown away...",
+        "Something you should not have. Under any circumstances.",
+        "How will you salvation offer...to those who cannot be saved?",
+        "When you could not even save your other self?"
+      ]
+    }
+  },
+  "15005": {
+    "1": {
+      "id": 1500501030,
+      "dialogue": [
+        "...",
+        "O tower of ours, hidden in shadow. O lofty spiral piercing the heavens.",
+        "Lead him safely unto greater Godhood.",
+        "And in divinity grant our salvation."
+      ]
+    }
+  },
+  "15007": {
+    "5": {
+      "id": 1500705030,
+      "dialogue": [
+        "...",
+        "I welcome you, O uninvited guest.",
+        "But must I warn, as you venture in... Heed the words of our great master, Midra.",
+        "\"Approach not the madness\u2014lest ye succumb.\""
+      ]
+    },
+    "6": {
+      "id": 1500706040,
+      "dialogue": [
+        "...",
+        "I beg you stop. Haven't I taken enough?",
+        "Are we not brethren, common in our line?",
+        "And yet, you offer only cruelty...",
+        "I ask; what crime did great Midra commit?"
+      ]
+    }
+  },
+  "15008": {
+    "1": {
+      "id": 1500801040,
+      "dialogue": [
+        "...",
+        "Oh please. Not the jar... Anything but that!",
+        "I promise. I won't ever do it again!",
+        "I swear\u2014a living saint I'll surely be!",
+        "Please...you must forgive me. Forgive me, please."
+      ]
+    },
+    "3": {
+      "id": 1500803040,
+      "dialogue": [
+        "...",
+        "Please, I can't stand the sound...",
+        "I need no salvation.",
+        "Please, stop, desist.",
+        "Your wretched lamentation."
+      ]
+    }
+  }
+}

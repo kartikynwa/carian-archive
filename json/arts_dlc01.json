@@ -1,0 +1,322 @@
+{
+  "2000": {
+    "name": "Dryleaf Whirlwind",
+    "caption": "Skill: Dryleaf Whirlwind\n\nThis skill represents the pinnacle of Dane's footwork-based martial artistry.\nRise into the air with a series of spinning kicks before crashing down with one final strike. Imbues kicking attacks with energy, increasing their range."
+  },
+  "2001": {
+    "name": "Aspects of the Crucible: Wings",
+    "caption": "Skill: Aspects of the Crucible: Wings\n\nThis skill originates from the lifeforms of the Crucible.\nGrow a golden pair of wings and take to the air before diving down at the foe, weapon first. A spinning attack is performed when wielding a twinblade."
+  },
+  "4000": {
+    "name": "Spinning Gravity Thrust",
+    "caption": "Skill: Spinning Gravity Thrust\n\nA gravity skill honed by the disciples of an Alabaster Lord. Uses gravitational power to hang in the air before rotating the body and charging forward. An additional input allows for a follow-up attack."
+  },
+  "4010": {
+    "name": "Palm Blast",
+    "caption": "Skill: Palm Blast\n\nSkill of the spiritual seekers known as the Dryleaf Sect. Imbues hand with energy before using a palm strike to unleash an explosive blast. The already formidable power and impact can be bolstered by charging the attack."
+  },
+  "4020": {
+    "name": "Piercing Throw",
+    "caption": "Skill: Piercing Throw\n\nThrow armament with a powerful spin, causing it to bore through foes. When using this skill, the armament can be thrown further than normal and also pierce through enemies."
+  },
+  "4030": {
+    "name": "Scattershot Throw",
+    "caption": "Skill: Scattershot Throw\n\nEmploy smithing arts to conjure multiple copies of the armament in both hands and throw them all at once. Follow up with an additional input to throw again."
+  },
+  "4040": {
+    "name": "Wall of Sparks",
+    "caption": "Skill: Wall of Sparks\n\nScatter perfumed powder in vicinity, producing intense sparks after a brief delay. Can be charged to increase power and range.\nThe properties of the sparks are determined by the perfume bottle used."
+  },
+  "4050": {
+    "name": "Rolling Sparks",
+    "caption": "Skill: Rolling Sparks\n\nScatter perfumed powder before you, triggering rolling explosions of deadly sparks.\nThe properties of the sparks are determined by the perfume bottle used."
+  },
+  "4060": {
+    "name": "Raging Beast",
+    "caption": "Skill: Raging Beast\n\nStep with the swiftness of a beast, leap high, and slash foe from above. Initial step can be taken forward, backward, left, or right. Strong attack allows for a follow-up attack."
+  },
+  "4070": {
+    "name": "Savage Claws",
+    "caption": "Skill: Savage Claws\n\nPounce like a beast to viciously slash into foe with left and right claws."
+  },
+  "4080": {
+    "name": "Red Bear Hunt",
+    "caption": "Unique Skill: Red Bear Hunt\n\nSlaughters prey with sharp claws in a great swipe of the arm. The attack creates a vacuum which deals continuous damage. Repeated inputs allow for up to two follow-up attacks."
+  },
+  "4090": {
+    "name": "Blind Spot",
+    "caption": "Skill: Blind Spot\n\nLeap into close quarters to take advantage of the enemy's blind spot and gore them from the side. Inputs determine which side you strike from. This attack slips below the opponent's guard."
+  },
+  "4100": {
+    "name": "Swift Slash",
+    "caption": "Skill: Swift Slash\n\nA skill passed down amongst hornsent swordsmen. Take a swift forward step to slice through foes. This sharp strike also fires off a shearing vacuum. Can be charged to increase the skill's power and the distance of the forward step."
+  },
+  "4110": {
+    "name": "Overhead Stance",
+    "caption": "Skill: Overhead Stance\n\nA skill that starts with the blade held high in a ready stance.\nExecute a normal attack from this stance to step forward and slash downwards, or a strong attack to deliver a series of downward slashes."
+  },
+  "4120": {
+    "name": "Wing Stance",
+    "caption": "Skill: Wing Stance\n\nCalmly assume a right-sided stance. Normal attack triggers a rapid three-slash combination. Strong attack triggers a leaping thrust."
+  },
+  "4130": {
+    "name": "Blinkbolt",
+    "caption": "Skill: Blinkbolt\n\nSkill used by the golden knights who served Godwyn. From a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed."
+  },
+  "4140": {
+    "name": "Flame Skewer",
+    "caption": "Skill: Flame Skewer\n\nSkill of Queelign of the Fire Knights. Enwreathe armament in flame and assume a low stance before skewering the enemy in a single motion. Strong attack unleashes a follow-up flame attack."
+  },
+  "4150": {
+    "name": "Savage Lion's Claw",
+    "caption": "Skill: Savage Lion's Claw\n\nSkill of the particularly brave, even among the Redmanes. Somersault forwards, striking foes with armament. An additional strike may be performed with an additional input."
+  },
+  "4160": {
+    "name": "Divine Beast Frost Stomp",
+    "caption": "Skill: Divine Beast Frost Stomp\n\nA skill which imitates the wrath of the divine beast's dance. Lift a leg up high and stamp it down with great force. Sends a powerful wave of frost straight out along the ground. Can be charged to increase power and range."
+  },
+  "4170": {
+    "name": "Flame Spear",
+    "caption": "Skill: Flame Spear\n\nSkill of Kood, captain of the Fire Knights.\nReady weapon for a thrusting attack and unleash a spear of flame straight ahead. Charge the attack to increase damage dealt and distance travelled."
+  },
+  "4180": {
+    "name": "Carian Sovereignty",
+    "caption": "Skill: Carian Sovereignty\n\nSkill passed down the Carian royal family. Transform blade into a magical greatsword and bring it down. Additional input follows up with a horizontal sweep. Charge either attack to enhance potency."
+  },
+  "4190": {
+    "name": "Shriek of Sorrow",
+    "caption": "Skill: Shriek of Sorrow\n\nSkill utilized by the downtrodden. Scream, causing nearby enemies to flinch, while also recalling deep-seated resentment, boosting attack power based on the amount of HP remaining. The lower the HP, the greater the effect."
+  },
+  "4200": {
+    "name": "Shield Strike",
+    "caption": "Skill: Shield Strike\n\nA skill that uses the shield to attack.\nRepeated inputs allow for up to three follow-up attacks."
+  },
+  "4210": {
+    "name": "Igon's Drake Hunt",
+    "caption": "Skill: Igon's Drake Hunt\n\nSkill of Igon, drake warrior. Ready the bow before unleashing a twisted shot with a great bellow that considerably enhances its power."
+  },
+  "4220": {
+    "name": "Ghostflame Call",
+    "caption": "Skill: Ghostflame Call\n\nThrust out armament to summon ghostflame.\nFollow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion."
+  },
+  "5000": {
+    "name": "Dragonwound Slash",
+    "caption": "Unique Skill: Dragonwound Slash\n\nDesigned to hunt colossal dragons, this skill cloaks the armament with a jagged gravel-stone aura before performing a high leaping slash. Charge the attack to also fire off the aura."
+  },
+  "5010": {
+    "name": "Needle Piercer",
+    "caption": "Unique Skill: Needle Piercer\n\nSkill of Needle Knight Leda. Generates ten gold needles which pierce their target all at once. Those pierced are purged of all ailments and special effects alike."
+  },
+  "5020": {
+    "name": "Light",
+    "caption": "Unique Skill: Light\n\nUnleashes the light carved in the armament's blade. Send the sword aloft to let loose a blinding light whose many rays sweep through the surrounding area. Also temporarily boosts one's own holy attacks."
+  },
+  "5030": {
+    "name": "Darkness",
+    "caption": "Unique Skill: Darkness\n\nRaise the sword aloft and cleave surroundings with darkness. Deals holy damage and temporarily reduces holy damage negation."
+  },
+  "5040": {
+    "name": "Onze's Line of Stars",
+    "caption": "Unique Skill: Onze's Line of Stars\n\nThis skill, named after a demi-human swordmaster, imbues sorcerous energy into lined glintstones and executes a slash attack. Repeated inputs allow for up to two follow-up attacks, each dealing greater damage than the last."
+  },
+  "5050": {
+    "name": "The Poison Flower Blooms Twice",
+    "caption": "Skill: The Poison Flower Blooms Twice\n\nConjures stingers of scarlet rot from below to stab the enemy. Landing a follow-up attack on a foe already inflicted with poison or rot deals massive damage in one fell swoop."
+  },
+  "5080": {
+    "name": "Spinning Guillotine",
+    "caption": "Unique Skill: Spinning Guillotine\n\nHold the putrid blade at both ends and arch body backwards to deliver a powerful overhead chop. Repeated inputs deliver follow-up attacks for as long as stamina allows. Strong attack performs a leap followed by a spinning attack."
+  },
+  "5090": {
+    "name": "Unending Dance",
+    "caption": "Unique Skill: Unending Dance\n\nA furious dance formed by a succession of slashing attacks. Hold the button down to sustain the dance for as long as stamina allows."
+  },
+  "5100": {
+    "name": "Revenger's Blade",
+    "caption": "Unique Skill: Revenger's Blade\n\nDash up to an enemy and slash them open with the blades held in each hand. By holding down the button, the initial dash will be extended. Follow up with strong attack to hack the enemy to pieces."
+  },
+  "5110": {
+    "name": "Mists of Eternal Sleep",
+    "caption": "Unique Skill: Mists of Eternal Sleep\n\nReleases a velvety purple mist that spreads across a wide frontal area. Afflicts foes with eternal sleep."
+  },
+  "5120": {
+    "name": "Dynastic Sickleplay",
+    "caption": "Unique Skill: Dynastic Sickleplay\n\nA finessed evasive skill that creates space to maneuver. Inputs dictate direction of the backstep. Follow up with strong attack to perform an advancing upward slash. Press strong attack again to bring the weapon back down."
+  },
+  "5130": {
+    "name": "Blinkbolt: Twinaxe",
+    "caption": "Unique Skill: Blinkbolt: Twinaxe\n\nFrom a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed. Strong attack performs a lightning-charged spinning slash."
+  },
+  "5140": {
+    "name": "Blinkbolt: Long-hafted Axe",
+    "caption": "Unique Skill: Blinkbolt: Long-hafted Axe\n\nFrom a low stance, the body is transformed into a bolt of lightning and charges straight ahead at fulgurous speed. Strong attack performs a lightning-charged leaping slash."
+  },
+  "5150": {
+    "name": "Promised Consort",
+    "caption": "Unique Skill: Promised Consort\n\nImbue the two greatswords with the light of Miquella, then deliver a slashing attack accompanied by columns of light. Additional input allows for up to two follow-up attacks."
+  },
+  "5160": {
+    "name": "Shadow Sunflower Headbutt",
+    "caption": "Unique Skill: Shadow Sunflower Headbutt\n\nSlam down the blossom of a large shadow sunflower, sending out a shockwave that flattens foes. Repeated inputs allow for up to two follow-up attacks."
+  },
+  "5170": {
+    "name": "Moon-and-Fire Stance",
+    "caption": "Unique Skill: Moon-and-Fire Stance\n\nAssume ready stance, swords imbued with magic. Follow up with normal attack to cast glintstone light waves, or strong attack to perform a spinning attack that bathes the area with flame. Light waves can have up to two follow-up casts with additional inputs."
+  },
+  "5180": {
+    "name": "Devonia's Vortex",
+    "caption": "Unique Skill: Devonia's Vortex\n\nUsing the power of the Crucible vortex, violently spin the hammer around and slam the ground, causing a shockwave. This skill can be charged to increase its power."
+  },
+  "5190": {
+    "name": "Messmer's Assault",
+    "caption": "Unique Skill: Messmer's Assault\n\nA fierce succession of attacks using a flame-coated spear tip. Repeated inputs allow up to two follow-up attacks. The final move thrusts the spear into the ground, causing countless spears to form in the surrounding area."
+  },
+  "5210": {
+    "name": "Sleep Evermore",
+    "caption": "Unique Skill: Sleep Evermore\n\nPierces the enemy deeply with a poison-coated needle that delivers eternal sleep. If the follow-up strike lands upon a foe who is already in a state of slumber or eternal sleep, it will deal significant damage."
+  },
+  "5220": {
+    "name": "Golden Crux",
+    "caption": "Unique Skill: Golden Crux\n\nLeap up and skewer foe from overhead. If successful, the weapon's barbs unfold to excruciate from within; else, additional input releases barbs in the area. There is something of the Golden Order in the sight of those fixed upon this crux."
+  },
+  "5230": {
+    "name": "Moore's Charge",
+    "caption": "Unique Skill: Moore's Charge\n\nReady the shield with both hands, then charge forth while maintaining guard, ending in a shove imbued with verdigris magic. Knocks back nearby enemies, but does not cause significant harm. Hold to extend the length of the charge."
+  },
+  "5240": {
+    "name": "White Light Charge",
+    "caption": "Unique Skill: White Light Charge\n\nSummons white light from the crevice in the weapon's ancient meteoric ore, using its power for a charging attack which pierces foes. Additional input causes the light to explode."
+  },
+  "5250": {
+    "name": "Rancor Slash",
+    "caption": "Unique Skill: Rancor Slash\n\nSpin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack."
+  },
+  "5260": {
+    "name": "Witching Hour Slash",
+    "caption": "Unique Skill: Witching Hour Slash\n\nHold the sword level and infuse it with the dark of Night before unleashing a series of incorporeal attacks. This attack cannot be blocked. Can be charged to increase its power."
+  },
+  "5270": {
+    "name": "Euporia Vortex",
+    "caption": "Unique Skill: Euporia Vortex\n\nUsing the power of the vortex, violently twirl the armament, dealing multiple slashes directly ahead. The greater the restored luster of the blades, the greater the power of this skill. However, use of this skill will fully consume the blades' luster."
+  },
+  "5280": {
+    "name": "Smithing Art Spears",
+    "caption": "Unique Skill: Smithing Art Spears\n\nSlam the red-hot anvil into the ground, sending up countless spears as it is pulled out. The spears disappear instantly."
+  },
+  "5290": {
+    "name": "Rancor Slash",
+    "caption": "Unique Skill: Rancor Slash\n\nSpin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack."
+  },
+  "5300": {
+    "name": "Romina's Purification",
+    "caption": "Unique Skill: Romina's Purification\n\nImbues bud-blade with scarlet rot butterflies before unleashing two large sweeping slashes. This was once considered a sacred act of purification."
+  },
+  "5310": {
+    "name": "Poison Spear-Hand Strike",
+    "caption": "Unique Skill: Poison Spear-Hand Strike\n\nMakes hand into the shape of a spear before unleashing a plunging stab that penetrates the body of the enemy. Afflicts foe with a large dose of deadly poison."
+  },
+  "5320": {
+    "name": "Madding Spear-Hand Strike",
+    "caption": "Unique Skill: Madding Spear-Hand Strike\n\nMakes hand into the shape of a spear before unleashing a plunging stab that penetrates the body of the enemy. Afflicts foe with a large dose of madness."
+  },
+  "5330": {
+    "name": "Feeble Lord's Frenzied Flame",
+    "caption": "Unique Skill: Feeble Lord's Frenzied Flame\n\nHold torch out in front and spit out frenzied flame. Afflicts those caught in its area of effect with madness, along with the user themselves. The skill will continue for as long as the button is held down. Can be used while moving."
+  },
+  "5340": {
+    "name": "Repeating Fire",
+    "caption": "Unique Skill: Repeating Fire\n\nThis skill readies the weapon's rapid-fire mechanism. Once in ready stance, crank the handle to fire bolts in rapid succession."
+  },
+  "5350": {
+    "name": "Deadly Dance",
+    "caption": "Unique Skill: Deadly Dance\n\nAn aggressive spinning skill that tears into foes using the circular blades held in each hand. Additional input allows for a sharp axe-kick follow-up."
+  },
+  "5360": {
+    "name": "Fan Shot",
+    "caption": "Unique Skill: Fan Shot\n\nThis skill uses the bow held horizontally. Readies eight arrows at once, firing them in a fan-shaped arc."
+  },
+  "5370": {
+    "name": "Discus Hurl",
+    "caption": "Unique Skill: Discus Hurl\n\nThrows the roundshield like a discus. Once thrown, the shield will be instantly restored to the wielder's hand through the smithing arts."
+  },
+  "5380": {
+    "name": "Flower Dragonbolt",
+    "caption": "Unique Skill: Flower Dragonbolt\n\nCalls down the red lightning of the ancient dragons to strike a target. Deals lightning damage and also temporarily reduces the target's lightning damage negation. Can be charged to increase its power."
+  },
+  "5390": {
+    "name": "Kowtower's Resentment",
+    "caption": "Unique Skill: Kowtower's Resentment\n\nSkill performed as a violent bow using a finger's foremost protrusion. Resentment builds as it is forced to bow, making it explode with anger. Hold button down to further increase resentment. "
+  },
+  "5420": {
+    "name": "Painful Strike",
+    "caption": "Unique Skill: Painful Strike\n\nA chastening whip strike, honed to maximize pain. Temporarily reduces the rate at which stamina recovers. Thus does the pain encourage obedience."
+  },
+  "5430": {
+    "name": "Solitary Moon Slash",
+    "caption": "Unique Skill: Solitary Moon Slash\n\nSharply slash downward using the greatsword, shooting forward an arc of light. Strong attack allows for an advancing follow-up."
+  },
+  "5440": {
+    "name": "Revenge of the Night",
+    "caption": "Unique Skill: Revenge of the Night\n\nUnleashes the dark of Night imbued with magic power. If used immediately after blocking an incoming attack, its power is absorbed, bolstering the strength of this skill."
+  },
+  "5450": {
+    "name": "Weed Cutter",
+    "caption": "Unique Skill: Weed Cutter\n\nPerforms scythe-like horizontal swings with the sword, cutting men down as if they were weeds. Additional inputs allow for the continuation of the attack for as long as stamina remains."
+  },
+  "5460": {
+    "name": "Blindfold of Happiness",
+    "caption": "Unique Skill: Blindfold of Happiness\n\nSwing the head while covering the eyes, unleashing a wail of lamentation while temporarily making the user of this skill harder to see. To those who seek happiness, blindness is bliss."
+  },
+  "5470": {
+    "name": "Jori's Inquisition",
+    "caption": "Unique Skill: Jori's Inquisition\n\nThrust the greatstaff into the air, firing off a succession of golden barb-like arcs. Holding the button down extends the barrage for a short duration."
+  },
+  "5480": {
+    "name": "Roaring Bash",
+    "caption": "Unique Skill: Roaring Bash\n\nRoar like a golden lion and deliver a shield bash from a guarding position. Knocks back and staggers foes over a wide radius."
+  },
+  "5490": {
+    "name": "Deadly Poison Spray",
+    "caption": "Unique Skill: Deadly Poison Spray\n\nSwings the perfume bottle overhead, wafting perfumed powder of deadly poison over a wide area. Poison shall dance upon the air and pour down in quiet calm."
+  },
+  "5500": {
+    "name": "Flare, O Serpent",
+    "caption": "Unique Skill: Flare, O Serpent\n\nIgnites a flame inside the snakes, temporarily empowering flame attacks. Once ignited, strong attacks and other moves that strike the ground will cause an explosion."
+  },
+  "5510": {
+    "name": "Scattershot (Claws)",
+    "caption": "Unique Skill: Scattershot (Claws)\n\nEmploy smithing arts to conjure multiple copies of the claws in both hands and throw them all at once. Follow up with an additional input to throw again."
+  },
+  "5520": {
+    "name": "Hone Blade",
+    "caption": "Unique Skill: Hone Blade\n\nPerform a stroking action to sharpen blade, honing its cutting edge and increasing amount of HP recovered. The greater potentates treasure the tools of their practice."
+  },
+  "5530": {
+    "name": "Horn Calling",
+    "caption": "Unique Skill: Horn Calling\n\nInvokes tangled horns to cover the weapon's blade. Drive the weapon into the ground, calling up a cluster of piercing horns."
+  },
+  "5540": {
+    "name": "Horn Calling: Storm",
+    "caption": "Unique Skill: Horn Calling: Storm\n\nInvokes tangled horns to cover the weapon's blade. Call a storm into the horns, then mow through enemies. Additional inputs allow for up to two follow-up attacks."
+  },
+  "5550": {
+    "name": "Tremendous Phalanx",
+    "caption": "Unique Skill: Tremendous Phalanx\n\nSkill of the enchanted troll knights. Creates a defensive arch of enormous magic glintblades overhead, which automatically attack nearby foes. Follow up with a strong attack to chain this skill into a lunging thrust."
+  },
+  "5560": {
+    "name": "Bloodfiends' Bloodboon",
+    "caption": "Unique Skill: Bloodfiends' Bloodboon\n\nRaise the sacred spear and pierce the body of the mother of truth, creating an explosion of bloodflame in the area surrounding the target. Additional input allows for up to three follow-up attacks."
+  },
+  "5570": {
+    "name": "Dragonform Flame",
+    "caption": "Unique Skill: Dragonform Flame\n\nSpew fire from a dragon-form maw, sweeping in a frontward arc. The flames on the ground will continue to burn for a short time."
+  },
+  "5580": {
+    "name": "Lightspeed Slash",
+    "caption": "Unique Skill: Lightspeed Slash\n\nAssume a luminous form and leap forward to deliver a downward slash at the speed of light. This attack will be followed up by an additional light attack. Charge to increase power of the skill and number of follow-up attacks."
+  },
+  "5600": {
+    "name": "Rancor Shot",
+    "caption": "Unique Skill: Rancor Shot\n\nImbue arrows with vengeful spirits, before firing off a barrage. Imbued arrows chase down foes as they cut through the air."
+  }
+}
