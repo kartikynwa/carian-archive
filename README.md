@@ -36,9 +36,6 @@ The preview form for the Japanese dump is here: https://htmlpreview.github.io/?h
 
 ### Built With
 
-Files were unpacked through UMX and then converted using Yabber.
-
-* [Yabber](https://github.com/JKAnderson/Yabber)
-* [UMX](https://www.patreon.com/MaxTheMiracle)
+DLC content was cribbed from [ividyon/Impalers-Archive](https://github.com/ividyon/Impalers-Archive). Check its README for links to maintained tools that can extract the text from From Software games.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
